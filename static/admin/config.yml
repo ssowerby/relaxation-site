@@ -18,9 +18,9 @@ collections:
       - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100 }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "page"
-    label: "Page"
-    folder: "content"
+  - name: "blog"
+    label: "Blog"
+    folder: "content/posts"
     create: true
     slug: "{{slug}}"
     fields:

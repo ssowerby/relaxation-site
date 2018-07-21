@@ -1,12 +1,12 @@
 <div class="row m-0 p-0 h-100">
    <div class="col-lg-6 portrait light-background justify-content-center d-flex">
       <div class="dark-background text-white p-5 align-self-center multiline-content" align="center">
-         {{ with .Site.GetPage "page" "intro/left.md" }}{{ .Content }}{{ end }}
+         {{ with .Site.GetPage "page" "sections/intro-left.md" }}{{ .Content }}{{ end }}
       </div>
    </div>
    <div class="col-lg-6 portrait dark-background justify-content-center d-flex">
       <div class="align-self-center text-white p-5 " align="center">
-         {{ with .Site.GetPage "page" "intro/right.md" }}{{ .Content }}{{ end }}
+         {{ with .Site.GetPage "page" "sections/intro-right.md" }}{{ .Content }}{{ end }}
       </div>
    </div>
 </div>
