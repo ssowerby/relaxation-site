@@ -1,33 +1,60 @@
-<!doctype html>
-<html lang="{{ .Site.LanguageCode | default "en" }}">
-    <head>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ block "title" . }}{{ .Site.Title }} {{ end }}</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+{{ $bodytype := cond .IsHome "home" .Section }}
+<body class="p-0 m-0 {{ $bodytype }}">
+<div class="top-bar">
+{{ partial "menu" . }}
+</div>
+<div data-target=".navbar-collapse" class="p-0 m-0 main-section container-fluid">
+{{ block "main" . }}
+{{ end }}
+</div>
+<div class="bottom-bar">
+{{ block "footer" . }}
+{{ partial "footer" . }}
+{{ end }}
+</div>
 
-        {{ block "site/meta" . }}{{ partial "site/meta.html" . }}{{ end }}
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.compatibility.min.js" integrity="sha256-5ZrdaeOQG3t2uVEkC6FxsGF2y3taTxhdjyGLXi3RUDk=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.19/jquery.scrollify.min.js" integrity="sha256-RGlAwHKG24hsj1109SGQgvR+Orx7u8c6zyYH4Tk3ydU=" crossorigin="anonymous"></script>
 
-        <title>{{ block "title" . }}
-            {{- with .Title }}{{ . }} | {{ end }}{{ .Site.Title -}}
-        {{ end }}</title>
 
-        {{ range .AlternativeOutputFormats }}
-            <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-        {{ end }}
+<script>
+   $(function() {
+      $.scrollify({
+         section : "section",
+         sectionName: "section-name",
+         easing: "swing",
+         before: function(index, sections) {
+            $(".nav-link").removeClass("active");
+         },
+         after: function(index, sections) {
+            var sel = ".nav-link[href$='#" + sections[index].attr("data-section-name") + "']";
+            $(sel).addClass("active");
+         }
+      });
 
-        {{ block "site/styles" . }}{{ partial "site/styles.html" . }}{{ end }}
+      $(".nav-link").click(function() {
+        $.scrollify.move(this.hash);
+      });
 
-    </head>
-    <body>
+      $('.navbar-nav a').on('click', function(){
+         $('.navbar-collapse').collapse('hide');
+      });
 
-        {{ block "header" . }}{{ partial "site/header.html" . }}{{ end }}
+   });
+</script>
 
-        <main class="site-main" role="main">
 
-            {{ block "main" . }}{{ end }}
-
-        </main>
-
-        {{ block "footer" . }}{{ partial "site/footer.html" . }}{{ end }}
-
-        {{ block "site/scripts" . }}{{ partial "site/scripts.html" . }}{{ end }}
-
-    </body>
+</body>
 </html>

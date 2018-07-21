@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en-gb"
 title = "A test"
+sectionPagesMenu = "main"
 
 enableRobotsTXT = true
 disableAliases = true
