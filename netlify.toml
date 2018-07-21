@@ -1,14 +1,13 @@
 [build]
-    command = "npm run build"
+    command = "hugo"
     publish = "public"
-    functions = "functions"
 
 [build.environment]
-    HUGO_VERSION = "0.38.2"
+    HUGO_VERSION = "0.44"
+    HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
     HUGO_ENV = "production"
-    NODE_ENV = "production"
 
 [context.deploy-preview]
-    command = "npm run build:preview"
+    command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
