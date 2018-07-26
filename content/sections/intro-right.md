@@ -1,12 +1,10 @@
 ---
-title: "Intro: Right"
-date: 2018-05-11T11:42:54Z
-draft: false
+title: 'Intro: Right'
 ---
+<span class="">Hi I’m Rachel a professional hypnotherapist in London,  Bishopsgate and Crystal Palace.
 
-
-<span class="huge">&#8220; Some quote&#8221;	</span>
+I help people to deal with anxiety, gain confidence and build self esteem so they can be comfortable in their own skin and live more of the life they want.</span>
 
 <br />
 
-*Logo goes here*
+_Logo goes here_
