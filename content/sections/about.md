@@ -1,11 +1,4 @@
 ---
-title: "About Me"
-date: 2018-05-11T11:42:54Z
-draft: false
+title: About Me
 ---
-
-About me, yada yada yada.  And then some more stuff that will be terribly interesting I'm sure.  Then even move blather.
-
-About me, yada yada yada.  And then some more stuff that will be terribly interesting I'm sure.  Then even move blather.
-
-About me, yada yada yada.  And then some more stuff that will be terribly interesting I'm sure.  Then even move blather.
+I'm not into watch swinging or clucking like a chicken. If you're looking for an authoritarian style hypnotherapist to command you to 'be better' that really isn't my bag. The modern form of hypnotherapy I use very much puts you the client in the driving seat. I use my expertise to guide you through hypnosis but your experience will be unique to you.
