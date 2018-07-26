@@ -1,9 +1,13 @@
 ---
-title: "Weight Loss"
-date: 2018-05-11T11:42:54Z
-draft: false
-order: 3
+title: Self-esteem
+order: 2
 ---
+Do you lack faith in yourself? Does it feel as if everyone else is more capable, confident, better looking? Do you hold back and not speak your mind because you don't have confidence in your opinions? Does criticism cut deep while compliments make you feel uncomfortable? Are you always striving for perfection and nothing less will do? Maybe on one level you know you're an okay person but that's not how you feel. Then **hypnosis can help to build your self esteem by changing your instinctual feelings**.
 
-Struggling to lose weight, battling cravings or comfort eating?
-Align your mind with your goals using hypnosis.
+Imagine how it will feel to **spend less time thinking and more time doing what you want?** Having the strength of your convictions, feeling free to **speak your mind**, feeling **comfortable in your own skin** wherever you are. Making decisions quickly and confidently and not sweating the small stuff. **How different will your life look? What will you be doing differently?**
+
+When you lack self-esteem your life can feel like a building without foundations. The opinions of others can sway you easily and make you doubt yourself. That can make comitting to a plan of action tricky as you're always wondering if the latest piece of advise is better than what you were already doing. You may find yourself procrastinating a lot. Making simple decisions can feel extrutiating when it's as if your whole identity, whether you're good or bad, hangs on the outcome. **Imagine valueing yourself **regardless of the outcome?
+
+You may have had a bad experience or difficult childhood, you may still hear the voice of a parent berating you constantly in your negative self talk. Equally nothing particularly bad may ever have happened to you. It could be that when you were young you picked up negative messages from your environment and internalised them. When you're a child your brain is still taking shape. Things which people say or do can be misinterpreted by the still growing brain and taken onboard. Equally those around you may have had low self-esteem themselves and you've learned that way of being from them. Whatever you've learned can be unlearned too. Y**ou can let go of those old ideas about yourself because they're not a part of you.**
+
+As low self-esteem denies logic telling you you're a good person is probably not going to work. If you've tried positive affirmations yourself saying them outloud as you looked in the mirror may have made you feel extremely uncomfortable. That's because it goes against everything you feel. I won't try to change what you think by showering you with positive affirmations while you're in a trance. Instead we will use hypnosis on the instinctual level, where your brain stores beliefs and feelings. There we can **work together to change how you feel**, which frees up your brain to **take onboard new evidence** and decide for itself that you are a decent person. And when your brain begins to look for the positive **your whole outlook can change for the better**.
