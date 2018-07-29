@@ -34,7 +34,7 @@ collections:
     slug: "{{slug}}"
     fields:
     - { label: "Question", name: "title", widget: "string" }
-    - { label: "Body", name: "body", widget: "markdown" }
+    - { label: "Answer", name: "body", widget: "markdown" }
 
   - name: "section"
     label: "Section"
