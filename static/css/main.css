@@ -33,7 +33,7 @@ html body {
 }
 
 section {
-   min-height: calc(100% - 0);
+/*   min-height: calc(100% - 0); */
    width: 100vw;
    margin: 0;
    padding: 0;
