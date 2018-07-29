@@ -27,6 +27,15 @@ collections:
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
 
+  - name: "faq"
+    label: "FAQ"
+    folder: "content/faqs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+    - { label: "Question", name: "title", widget: "string" }
+    - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "section"
     label: "Section"
     folder: "content/sections"
@@ -35,3 +44,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+
+
+
+
