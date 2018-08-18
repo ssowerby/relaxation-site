@@ -1,11 +1,13 @@
 {{ define "main" }}
-   <h1>Frequently Asked Questions</h1>
    <div class="content">
-   {{ range sort .Data.Pages ".Params.order" }}
-      <article>
-         <h2>{{ .Title }}</h2>
-         {{ .Content }}
-      </article>
-   {{ end }}
+      <h1>Frequently Asked Questions</h1>
+      <div class="content">
+      {{ range sort .Data.Pages ".Params.order" }}
+         <article>
+            <h2>{{ .Title }}</h2>
+            {{ .Content }}
+         </article>
+      {{ end }}
+      </div>
    </div>
 {{ end }}
