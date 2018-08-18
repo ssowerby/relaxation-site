@@ -7,4 +7,6 @@ I help people to deal with anxiety, gain confidence and build self esteem so the
 
 <br />
 
+![](/uploads/final logo.png)
+
 _Logo goes here_
