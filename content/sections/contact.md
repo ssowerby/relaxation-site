@@ -1,20 +1,21 @@
 ---
-title: "Contact Details"
-date: 2018-05-11T11:42:54Z
-draft: false
+title: 'Fees & Contact '
 ---
+**Crystal Palace**
 
-Get in touch for a free 30 minute consultation
+Crystal Palace appointments are £85 (approx 60 to 90 minutes).
 
-Tel: 0745 ?????? <br>
+**Liverpool Street/Bishopsgate, EC2M**
+
+£90 per appointment (approx 60 to 90 minutes).Get in touch for a free 30 minute consultation
+
+Tel: 07783 672965<br>
 Email: <a href="mailto:rachel@naturallyuhypnosis.co.uk">rachel@naturallyuhypnosis.co.uk</a>
 
 Appointments are available at the following locations.
 
 Mon-Fri  9am - 8pm <br>
 Saturdays 10am-2pm
-
-
 
 <div class="row">
 <div class="col-md-6">
