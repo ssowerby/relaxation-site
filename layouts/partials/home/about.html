@@ -1,10 +1,14 @@
 <div class="row m-0 p-0 h-100">
    <div class="col-lg-6 portrait light-background d-flex content">
       <div class="align-self-center">
-         <h2>Meet Rachel</h2>
-         <div>
-            {{ with .Site.GetPage "page" "sections/about.md" }}{{ .Content }}{{ end }}
-         </div>
+         {{ with .Site.GetPage "page" "sections/about.md" }}
+            <h2>{{ .Title }}</h2>
+            <div>
+               {{ .Summary }}
+               <br/>
+               <a href="{{ .Permalink }}">Read More</a>
+            </div>
+         {{ end }}
       </div>
    </div>
    <div class="col-lg-6 portrait dark-background p-5 d-flex content ">
