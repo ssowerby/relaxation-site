@@ -15,8 +15,6 @@ Find out more about hypnosis and what happens in a session.
 
 \*The Department of Health has recommended that where people are looking for complementary health practitioners they use someone who is registered with Complementary & Natural Healthcare Council.
 
-![Registered with Complementary & Natural Healthcare Council](/uploads/94.jpg)
+![Registered with Complementary & Natural Healthcare Council](/uploads/cnhcsmall.jpg)
 
-
-
-![General Hynotherapy Register](/uploads/ghr logo (registered practitioner) - rgb - web.jpg)
+![Registered with General Hypnotherapy Register](/uploads/ghrlogo-s.png)
