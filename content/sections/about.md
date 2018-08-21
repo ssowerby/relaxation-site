@@ -15,6 +15,18 @@ Find out more about hypnosis and what happens in a session.
 
 \*The Department of Health has recommended that where people are looking for complementary health practitioners they use someone who is registered with Complementary & Natural Healthcare Council.
 
+**Qualifications and Associations**
+
+Practitioner Diploma in Ericksonian Hypnotherapy and Counselling
+
+<div class="badgeGenrUNK" data-badge="rewindtechnique" data-style="medium" data-user="cmFjaGcxMkBnbWFpbC5jb20"></div>
+
+<script type="text/javascript">(function(d,s,g){a=d.createElement(s);a.type='text/javascript';a.async=true;a.src=g;m=d.getElementsByTagName(s)[0];m.parentNode.insertBefore(a, m);})(document,'script','//www.unk.com/badges/badge.js.php');</script>
+
+```
+
+```
+
 ![Registered with Complementary & Natural Healthcare Council](/uploads/cnhcsmall.jpg)
 
 ![Registered with General Hypnotherapy Register](/uploads/ghrlogo-s.png)
