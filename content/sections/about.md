@@ -15,17 +15,25 @@ Find out more about hypnosis and what happens in a session.
 
 \*The Department of Health has recommended that where people are looking for complementary health practitioners they use someone who is registered with Complementary & Natural Healthcare Council.
 
-**Qualifications and Associations**
+**Qualifications and Continuing Professional Development**
+
+General Qualification in Hypnotherapy Practice (GQHP)
 
 Practitioner Diploma in Ericksonian Hypnotherapy and Counselling
 
-<div class="badgeGenrUNK" data-badge="rewindtechnique" data-style="medium" data-user="cmFjaGcxMkBnbWFpbC5jb20"></div>
+<div class="badgeGenrUNK" data-badge="rewindtechnique" data-style="small" data-user="cmFjaGcxMkBnbWFpbC5jb20"></div>
 
 <script type="text/javascript">(function(d,s,g){a=d.createElement(s);a.type='text/javascript';a.async=true;a.src=g;m=d.getElementsByTagName(s)[0];m.parentNode.insertBefore(a, m);})(document,'script','//www.unk.com/badges/badge.js.php');</script>
 
-```
+<div class="badgeGenrUNK" data-badge="precisionhypnosis" data-style="small" data-user="cmFjaGcxMkBnbWFpbC5jb20"></div>
 
-```
+<script type="text/javascript">(function(d,s,g){a=d.createElement(s);a.type='text/javascript';a.async=true;a.src=g;m=d.getElementsByTagName(s)[0];m.parentNode.insertBefore(a, m);})(document,'script','//www.unk.com/badges/badge.js.php');</script>
+
+<div class="badgeGenrUNK" data-badge="uncommonpsychotherapy" data-style="small" data-user="cmFjaGcxMkBnbWFpbC5jb20"></div>
+
+<script type="text/javascript">(function(d,s,g){a=d.createElement(s);a.type='text/javascript';a.async=true;a.src=g;m=d.getElementsByTagName(s)[0];m.parentNode.insertBefore(a, m);})(document,'script','//www.unk.com/badges/badge.js.php');</script>
+
+**Memberships**
 
 ![Registered with Complementary & Natural Healthcare Council](/uploads/cnhcsmall.jpg)
 
