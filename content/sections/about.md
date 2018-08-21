@@ -21,6 +21,8 @@ General Qualification in Hypnotherapy Practice (GQHP)
 
 Practitioner Diploma in Ericksonian Hypnotherapy and Counselling
 
+Diploma in EMDR incorporating Hypnosis
+
 <div class="badgeGenrUNK" data-badge="rewindtechnique" data-style="small" data-user="cmFjaGcxMkBnbWFpbC5jb20"></div>
 
 <script type="text/javascript">(function(d,s,g){a=d.createElement(s);a.type='text/javascript';a.async=true;a.src=g;m=d.getElementsByTagName(s)[0];m.parentNode.insertBefore(a, m);})(document,'script','//www.unk.com/badges/badge.js.php');</script>
