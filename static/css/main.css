@@ -17,6 +17,10 @@ html body {
    text-align: center;
 }
 
+.top-bar {
+   background-color: black;
+}
+
 .drop-caps::first-letter {
    font-size: 2ch;
    font-weight: bolder;
@@ -81,4 +85,15 @@ section {
    .portrait-only {
       display: none
    }
+}
+
+
+.bottom-bar .left {
+   float: left;
+   padding-left: 1em;
+}
+
+.bottom-bar .right {
+   float: right;
+   padding-right: 1em;
 }

@@ -1,12 +1,7 @@
 <div class="row m-0 p-0 h-100">
-   <div class="col-lg-6 portrait light-background justify-content-center d-flex content">
-      <div class="dark-background text-white p-5 align-self-center multiline-content" align="center">
-         {{ with .Site.GetPage "page" "sections/intro-left.md" }}{{ .Content }}{{ end }}
-      </div>
-   </div>
-   <div class="col-lg-6 portrait dark-background justify-content-center d-flex content">
+   <div class="w-100 dark-background justify-content-center d-flex content">
       <div class="align-self-center text-white" align="center">
-         {{ with .Site.GetPage "page" "sections/intro-right.md" }}{{ .Content }}{{ end }}
+         {{ with .Site.GetPage "page" "sections/intro.md" }}{{ .Content }}{{ end }}
       </div>
    </div>
 </div>
