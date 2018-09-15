@@ -101,3 +101,8 @@ section {
    float: right;
    padding-right: 1em;
 }
+
+.read-more {
+   font-size: 125%;
+   font-weight: bold;
+}

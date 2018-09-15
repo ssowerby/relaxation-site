@@ -3,9 +3,10 @@
       <div class="col">
          <h1>Blog Posts</h1>
          {{ range sort .Data.Pages ".Params.order" }}
-         <article>
+         <article class="p-2">
             <h2>{{ .Title }}</h2>
             {{ .Summary }}
+            <div class="read-more"><a href="{{ .Permalink }}">Read More</a></div>
          </article>
          {{ end }}
       </div>
