@@ -9,7 +9,7 @@ Crystal Palace appointments are £85 (approx 60 to 90 minutes).
 
 £90 per appointment (approx 60 to 90 minutes).Get in touch for a free 30 minute consultation
 
-Tel: 07783 672965<br>
+Tel: <a href="tel:07783 672965">07783 672965</a><br>
 Email: <a href="mailto:rachel@naturallyuhypnosis.co.uk">rachel@naturallyuhypnosis.co.uk</a>
 
 Appointments are available at the following locations.
