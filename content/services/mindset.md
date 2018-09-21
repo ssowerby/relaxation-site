@@ -20,4 +20,8 @@ Living with social anxiety can be exhausting. It's difficult to avoid interactin
 
 The brain is a pattern matching machine constantly making associations between 'this' and 'that' but not always getting it right. When it finds a particularly negative pattern match it sends our fight or flight impulse into overdrive. It thinks you're in danger and whether you agree doesn't seem to matter. At that moment your rational mind isn't available to think you out of trouble. The good news is **hypnotherapy can help change your mind**.
 
+## What my clients say - 
+
+> "Generally in life I am a confident person. However in the classroom, when it came to putting my hand up to answer questions, I could not bring myself to do it. I would think of an answer and say nothing. The tutor would take answers from around the room until eventually someone would say what I was thinking. Then I felt worse, what was the point in putting my hand up now. I began to dread this part of the class. During the session with Rachel she gave me the confidence to open up about my fear. After just one session it was no longer an issue. In my very next class the worry had gone and I found my hand going up without thinking. It made my course so much easier and more enjoyable." Chris M
+
 Using hypnotherapy we can help you **feel calmer and more relaxed in social situations** where you used to feel anxious. By reach the patten matching mechanism we can make a change at the instinctual level and stop the fight or flight response from firing in the first place. And not only that your rational mind will also be available to you. Which means you'll have greater access to your intellectual faculties and **more control over how you interact with others.**  Imagine that?
