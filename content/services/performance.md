@@ -2,9 +2,13 @@
 title: Performance
 order: 5
 ---
-Do you have a phobia of public speaking or performing? Even though there's no physical danger involved does your body and mind react as if you're presenting to a pack of hungry wild dogs with a scent for blood? Can you imagine how life with be different without that old anxiety? How much more smoothly will presenting be when you feel calmer, more comfortable and focussed? How much more pleasant will it be to feel excitement before you go on stage rather than fear? <!--more-->
+Do you have a phobia of public speaking, a fear of performing on stage or anxiety around your sports performance? Does your body and mind react as if you're performaing in front of a pack of hungry wild dogs with a scent for blood? Can you imagine how life with be different without that old anxiety? How much more smoothly will presenting be when you feel calmer? How much easier will your next golf shot be when you're more focussed and less bothered by external distractions? How much more pleasant will it be to feel excitement before you perform rather than fear? <!--more-->
 
-Do you worry about forgetting your words, tripping up or blushing only to find it's a self fulfilling prophecy?  Whether it's a fear of speaking in front of others, performing on stage or singing at the front of the choir performance anxiety can affect your life. Whether that is through holding you back at work, stopping you from doing things you'd like to, stealing your enjoyment of activities or causing you to live in anxious dread. If you're having difficulty dealing with it on your own then hypnosis can help.
+Do you worry about forgetting your words, tripping up, missing a shot or blushing only to find it's a self fulfilling prophecy?  Whether it's a phobia of speaking in front of others, a fear of performing on stage or anxiety around sporting performance it can affect your life. Whether that is through holding you back at work, stopping you from doing things you'd like to, stealing your enjoyment of activities or causing you to live in anxious dread. If you're having difficulty dealing with it on your own then hypnosis can help.
+
+## What my clients say - 
+
+> “I would highly recommend Rachel as a practitioner for improving sports performance. I was always berating myself for poor play, ‘’ I should of done this or that’’ or distracted by ‘’peripheral noise.’’ The breakthrough for me was using the relaxation techniques and the positive thinking approach she taught me. This has helped me accept a bad shot, hole or outcome and focus on the next task at hand. Since our sessions together my golf mental state has improved immeasurably. I’m now enjoying playing golf and saving strokes as well. I look forward to learning more from Rachel in the future.” R. Graham
 
 Imagine being in the moment more of the time, savouring the experience of holding the audience's attention rather than second guessing what everyone thinks? Being more forgiving of your mistakes and even find the funny side of things?
 
