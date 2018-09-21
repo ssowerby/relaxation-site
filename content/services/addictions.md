@@ -2,13 +2,11 @@
 title: Confidence
 order: 3
 ---
-Are you confident in most areas of life but there's one part where you lack confidence so much that it's restricting you? It could be that you're fine at work but crumble socially or vice versa.
+Are you confident in most areas of life but there's one part where you lack confidence so much that it's restricting you? It could be that you're fine at work but crumble socially or vice versa. Alternatively maybe you think you suffer from a lack of confidence in most areas of life? Imagine what it will be like to **feel more confident**. Actually **look forward** to giving a presentation at work, **be excited about new experiences**, **enjoy talking to people** or going to social events.  <!--more-->
 
-Alternatively maybe you think you suffer from a lack of confidence in most areas of life? Does a lack of confidence inhibit your everyday life, stop you from taking new opportunities or from doing things you secretly know you'd enjoy? **Hypnosis can help you feel more confident**, open up your world and say 'yes' to more of what you want.
+Does a lack of confidence inhibit your everyday life, stop you from taking new opportunities or from doing things you secretly know you'd enjoy? **Hypnosis can help you feel more confident**, open up your world and say 'yes' to more of what you want.
 
-Being confident doesn't mean blindly believing everything will always go your way. There are things out of your control like the weather, other people and interest rates. However there are things you can control such as practicing skills you want to learn and taking care of yourself so you can perform at your best. Accepting what you can and can't control means you can **let go of worry** and  **concentrate on what you can influence, giving you a far better chance in life**. 
-
-Imagine what it will be like to **feel more confident**. Actually **look forward** to giving a presentation at work, **be excited about new experiences**, **enjoy talking to people** or going to social events. 
+Being confident doesn't mean blindly believing everything will always go your way. There are things out of your control like the weather, other people and interest rates. However there are things you can control such as practicing skills you want to learn and taking care of yourself so you can perform at your best. Accepting what you can and can't control means you can **let go of worry** and **concentrate on what you can influence, giving you a far better chance in life**. 
 
 A part of you knows if the presentation doesn't go well it's not the end of the world or if the guy you ask out says no you won't die but it doesn't feel that way. **Your brain thinks it's doing you a favour** by making you feel so uncomfortable, making you terrified, tongue tied or red faced. It could be that negative past experiences, which may not even seem related to the area or areas where you lack confidence, are kicking your brain's protective mode into overdrive. 
 
