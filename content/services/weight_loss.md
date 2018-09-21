@@ -2,7 +2,7 @@
 title: Self-esteem
 order: 2
 ---
-Do you lack faith in yourself? Does it feel as if everyone else is more capable or confident? Do you hold back and not speak your mind because you don't have confidence in your opinions? Imagine how it would feel to **spend less time thinking and more time doing what you want?** Having the strength of your convictions, feeling free to **speak your mind**, feeling **comfortable in your own skin** wherever you are.
+Do you lack faith in yourself? Does it feel as if everyone else is more capable or confident? Do you hold back and not speak your mind because you don't have confidence in your opinions? Imagine how it would feel to **spend less time thinking and more time doing what you want?** Having the strength of your convictions, feeling free to **speak your mind**, feeling **comfortable in your own skin** wherever you are.  <!--more-->
 
 Does criticism cut deep while compliments make you feel uncomfortable? Are you always striving for perfection and nothing less will do? Maybe on one level you know you're an okay person but that's not how you feel. Then **hypnosis can help to build your self esteem by changing your instinctual feelings**.
 
