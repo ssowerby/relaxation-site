@@ -67,8 +67,12 @@ section {
    margin: 0;
 }
 
-.content.top-content {
-   padding: 7ch 3ch 3ch;
+.content:first-of-type {
+   padding-top: 7ch;
+}
+
+.content:last-of-type {
+   padding-bottom: 5ch;
 }
 
 .service-summary {
