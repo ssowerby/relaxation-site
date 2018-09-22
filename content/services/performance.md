@@ -1,5 +1,5 @@
 ---
-title: Performance Anxiety
+title: Reduce Performance Anxiety
 order: 5
 ---
 Fear of public speaking, lack of focus or unhelpful habits and fears affecting your performance? Hypnosis can help you reach your goals. <!--more-->

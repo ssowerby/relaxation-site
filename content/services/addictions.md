@@ -1,5 +1,5 @@
 ---
-title: Confidence
+title: Gain Confidence
 order: 3
 ---
 Looking for a way to boost your confidence at work or socially? Find out how hypnosis can help you. <!--more-->
