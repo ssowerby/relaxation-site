@@ -1,5 +1,5 @@
 ---
-title: Social Anxiety
+title: Deal with Social Anxiety
 order: 4
 ---
 Is social anxiety affecting your day to day life, stopping you from making friends, climbing the career ladder or having fun? Find out how hypnosis can help you. <!--more-->
