@@ -2,7 +2,9 @@
 title: Self-esteem
 order: 2
 ---
-Do you lack faith in yourself? Does it feel as if everyone else is more capable or confident? Do you hold back and not speak your mind because you don't have confidence in your opinions? Imagine how it would feel to **spend less time thinking and more time doing what you want?** Having the strength of your convictions, feeling free to **speak your mind**, feeling **comfortable in your own skin** wherever you are.  <!--more-->
+Do you lack faith in yourself? Does it feel as if everyone else is more capable or confident? Find out how hypnosis can help boost your self-esteem. <!--more-->
+
+Do you hold back and not speak your mind because you don't have confidence in your opinions? Imagine how it would feel to **spend less time thinking and more time doing what you want?** Having the strength of your convictions, feeling free to **speak your mind**, feeling **comfortable in your own skin** wherever you are.  <!--more-->
 
 Does criticism cut deep while compliments make you feel uncomfortable? Are you always striving for perfection and nothing less will do? Maybe on one level you know you're an okay person but that's not how you feel. Then **hypnosis can help to build your self esteem by changing your instinctual feelings**.
 
@@ -10,7 +12,7 @@ When you lack self-esteem your life can feel like a building without foundations
 
 You may have had a bad experience or difficult childhood, you may still hear the voice of a parent berating you constantly in your negative self talk. Equally nothing particularly bad may ever have happened to you. It could be that when you were young you picked up negative messages from your environment and internalised them. When you're a child your brain is still taking shape. Things which people say or do can be misinterpreted by the still growing brain and taken onboard. Equally those around you may have had low self-esteem themselves and you've learned that way of being from them. Whatever you've learned can be unlearned too. **You can let go of those old ideas about yourself because they're not a part of you.**
 
-## What my clients say - 
+## What my clients say -
 
 "I was impressed with Rachel’s shrewd analysis and with the way that I was easily directed to make a revealing discovery, something that created an unwanted pattern in my behaviour at a very young age. 
 
