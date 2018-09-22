@@ -35,8 +35,12 @@ nav,.navbar-nav {
    color: #b8deac !important;
 }
 
-.navbar-brand {
+.navbar-brand,.navbar-nav {
    padding-left: 0.5em;
+}
+
+.navbar-brand {
+   font-size: large;
 }
 
 .drop-caps::first-letter {
@@ -54,9 +58,6 @@ nav,.navbar-nav {
    height: 4ch
 }
 
-.navbar-brand {
-   font-size: large;
-}
 
 section {
    width: 100vw;
@@ -81,6 +82,18 @@ section {
 
 .service-title {
    font-size: x-large;
+}
+
+.service-title:before {
+   content: "";
+   height: 0.5em;
+   width: 0.5em;
+   position: absolute;
+   left: 0.5em;
+   top: 1.1em;
+   background-color: #789672;
+   border-radius: 50%;
+   display: inline-block;
 }
 
 .light-background {
