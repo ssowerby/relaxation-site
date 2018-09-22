@@ -14,10 +14,9 @@ You may have had a bad experience or difficult childhood, you may still hear the
 
 ## What my clients say -
 
-"I was impressed with Rachel’s shrewd analysis and with the way that I was easily directed to make a revealing discovery, something that created an unwanted pattern in my behaviour at a very young age. 
-
-Thanks to this new awareness, I have since been able to consciously work on correcting my behaviour.
-
-I highly recommend Rachel as a hypnotherapist especially for her ability to empathise, make you feel at ease and for her observing and analytical qualities." Lisa G
+> I was impressed with Rachel’s shrewd analysis and with the way that I was easily directed to make a revealing discovery, something that created an unwanted pattern in my behaviour at a very young age. 
+> Thanks to this new awareness, I have since been able to consciously work on correcting my behaviour.
+> I highly recommend Rachel as a hypnotherapist especially for her ability to empathise, make you feel at ease and for her observing and analytical qualities.
+<div class="float-right">Lisa G</div>
 
 As low self-esteem denies logic telling you you're a good person is probably not going to work. If you've tried positive affirmations yourself saying them outloud as you looked in the mirror may have made you felt extrutiating. That's because it goes against everything you feel. I won't try to change what you think by showering you with positive affirmations while you're in a trance. Instead we will use hypnosis on the instinctual level, where your brain stores beliefs and feelings. There we can **work together to change how you feel**, which frees up your brain to **take onboard new evidence** and decide for itself that you are a decent person. And when your brain begins to look for the positive **your whole outlook can change for the better**.

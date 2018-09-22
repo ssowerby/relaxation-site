@@ -14,7 +14,8 @@ A part of you knows if the presentation doesn't go well it's not the end of the 
 
 ## What my clients say -
 
-> "I had two hypnotherapy sessions with Rachel which focused on my performance anxiety. I found the sessions beneficial and Rachel was very supportive. She has helped me to feel more confident and relaxed in daily life. I would certainly recommend Rachel as a hypnotherapist." Craig C
+> I had two hypnotherapy sessions with Rachel which focused on my performance anxiety. I found the sessions beneficial and Rachel was very supportive. She has helped me to feel more confident and relaxed in daily life. I would certainly recommend Rachel as a hypnotherapist.
+<div class="float-right">Craig C</div>
 
 The brain likes to play Snap, making links between different experiences 'this is like that', that's how we learn. However it's not always very accurate when it comes to making associations. So it may think the area where you lack confidence is somehow dangerous. This all happens at an instinctual level so it can be difficult to think your way out of it. With hypnosis we can change this negative pattern match to a more positve one so you can **feel more comfortable in those situations that used to be a problem**. 
 

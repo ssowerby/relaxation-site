@@ -67,11 +67,11 @@ section {
    margin: 0;
 }
 
-.content:first-of-type {
+.main-section>.content,section:first-of-type .content {
    padding-top: 7ch;
 }
 
-.content:last-of-type {
+.main-section>.content,section:last-of-type .content {
    padding-bottom: 6ch;
 }
 
