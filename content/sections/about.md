@@ -15,7 +15,7 @@ Find out more about hypnosis and what happens in a session.
 
 \*The Department of Health has recommended that where people are looking for complementary health practitioners they use someone who is registered with Complementary & Natural Healthcare Council.
 
-**Qualifications and Continuing Professional Development**
+## Qualifications and Continuing Professional Development
 
 General Qualification in Hypnotherapy Practice (GQHP)
 
@@ -23,16 +23,15 @@ Practitioner Diploma in Ericksonian Hypnotherapy and Counselling
 
 Diploma in EMDR incorporating Hypnosis
 
+<div>
 <div class="badgeGenrUNK" data-badge="rewindtechnique" data-style="small" data-user="cmFjaGcxMkBnbWFpbC5jb20"></div>
-
 <div class="badgeGenrUNK" data-badge="precisionhypnosis" data-style="small" data-user="cmFjaGcxMkBnbWFpbC5jb20"></div>
-
 <div class="badgeGenrUNK" data-badge="uncommonpsychotherapy" data-style="small" data-user="cmFjaGcxMkBnbWFpbC5jb20"></div>
 
 <script src='//www.unk.com/badges/badge.js.php' async></script>
+</div>
 
-**Memberships**
+## Memberships
 
 ![Registered with Complementary & Natural Healthcare Council](/uploads/cnhcsmall.jpg)
-
 ![Registered with General Hypnotherapy Register](/uploads/ghrlogo-s.png)

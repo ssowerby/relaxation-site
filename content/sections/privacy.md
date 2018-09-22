@@ -1,11 +1,11 @@
-**Privacy Policy**
+# Privacy Policy
 
 Last updated: 15th September 2018
 
 Rachel Goth ("me", "I", or "my") operates www.naturallyuhypnosis.co.uk (the "Site"). This page informs you of the policy regarding the collection, use and disclosure of Personal Information I receive from users of the Site.
 
 
-***Website usage***
+## Website usage
 
 To improve your experience on this site, it may use 'cookies'. Cookies are an industry standard and most major web sites use them. A cookie is a small text file that our site may place on your computer as a tool to remember your preferences. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
 
@@ -16,7 +16,7 @@ This website uses Google Analytics, a service which transmits website traffic da
 By using this website, you consent to the processing of data about you by Google in the manner described in [Google's Privacy Policy](https://policies.google.com/privacy) and for the purposes set out above. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or [use the opt-out service provided by Google](https://tools.google.com/dlpage/gaoptout).
 
 
-***Personal information***
+## Personal information
 
 If you use the contact email I collect the email address you use and any other identifying information you provide, such as a name or phone number.
 
@@ -25,6 +25,6 @@ Please do not give other personal or sensitive information.
 Unless complied to for legal reasons I will not share this information with anybody.
 
 
-***Contact Me***
+## Contact Me
 
 If you have any questions about this Privacy Policy, please <a href="mailto:rachel@naturallyuhypnosis.co.uk">contact me</a>.

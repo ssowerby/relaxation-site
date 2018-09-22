@@ -23,5 +23,3 @@ Someone may have burst a balloon close to you when you were a small child and gi
 
 
 With hypnosis we can retrain your unconscious to realise this isn't a dangerous situation, it doesn't have to bring  your attention to it and there's no need to fire off the fight or flight response. Imagine both your unconscious and conscious being on the same page? Knowing it won't do you any harm but more importantly feeling that way too.
-
-![Something](/uploads/test1.png)

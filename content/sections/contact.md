@@ -1,11 +1,12 @@
 ---
 title: 'Fees & Contact '
 ---
-**Crystal Palace**
+
+## Crystal Palace
 
 Crystal Palace appointments are £85 (approx 60 to 90 minutes).
 
-**Liverpool Street/Bishopsgate, EC2M**
+## Liverpool Street/Bishopsgate, EC2M
 
 £90 per appointment (approx 60 to 90 minutes).
 
