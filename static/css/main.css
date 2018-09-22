@@ -54,7 +54,7 @@ nav,.navbar-nav {
 }
 
 .top-spacing {
-   height: 4ch
+   height: 4.5ch
 }
 
 
@@ -72,7 +72,7 @@ section {
 }
 
 .content:last-of-type {
-   padding-bottom: 5ch;
+   padding-bottom: 6ch;
 }
 
 .service-summary {
@@ -141,7 +141,7 @@ section {
    text-decoration: underline;
    color: black;
    display: block;
-   padding-top: 1em;
+   padding-top: 0.2em;
 }
 
 .section-title {
@@ -152,4 +152,33 @@ section {
 
 .badgeGenrUNK {
    display: inline-block;
+}
+
+.map {
+   border:0;
+   width: 100%;
+   height: 30vh;
+   margin-top: 1em;
+   margin-bottom: 2em;
+}
+
+blockquote {
+   background: #f9f9f9;
+   border-left: 10px solid #ccc;
+   margin: 1.5em 10px;
+   padding: 0.5em 10px;
+   quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+   color: #ccc;
+   content: open-quote;
+   font-size: 4em;
+   line-height: 0.1em;
+   margin-right: 0.25em;
+   vertical-align: -0.4em;
+}
+
+blockquote p {
+   display: inline;
 }
