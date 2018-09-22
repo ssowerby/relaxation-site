@@ -1,8 +1,10 @@
 ---
-title: Phobias & Fears
+title: Freedom from Phobias
 order: 1
 ---
-Phobias and irrational fears can affect anyone anytime, **you're not alone**.  People can have phobias about anything from flying to buttons. Is you fear having a big influence on your daily life and the decisions you make? **Imagine what it will be like to not have that old fear.** To wake up in the morning without giving it a thought. To plan your day, your week, your life without having to take it into account. <!--more-->
+Whether it's a fear of flying, giving presentations , small spaces or buttons you're not alone. Hypnosis is here to help.  <!--more-->
+
+Phobias and irrational fears can affect anyone anytime, **you're not alone**.  People can have phobias about anything from flying to buttons. Is you fear having a big influence on your daily life and the decisions you make? **Imagine what it will be like to not have that old fear.** To wake up in the morning without giving it a thought. To plan your day, your week, your life without having to take it into account.
 
 A phobia of public speaking could be keeping you from advancing at work or a phobia of spiders keeping you exhausted and on high alert all the time. You may feel embarrassed about a fear that when you say it out loud sounds ridiculous or you may be aware of a logical reason for where it comes from. Either way you may be spending a lot of time trying to work around your phobia, avoiding people, places or situations or making excuses to others. **Managing a phobia can feel like a full time job** in itself. Hypnosis can help you to convince your mind that there is no threat so it can stop triggering the fear. 
 
