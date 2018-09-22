@@ -2,11 +2,11 @@
    <div class="col-lg-6 portrait light-background d-flex content">
       <div class="align-self-center">
          {{ with .Site.GetPage "page" "sections/about.md" }}
-            <h2>{{ .Title }}</h2>
+            <span class="section-title">{{ .Title }}</span>
             <div>
                {{ .Summary }}
                <br/>
-               <a href="{{ .Permalink }}">Read More</a>
+               <a class="read-more" href="{{ .Permalink }}">Read More</a>
             </div>
          {{ end }}
       </div>

@@ -9,7 +9,7 @@ html body {
 
 h1,h2,h3,h4 {
    font-family: "Halant", serif;
-   color: blue
+   color: #4b4a36
 }
 
 .bottom-bar {
@@ -23,10 +23,7 @@ h1,h2,h3,h4 {
    text-align: center;
 }
 
-nav {
-   background-color: black;
-}
-.navbar-nav {
+nav,.navbar-nav {
    background-color: black;
 }
 
@@ -35,7 +32,7 @@ nav {
 }
 
 .navbar-nav .nav-link:hover {
-   color: rgb(200, 255, 200) !important;
+   color: #b8deac !important;
 }
 
 .navbar-brand {
@@ -127,4 +124,9 @@ section {
 .read-more {
    font-size: 125%;
    font-weight: bold;
+}
+
+.section-title {
+   font-size: xx-large;
+   padding-bottom: 3em;
 }
