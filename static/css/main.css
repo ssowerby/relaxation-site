@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Halant');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 html body {
-   font-family: "Halant", serif;
+   font-family: "Open Sans", sans-serif;
    font-size: 14pt;
    position: relative;
+}
+
+h1,h2,h3,h4 {
+   font-family: "Halant", serif;
+   color: blue
 }
 
 .bottom-bar {
@@ -19,6 +25,17 @@ html body {
 
 nav {
    background-color: black;
+}
+.navbar-nav {
+   background-color: black;
+}
+
+.navbar-nav .nav-link {
+   color: white !important
+}
+
+.navbar-nav .nav-link:hover {
+   color: rgb(200, 255, 200) !important;
 }
 
 .navbar-brand {
@@ -36,20 +53,25 @@ nav {
    padding: 0;
 }
 
+.top-spacing {
+   height: 4ch
+}
+
 .navbar-brand {
    font-size: large;
 }
 
 section {
-/*   min-height: calc(100% - 0); */
    width: 100vw;
-   margin: 0;
-   padding: 0;
 }
 
 .content {
-   padding: 7ch 3ch 3ch;
+   padding: 3ch;
    margin: 0;
+}
+
+.content.top-content {
+   padding: 7ch 3ch 3ch;
 }
 
 .service-summary {

@@ -1,4 +1,5 @@
 {{ define "main" }}
+<div class="content top-content">
 <h1>{{.Title}}</h1>
 {{ range sort .Data.Pages ".Params.order" }}
 <article>
@@ -6,4 +7,5 @@
     {{ .Content }}
 </article>
 {{ end }}
+</div>
 {{ end }}
