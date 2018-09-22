@@ -63,7 +63,7 @@ section {
 }
 
 .content {
-   padding: 3ch;
+   padding: 4ch;
    margin: 0;
 }
 
@@ -136,4 +136,8 @@ section {
    font-size: xx-large;
    font-family: "Open Sans", sans-serif;
    padding-bottom: 0.5em;
+}
+
+.badgeGenrUNK {
+   display: inline-block;
 }
