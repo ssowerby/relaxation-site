@@ -1,7 +1,7 @@
 <div class="content">
 
    {{ with .Site.GetPage "page" "sections/contact.md" }}
-         <span class="section-title">{{ .Title }}</span>
+         <h1 class="section-title">{{ .Title }}</h1>
          {{ .Content }}
    {{ end }}
 
