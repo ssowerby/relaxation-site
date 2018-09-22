@@ -1,8 +1,8 @@
 ---
-title: Anxiety
+title: Deal with Anxiety
 order: 1
 ---
-Is anxiety or stress limiting your enjoyment of life and stopping you from being yourself? Find out how hypnosis can help you. <!--more-->
+Is dealing with anxiety limiting your enjoyment of life and stopping you from being yourself? Find out how hypnosis can help you. <!--more-->
 
 Anxiety is the pits. Being restricted in the places you can go or what you can do. Feeling you have to avoid certain people, places or situations. **Imagine what life will look like when you're calm and relaxed more of the time?** What it will be like to go wherever you want without worrying about how you'll feel or what people will think? To actually **look forward to the future**.  What little or big things will you be doing differently? Imagine how much **more choice you'll have in life**.
 
