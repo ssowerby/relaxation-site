@@ -126,8 +126,10 @@ section {
 }
 
 .read-more {
-   font-size: 125%;
-   font-weight: bold;
+   text-decoration: underline;
+   color: black;
+   display: block;
+   padding-top: 1em;
 }
 
 .section-title {
