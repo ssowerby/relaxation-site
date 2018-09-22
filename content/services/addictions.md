@@ -2,6 +2,8 @@
 title: Confidence
 order: 3
 ---
+Looking for a way to boost your confidence at work or socially? Find out how hypnosis can help you. <!--more-->
+
 Are you confident in most areas of life but there's one part where you lack confidence so much that it's restricting you? It could be that you're fine at work but crumble socially or vice versa. Alternatively maybe you think you suffer from a lack of confidence in most areas of life? Imagine what it will be like to **feel more confident**. Actually **look forward** to giving a presentation at work, **be excited about new experiences**, **enjoy talking to people** or going to social events.  <!--more-->
 
 Does a lack of confidence inhibit your everyday life, stop you from taking new opportunities or from doing things you secretly know you'd enjoy? **Hypnosis can help you feel more confident**, open up your world and say 'yes' to more of what you want.
