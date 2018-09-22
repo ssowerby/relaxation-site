@@ -1,5 +1,5 @@
 ---
-title: Self-esteem
+title: Boost Self-Esteem
 order: 2
 ---
 Do you lack faith in yourself? Does it feel as if everyone else is more capable or confident? Find out how hypnosis can help boost your self-esteem. <!--more-->
