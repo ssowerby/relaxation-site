@@ -26,7 +26,7 @@ nav,.navbar-nav {
    background-color: black;
 }
 
-.navbar-nav .nav-link {
+nav .nav-link {
    color: white !important
 }
 
