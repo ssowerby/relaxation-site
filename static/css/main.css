@@ -183,3 +183,11 @@ blockquote p {
    padding-left: 2em;
    color: black
 }
+
+.dropdown-menu {
+   background-color: black;
+}
+
+.dropdown-menu .dropdown-item a:hover {
+   color: black !important;
+}
