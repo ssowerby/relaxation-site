@@ -57,6 +57,12 @@ nav .nav-link {
    height: 4.5ch
 }
 
+@media (max-width: 576px) {
+   .top-spacing {
+      height: 5.5ch
+   }
+}
+
 
 section {
    width: 100vw;
