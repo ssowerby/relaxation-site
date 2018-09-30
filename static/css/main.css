@@ -63,7 +63,7 @@ section {
 }
 
 .content {
-   padding: 4ch;
+   padding: 5vw;
    margin: 0;
 }
 
@@ -172,4 +172,14 @@ blockquote {
 
 blockquote p {
    display: inline;
+}
+
+
+.services-list {
+   margin-bottom: 3ch
+}
+
+.services-list a {
+   padding-left: 2em;
+   color: black
 }
