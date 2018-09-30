@@ -11,6 +11,15 @@ h1,h2,h3,h4 {
    color: #4b4a36
 }
 
+a {
+   color: #3a8524
+}
+
+a:hover {
+   color: #0ba167
+}
+
+
 .bottom-bar {
    position: fixed;
    left: 0;
@@ -145,7 +154,6 @@ section {
 
 .read-more {
    text-decoration: underline;
-   color: black;
    display: block;
    padding-top: 0.2em;
 }
