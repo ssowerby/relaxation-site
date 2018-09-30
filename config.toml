@@ -8,7 +8,7 @@ disableAliases = true
 
 [params]
 disallow_search_engines = false # set robots.txt to disallow everything
-description = "Hynotherapy services in Central and South East London"
+description = "Hypnotherapy services in Central and South East London, helping deal with anxiety, boost self esteem, gain confidence, provide freedom from phobias and reduce performance anxiety."
 
 # add redirects/headers
 [outputs]
