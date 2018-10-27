@@ -205,3 +205,10 @@ blockquote p {
 .dropdown-menu .dropdown-item a:hover {
    color: black !important;
 }
+
+
+.blog .content img:first-of-type {
+   max-height: 65vh;
+   width: 100%;
+   height: auto;
+}
