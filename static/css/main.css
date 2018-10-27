@@ -208,6 +208,7 @@ blockquote p {
 
 
 .blog .content img:first-of-type {
-   width: 100%;
+   max-width: 100%;
    height: auto;
+   max-height: 65vh;
 }
