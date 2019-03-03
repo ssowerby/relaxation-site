@@ -1,24 +1,28 @@
-@import url('https://fonts.googleapis.com/css?family=Halant');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Nunito');
 
 html body {
    font-family: "Open Sans", sans-serif;
    position: relative;
 }
 
+body {
+   padding-left: 3em !important;
+   padding-right: 3em !important;
+}
+
 h1,h2,h3,h4 {
-   font-family: "Halant", serif;
-   color: #4b4a36
+   font-family: "Nunito", serif;
+   color: #f57d2c;
 }
 
 a {
-   color: #3a8524
+   color: #c74800;
 }
 
 a:hover {
-   color: #0ba167
+   color: #f57d2c;
 }
-
 
 .bottom-bar {
    position: fixed;
@@ -26,29 +30,21 @@ a:hover {
    bottom: 0;
    width: 100%;
    height: 4ch;
-   background-color: black;
+   background-color: #1B223F;
    color: white;
    text-align: center;
 }
 
 nav,.navbar-nav {
-   background-color: black;
+   background-color: white;
 }
 
 nav .nav-link {
-   color: white !important
+   color: #c74800 !important
 }
 
 .navbar-nav .nav-link:hover {
-   color: #b8deac !important;
-}
-
-.navbar-brand,.navbar-nav {
-   padding-left: 0.5em;
-}
-
-.navbar-brand {
-   font-size: large;
+   color: #c74800 !important;
 }
 
 .drop-caps::first-letter {
@@ -63,59 +59,36 @@ nav .nav-link {
 }
 
 .top-spacing {
-   height: 4.5ch
+   height: 5.5ch
 }
-
-@media (max-width: 576px) {
-   .top-spacing {
-      height: 5.5ch
-   }
-}
-
 
 section {
    width: 100vw;
 }
 
 .content {
-   padding: 4em 7.5vw;
+   padding: 0em 7.5vw;
    margin: 0;
 }
 
-.main-section>.content,section:first-of-type .content {
-   padding-top: 7ch;
+.solid-background {
+   background-color: #1B223F;
+   color: white;
 }
 
-.main-section>.content,section:last-of-type .content {
-   padding-bottom: 6ch;
+.pattern-background {
+   background-image: url("/uploads/animal_skin.jpg");
+   background-repeat: repeat;
+   background-size: 50%;
 }
 
-.service-summary {
-   padding: 2ch;
-}
-
-.service-title {
-   font-size: x-large;
-}
-
-.service-title:before {
-   content: "";
-   height: 0.5em;
-   width: 0.5em;
-   position: absolute;
-   left: 0.5em;
-   top: 1.1em;
-   background-color: #789672;
-   border-radius: 50%;
-   display: inline-block;
-}
-
-.light-background {
-   background-color: #c8d3c4;
-}
-
-.dark-background {
-   background-color: #4b4a36;
+.pattern-strip {
+   margin-top: 2em;
+   background-image: url("/uploads/skinpatternhorizontal.jpg");
+   background-repeat: repeat-x;
+   background-position: center;
+   background-size: 8em;
+   height: 8em;
 }
 
 .huge {
@@ -199,16 +172,56 @@ blockquote p {
 }
 
 .dropdown-menu {
-   background-color: black;
+   background-color: #1B223F;
 }
 
 .dropdown-menu .dropdown-item a:hover {
    color: black !important;
 }
 
-
 .blog .content img:first-of-type {
    max-width: 100%;
    height: auto;
    max-height: 65vh;
 }
+
+.spacer {
+   padding: 2ch;
+   margin: 0;
+}
+
+.title-white {
+   color: white
+}
+
+.title-orange {
+   color: #f57d2c;
+}
+
+.title-tiny {
+   font-size: 100%;
+}
+
+.title-small {
+   font-size: 125%;
+}
+
+.title-medium {
+   font-size: 175%;
+}
+
+.title-large {
+   font-size: 300%;
+}
+
+.title-background * {
+   font-family: "Nunito", sans-serif;
+}
+
+.fitpic {
+   object-fit: cover;
+   object-position: 70% 0;
+   width: 100%;
+   height: 100%;
+}
+

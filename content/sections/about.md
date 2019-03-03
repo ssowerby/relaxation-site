@@ -1,6 +1,7 @@
 ---
-title: About Me
+title: 'About Me'
 ---
+
 I am a fully qualified hypnotherapist in London working from offices in both Crystal Palace and Bishopsgate. I am registered with both the General Hypnotherapy Register and the Complementary & Natural Healthcare Council*. 
 
 I love working with people one to one to help them improve their lives. My particular interest is working with anxiety, lack of confidence and low self esteem. Helping someone to feel comfortable in their own skin in situations where they used to feel anxious or unconfident is very rewarding. 

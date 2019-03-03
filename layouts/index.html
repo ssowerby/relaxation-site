@@ -1,22 +1,25 @@
 {{ define "main" }}
 
-<section data-section-name="home" class="p-0 m-0 container-fluid">
+<div class="spacer"></div>
+
+<section class="px-4 py-2 m-0 container-fluid">
    <a name="home"/>
     {{ partial "home/intro" . }}
 </section>
 
-<section data-section-name="services" class="p-0 m-0 container-fluid">
-   <a name="services"/>
-    {{ partial "home/services" . }}
+<section class="px-4 py-2 m-0 container-fluid">
+   {{ partial "home/blurb" . }}
 </section>
 
-<section data-section-name="about" class="p-0 m-0 container-fluid">
-   <a name="about"/>
+<section class="px-4 py-2 m-0 container-fluid">
     {{ partial "home/about" . }}
 </section>
 
-<section data-section-name="contact" class="p-0 m-0 container-fluid">
+<section class="px-4 py-2 m-0 container-fluid">
    <a name="contact"/>
     {{ partial "home/contact" . }}
 </section>
+
+<div class="spacer"></div>
+
 {{ end }}

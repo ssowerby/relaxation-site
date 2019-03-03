@@ -1,19 +1,17 @@
-<div class="row m-0 p-0 h-100">
-   <div class="col-lg-6 portrait light-background d-flex content">
-      <div class="align-self-center">
-         {{ with .Site.GetPage "page" "sections/about.md" }}
-            <h1 class="section-title">{{ .Title }}</h1>
-            <div>
-               {{ .Summary }}
-               <br/>
-               <a class="read-more" href="{{ .Permalink }}">Read More</a>
-            </div>
-         {{ end }}
-      </div>
+<div class="row m-0 p-0">
+   <div class="col-lg-6 p-5 portrait solid-background content">
+      {{ with .Site.GetPage "page" "sections/about.md" }}
+         <h1 class="section-title">{{ .Title }}</h1>
+         <div>
+            {{ .Summary }}
+            <br/>
+            <a class="read-more" href="{{ .Permalink }}">Read More</a>
+         </div>
+      {{ end }}
    </div>
-   <div class="col-lg-6 portrait dark-background p-5 d-flex content">
+   <div class="col-lg-6 portrait pattern-background p-5 d-flex content">
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe src="https://www.youtube.com/embed/ywvNnUIcmJg" class="embed-responsive-item" allow="encrypted-media" allowfullscreen></iframe>
+         <iframe src="https://www.youtube.com/embed/ywvNnUIcmJg" class="embed-responsive-item" allow="encrypted-media" allowfullscreen></iframe>
       </div>
    </div>
 </div>
