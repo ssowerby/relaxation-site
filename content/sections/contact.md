@@ -1,13 +1,12 @@
 ---
-title: 'Contact'
+title: Contact
 ---
-
 <div class="row">
 
 <div class="col-md-6 mb-2">
 
 <div>
-Tel: <a href="tel:07783-672965">07783 672965</a>
+Tel: <a href="tel:07783-672965">07783 672965</a> 
 </div>
 <div>
 Email: <a href="mailto:rachel@naturallyuhypnosis.co.uk">rachel@naturallyuhypnosis.co.uk</a>
@@ -20,7 +19,7 @@ Email: <a href="mailto:rachel@naturallyuhypnosis.co.uk">rachel@naturallyuhypnosi
 Appointments are available at the following times:
 <br>
 Mon-Fri  9am - 8pm <br>
-Saturdays 10am-2pm
+Saturdays on request
 
 </div>
 
