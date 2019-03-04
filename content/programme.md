@@ -38,8 +38,14 @@ Between sessions I'll check in with you via text or email so you never feel like
 
 £300. Yes it's not an insubstantial amount of money but unlike a pair of shoes, highlights, whiter teeth or a weekend away, this could change your life. How much more would you enjoy those things (and everything else) being the real you and feeling good? Each of us has only a finite amount of time on this planet and I want you to get the best out of yours.
 
+ 
 
+ 
 
+ 
 
+ 
+
+ 
 
 .
