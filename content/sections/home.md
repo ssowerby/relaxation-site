@@ -1,3 +1,7 @@
+---
+title: 'Home Text'
+---
+
 Welcome to a place where you can learn to dare to be yourself and feel free to be you wherever you are.
 
 Hiding in the shadows hoping not to be shown up for the fraud you feel you are is no life. Playing it safe and not going for what you want because you presume you won't get it is a strategy for misery. When your inner critic is out of control keeping you feeling less than those around you it can lead to sleepless nights, worried days, keeping to yourself and playing it small. When you don't feel solid on the inside it's easy to be buffeted on the winds of other peoples whims. An innocent comment or difference in opinion can have you doubting yourself. But denying who you are, trying to fit yourself into a mould you think is more acceptable, staying in that dead end job when you're capable of more or always saying yes to those 'friends' that put you down isn't an answer. I guess you know that already or you wouldn't be here. 
