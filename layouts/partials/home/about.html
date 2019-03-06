@@ -2,11 +2,7 @@
    <div class="col-lg-6 p-5 portrait solid-background content">
       {{ with .Site.GetPage "page" "sections/about.md" }}
          <h1 class="section-title">{{ .Title }}</h1>
-         <div>
-            {{ .Summary }}
-            <br/>
-            <a class="read-more" href="{{ .Permalink }}">Read More</a>
-         </div>
+         <div>{{ .Content }}</div>
       {{ end }}
    </div>
    <div class="col-lg-6 portrait pattern-background p-5 d-flex content">
