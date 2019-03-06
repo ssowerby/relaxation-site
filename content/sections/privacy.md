@@ -2,8 +2,6 @@
 title: 'Privacy Policy'
 ---
 
-# Privacy Policy
-
 Last updated: 15th September 2018
 
 Rachel Goth ("me", "I", or "my") operates www.naturallyuhypnosis.co.uk (the "Site"). This page informs you of the policy regarding the collection, use and disclosure of Personal Information I receive from users of the Site.
