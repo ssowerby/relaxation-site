@@ -34,18 +34,16 @@ We'll tackle any day to day issues and give you the tools you need to feel comfo
 We'll be cementing everything we've done so far to make sure all the progress you've made stays with you into the future and you have the tools you need to keep being the youest your effortlessly.
 Between sessions I'll check in with you via text or email so you never feel like you're doing this alone. 
 
+
+
+### Where can we do it?
+
+I have rooms in Crystal Palace and in Bishopsgate close to Liverpool Street Station. I can also do sessions online via Skype or Zoom which many people find convenient.
+
 ### How much will it cost?
 
 £300. Yes it's not an insubstantial amount of money but unlike a pair of shoes, highlights, whiter teeth or a weekend away, this could change your life. How much more would you enjoy those things (and everything else) being the real you and feeling good? Each of us has only a finite amount of time on this planet and I want you to get the best out of yours.
 
- 
-
- 
-
- 
-
- 
-
- 
+I also offer a payment plan at no extra charge so you can spread the cost.
 
 .
