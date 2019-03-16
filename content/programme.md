@@ -1,6 +1,10 @@
 ---
 title: Be The Youest You
 ---
+#### You're stuck right?
+
+You've probably tried to make changes on your own. Maybe you've been faking it but not making it or affirming your socks off without success. Sure you could read some more books and try some more stuff on your own but we all need a bit of help from someone else sometimes. I work with people like you either in person or online depending on your preference. We're talking short term help not a long term commitment. I've helped people like you make a big change in just 4 sessions. If you're interested in finding out more abut how I can help read on.
+
 I'm guessing **you're here because you're not prepared to put up with that gnawing sense of being no good any more**. That black cloud hovering over you, waiting to rain down on you hard any time you dare to step out of its shadow. You've been holding yourself back for too long, not living the life you want in order to appease that monster but it's still there. The nagging voice whittering in your ear how you're not good enough even as you lay in bed trying to sleep. Sucking the joy out of seeing family and friends, stopping you going for that promotion, making you keep your opinions to yourself. Holding you back so you won't say or do the wrong thing and be shown up for the fraud you are. Sometimes it can feel like it's been there so long it's a part of you, like an arm or a leg. 
 
 Maybe you've tried thinking yourself out of it, faking it till you make it or repeating mantras until you cringe inside. Maybe you've made a bit of progress but it feels like an up hill battle and you're constantly fighting not to slip back. On the outside, to everyone else it might look like you're having the perfect life but when you don't feel you deserve it it's almost impossible to enjoy it. All you want is to **feel comfortable being you and feel equal to everyone else**. Deep down a part of you know's you're a decent person. After all you care about people and you do your best. But even when you know logically you're a decent person that doesn't mean you feel it.
@@ -33,8 +37,6 @@ We'll tackle any day to day issues and give you the tools you need to feel comfo
 
 We'll be cementing everything we've done so far to make sure all the progress you've made stays with you into the future and you have the tools you need to keep being the youest your effortlessly.
 Between sessions I'll check in with you via text or email so you never feel like you're doing this alone. 
-
-
 
 ### Where can we do it?
 
