@@ -48,7 +48,7 @@ collections:
   - name: "page"
     label: "Pages"
     folder: "content"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
