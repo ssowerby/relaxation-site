@@ -99,22 +99,6 @@ section {
    font-size: 150%
 }
 
-@media (orientation: portrait) {
-   .portrait{
-      width: 100%;
-   }
-   .landscape-only {
-      display: none
-   }
-}
-
-@media (orientation: landscape) {
-   .portrait-only {
-      display: none
-   }
-}
-
-
 .bottom-bar .left {
    float: left;
    padding-left: 1em;
