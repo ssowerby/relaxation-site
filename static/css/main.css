@@ -72,7 +72,7 @@ section {
 }
 
 .solid-background {
-   background-color: #1B223F;
+   background-color: rgba(27, 34, 63, 0.9);
    color: white;
 }
 
@@ -172,7 +172,7 @@ blockquote p {
 }
 
 .dropdown-menu {
-   background-color: #1B223F;
+   background-color: white;
 }
 
 .dropdown-menu .dropdown-item a:hover {
