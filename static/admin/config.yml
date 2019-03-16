@@ -46,7 +46,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "page"
-    label: "Pages"
+    label: "Page"
     folder: "content"
     create: true
     slug: "{{slug}}"
