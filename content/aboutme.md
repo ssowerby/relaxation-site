@@ -1,5 +1,5 @@
 ---
-title: Working with me
+title: About Me
 ---
 Hi I'm Rachel I live in South East London with my partner. Originally I'm from Liverpool so you'll definitely hear a bit of a Scouse twang to my accent. Weirdly even though I grew up  a stone's throw away from Anfield football ground I've never been to a match. (I did have a scarf as a kid though, you kind of have to.) I'm also a bit of an  introvert which is something else you might not associate with a Scouser. When I'm not working I like keeping fit (maybe like is an exaggeration). I also love writing plays set in their own little worlds like a sausage factory (that was an interesting summer job), an ice cream van or a supermarket.  I'm also rather keen on chats over posh coffees at lovely little cafes.
 
