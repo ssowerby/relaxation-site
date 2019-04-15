@@ -58,17 +58,11 @@ You'll have noticed how a lot of this stuff overlaps. Like I said last time one 
 Starting a walking club could fulfill your need to - 
 
 1. Give and receive attention (making friends as you walk and talk)
-
 2. Challenge and creativity (marketing the club and coming up with new interesting routes)
-
 3. Purpose, goals and meaning (to make your local community happier and healthier)
-
 4. Being part of the community (providing a club for local people)
-
 5. Control and choice (choosing how to run the club, choosing the walk routes)
-
 6. Status (head of the club, appreciated by the members)
-
 7. Being mindful of the mind body connection (getting exercise)
 
 I hope this has helped spark some ideas for you on how you can satisfy your human needs and help to keep yourself healthy and happy.
