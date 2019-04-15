@@ -1,6 +1,6 @@
 <div class="row">
    <div class="col-md">
-      {{ range sort .Data.Pages ".Params.order" }}
+      {{ range .Data.Pages.ByDate.Reverse }}
       <article class="p-2 mt-3">
          <h2>{{ .Title }}</h2>
          {{ .Summary }}
