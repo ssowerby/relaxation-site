@@ -1,5 +1,6 @@
 ---
 title: How to have a healthy mind -  meeting your human needs
+publishDate: 2019-04-15 11:16:00
 tags:
   - healthy mind
   - self esteem

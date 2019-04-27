@@ -1,5 +1,6 @@
 ---
 title: How to have a healthy mind
+publishDate: 2019-04-05 15:42:00
 tags:
   - healthy mind
   - self esteem

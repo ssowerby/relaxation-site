@@ -1,5 +1,6 @@
 ---
 title: Hypnosis for phobias
+publishDate: 2018-10-22 21:28:00
 tags:
   - hypnosis phobias hynotherapy
 ---
