@@ -43,7 +43,7 @@
 <div class="top-bar">
 {{ partial "menu" . }}
 </div>
-<div data-target=".navbar-collapse" class="p-0 m-0 main-section container-fluid">
+<div data-target=".navbar-collapse" class="p-0 mx-0 main-section container-fluid">
 {{ block "main" . }}
 {{ end }}
 </div>
@@ -57,40 +57,6 @@
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.compatibility.min.js" integrity="sha256-5ZrdaeOQG3t2uVEkC6FxsGF2y3taTxhdjyGLXi3RUDk=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.19/jquery.scrollify.min.js" integrity="sha256-RGlAwHKG24hsj1109SGQgvR+Orx7u8c6zyYH4Tk3ydU=" crossorigin="anonymous"></script>
-
-
-<script>
-   /*
-   $(function() {
-      $.scrollify({
-         section : "section",
-         sectionName: "section-name",
-         easing: "swing",
-         setHeights: false,
-         beforex: function(index, sections) {
-            $(".nav-link").removeClass("active");
-         },
-         afterx: function(index, sections) {
-            var sel = ".nav-link[href$='#" + sections[index].attr("data-section-name") + "']";
-            $(sel).addClass("active");
-         }
-      });
-
-      $(".nav-link").click(function() {
-        $.scrollify.move(this.hash);
-      });
-
-      $('.navbar-nav a').on('click', function(){
-         $('.navbar-collapse').collapse('hide');
-      });
-
-   });
-*/
-
-</script>
-
 
 </body>
 </html>

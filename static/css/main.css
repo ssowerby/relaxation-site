@@ -57,6 +57,11 @@ nav .nav-link {
    min-height: 7ch;
 }
 
+.main-section {
+   margin-top: 5ch;
+   margin-bottom: 7ch;
+}
+
 .navbar {
    margin: 0;
    padding: 0;
