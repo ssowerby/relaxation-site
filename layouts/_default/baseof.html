@@ -18,7 +18,7 @@
    <meta name="description" content="{{ .Site.Params.description }}">
    {{ end }}
 
-   {{ .Hugo.Generator }}
+   {{ hugo.Generator }}
 
    {{ range .AlternativeOutputFormats }}
    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
