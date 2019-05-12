@@ -2,6 +2,7 @@ backend:
   name: github
   repo: ssowerby/hypnotherapy-site
 
+publish_mode: editorial_workflow
 media_folder: "static/uploads"
 public_folder: "/uploads"
 collections:
