@@ -12,7 +12,10 @@
               <div class="dropdown-menu">
                  <a class="nav-item nav-link" href="/aboutme/">About Me</a>
                  <a class="nav-item nav-link" href="/programme/">Start Now</a>
+                 {{ $testimonials := len (where .Site.RegularPages "Section" "==" "testimonials") }}
+                  {{ with $testimonials }}
                  <a class="nav-item nav-link" href="/testimonials/">Testimonials</a>
+                  {{ end }}
                  <a class="nav-item nav-link" href="/faqs/">Faqs</a>
                  <a class="nav-item nav-link" href="/sections/privacy/">Privacy</a>
               </div>
