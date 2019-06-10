@@ -3,7 +3,7 @@ title: Why do I have low self esteem? – nature versus nurture
 tags:
   - self-esteem
   - low self esteem
-publishDate: '2019-06-10 14:15:36'
+publishDate: 2019-06-10 14:15:36
 ---
 ## The stories we tell ourselves and where they come from
 
