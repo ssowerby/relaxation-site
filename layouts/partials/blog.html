@@ -2,7 +2,7 @@
    <div class="col-md">
       {{ range .Data.Pages.ByDate.Reverse }}
       <article class="p-2 mt-3">
-         <h2>{{ .Title }}</h2>
+         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
          {{ .Summary }}
          <a class="read-more" href="{{ .Permalink }}">Read More</a>
       </article>
