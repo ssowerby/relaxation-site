@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ssowerby/hypnotherapy-site
+  repo: ssowerby/relaxation-site
 
 publish_mode: editorial_workflow
 media_folder: "static/uploads"
