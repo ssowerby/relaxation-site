@@ -1,12 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Nunito');
 
-html body {
+body {
    font-family: "Open Sans", sans-serif;
    position: relative;
-}
-
-body {
    padding-left: 3em !important;
    padding-right: 3em !important;
 }
@@ -14,6 +11,12 @@ body {
 h1,h2,h3,h4 {
    font-family: "Nunito", serif;
    color: #f57d2c;
+}
+
+.section {
+   border: #888888 solid thin;
+   padding: 10px;
+   margin: 8px;
 }
 
 a {
@@ -53,12 +56,13 @@ nav .nav-link {
    float: left;
 }
 
+
 .navbar, .spacer {
    min-height: 7ch;
 }
 
-.main-section {
-   margin-top: 5ch;
+.content-area {
+   margin-top: 7ch;
    margin-bottom: 7ch;
 }
 
@@ -67,33 +71,9 @@ nav .nav-link {
    padding: 0;
 }
 
-section {
-   width: 100vw;
-}
-
 .content {
    padding: 2ch 7.5vw;
    margin: 0;
-}
-
-.solid-background {
-   background-color: rgba(27, 34, 63, 0.9);
-   color: white;
-}
-
-.pattern-background {
-   background-image: url("/uploads/animal_skin.jpg");
-   background-repeat: repeat;
-   background-size: 50%;
-}
-
-.pattern-strip {
-   margin-top: 2em;
-   background-image: url("/uploads/skinpatternhorizontal.jpg");
-   background-repeat: repeat-x;
-   background-position: center;
-   background-size: 8em;
-   height: 8em;
 }
 
 .huge {
@@ -150,16 +130,6 @@ blockquote p {
    display: inline;
 }
 
-
-.services-list {
-   margin-bottom: 3ch
-}
-
-.services-list a {
-   padding-left: 2em;
-   color: black
-}
-
 .dropdown-menu {
    background-color: white;
 }
@@ -184,7 +154,7 @@ blockquote p {
 }
 
 .title-orange {
-   color: #f57d2c;
+   color: #dc8f2a;
 }
 
 .title-tiny {

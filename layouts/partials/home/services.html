@@ -1,13 +1,6 @@
 <div class="content">
 
    <h1 class="section-title">Services</h1>
-
-   {{ $services := sort (where .Site.RegularPages "Section" "services") ".Params.order" }}
-
-   <div class="row">
-      {{ range $services }}
-      <div class=" col-sm-12 col-md-6 col-lg-4">{{ .Render "summary" }}</div>
-      {{ end }}
-   </div>
+   Services
 
 </div>

@@ -1,13 +1,6 @@
-<div class="row m-0 p-0">
-   <div class="col-lg-6 p-5 portrait solid-background content">
-      {{ with .Site.GetPage "page" "sections/about.md" }}
-         <h1 class="section-title">{{ .Title }}</h1>
-         <div>{{ .Content }}</div>
-      {{ end }}
-   </div>
-   <div class="col-lg-6 portrait pattern-background p-5 d-flex content">
-      <div class="embed-responsive embed-responsive-16by9">
-         <iframe src="https://www.youtube.com/embed/ywvNnUIcmJg" class="embed-responsive-item" allow="encrypted-media" allowfullscreen></iframe>
-      </div>
-   </div>
+<div class="content">
+   {{ with .Site.GetPage "page" "sections/about.md" }}
+   <h1 class="section-title">{{ .Title }}</h1>
+   <div>About Content</div>
+   {{ end }}
 </div>

@@ -11,17 +11,20 @@
               <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Working With Me</a>
               <div class="dropdown-menu">
                  <a class="nav-item nav-link" href="/aboutme/">About Me</a>
-                 <a class="nav-item nav-link" href="/programme/">Start Now</a>
+                 <a class="nav-item nav-link" href="/services/">Services</a>
                  {{ $testimonials := len (where .Site.RegularPages "Section" "==" "testimonials") }}
                   {{ with $testimonials }}
                  <a class="nav-item nav-link" href="/testimonials/">Testimonials</a>
                   {{ end }}
                  <a class="nav-item nav-link" href="/faqs/">Faqs</a>
-                 <a class="nav-item nav-link" href="/sections/privacy/">Privacy</a>
+                 <a class="nav-item nav-link" href="/privacy/">Privacy</a>
               </div>
            </div>
            <a class="nav-item nav-link" href="/#contact">Contact</a>
+           {{ $blogs := len (where .Site.RegularPages "Section" "==" "blogs") }}
+           {{ with $blogs }}
            <a class="nav-item nav-link" href="/blog/">Blog</a>
+           {{ end }}
         </div>
     </div>
 </nav>
