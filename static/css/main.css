@@ -1,30 +1,72 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url('https://fonts.googleapis.com/css?family=Sarala');
+
 
 body {
    font-family: "Open Sans", sans-serif;
    position: relative;
-   padding-left: 3em !important;
-   padding-right: 3em !important;
+}
+
+.content-area:before {
+   content: "";
+   position: fixed;
+   top: -5%;
+   left: -5%;
+   right: 0;
+   bottom: 0;
+   z-index: -1;
+
+   display: block;
+   filter: blur(0px) brightness(1.0) hue-rotate(0deg) opacity(1);
+   xbackground-image: url("/images/stock-photo-handmade-grey-knitting-wool-texture-background-521420683.jpg");
+   background-image: url("/images/stock-photo-sea-stones-background-115218976.jpg");
+   xbackground-image: url("/images/stock-photo-wool-texture-for-background-532462372.jpg");
+   background-size: cover;
+   width: 110%;
+   height: 110%
+}
+
+.content-area {
+   overflow: auto;
+   position: relative;
+   padding-left: 2em !important;
+   padding-right: 2em !important;
 }
 
 h1,h2,h3,h4 {
-   font-family: "Nunito", serif;
-   color: #f57d2c;
+   font-family: "Sarala", sans-serif;
+   color: #1297a0;
 }
 
 .section {
-   border: #888888 solid thin;
-   padding: 10px;
-   margin: 8px;
+   padding: 2em 2em;
+   margin: 1em;
+   background-color: rgba(255, 255, 255, 0.85);
+   border-radius: 0.3em;
+   min-height: 35vh;
+   backdrop-filter: blur(10px);
+}
+
+.content {
+   background-color: rgba(255, 255, 255, 0.90);
+   border-radius: 0.3em;
+   backdrop-filter: blur(10px);
+   padding: 2ch 7.5vw;
+   margin: 0;
+   max-width: 70em;
 }
 
 a {
-   color: #c74800;
+   color: #ecb06e;
 }
 
 a:hover {
-   color: #f57d2c;
+   color: #ecb06e;
+}
+
+a:visited {
+   color: #ecb06e
 }
 
 .bottom-bar {
@@ -33,21 +75,26 @@ a:hover {
    bottom: 0;
    width: 100%;
    height: 4ch;
-   background-color: #1B223F;
+   background-color: rgb(80, 80, 80);;
    color: white;
    text-align: center;
 }
 
-nav,.navbar-nav {
-   background-color: white;
+.navbar-nav {
+   background-color: rgba(80, 80, 80, 0.85);
+}
+
+button.navbar-toggler {
+   border: none;
+   outline: none;
 }
 
 nav .nav-link {
-   color: #c74800 !important
+   color: #ecb06e !important
 }
 
 .navbar-nav .nav-link:hover {
-   color: #c74800 !important;
+   color: white !important;
 }
 
 .drop-caps::first-letter {
@@ -64,16 +111,6 @@ nav .nav-link {
 .content-area {
    margin-top: 7ch;
    margin-bottom: 7ch;
-}
-
-.navbar {
-   margin: 0;
-   padding: 0;
-}
-
-.content {
-   padding: 2ch 7.5vw;
-   margin: 0;
 }
 
 .huge {
@@ -100,22 +137,15 @@ nav .nav-link {
    padding-top: 0.2em;
 }
 
-.section-title {
-   font-size: xx-large;
-   font-family: "Open Sans", sans-serif;
+.section h1 {
+   font-size: 125%;
+   font-family: "Sarala", sans-serif;
+   color: #1297a0;
    padding-bottom: 0.5em;
 }
 
 .badgeGenrUNK {
    display: inline-block;
-}
-
-.map {
-   border:0;
-   width: 100%;
-   height: 30vh;
-   margin-top: 1em;
-   margin-bottom: 2em;
 }
 
 blockquote {
@@ -130,12 +160,14 @@ blockquote p {
    display: inline;
 }
 
-.dropdown-menu {
-   background-color: white;
-}
-
-.dropdown-menu .dropdown-item a:hover {
-   color: black !important;
+.site-name {
+   font-family: "Sarala", sans-serif;
+   font-size: 1.4em;
+   color: rgb(240, 240, 240) !important;
+   xbackground-color: rgba(0,0,0,0.1);
+   padding: 0.3em;
+   margin-left: 1.5em;
+   text-shadow: 0px 1px 1px rgba(0,0,0,0.5), 0px -1px 1px rgba(0,0,0,0.5), 1px 0px 1px rgba(0,0,0,0.5), -1px 0px 1px rgba(0,0,0,0.5);
 }
 
 .blog .content img:first-of-type {
@@ -147,34 +179,6 @@ blockquote p {
 .spacer {
    padding: 0;
    margin: 0;
-}
-
-.title-white {
-   color: white
-}
-
-.title-orange {
-   color: #dc8f2a;
-}
-
-.title-tiny {
-   font-size: 100%;
-}
-
-.title-small {
-   font-size: 125%;
-}
-
-.title-medium {
-   font-size: 175%;
-}
-
-.title-large {
-   font-size: 300%;
-}
-
-.title-background * {
-   font-family: "Nunito", sans-serif;
 }
 
 .fitpic {

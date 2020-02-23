@@ -1,6 +1,5 @@
 {{ define "main" }}
-<div class="w-100 pattern-strip"></div>
-<div class="content">
+<div class="content content-layout">
    <h1>Frequently Asked Questions</h1>
    {{ range sort .Data.Pages ".Params.order" }}
       <article class="p-2 mt-3">

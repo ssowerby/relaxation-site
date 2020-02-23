@@ -1,30 +1,29 @@
-<nav class="navbar navbar-expand-sm fixed-top navbar-light top-spacing" role="navigation">
-    <div class="navbar-brand">
-       <a class="nav-item nav-link" href="/"><img width="150em" src="/uploads/hypnosislogo.svg"></a>
+<nav class="navbar fixed-top navbar-light top-spacing" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-brand mx-auto">
+            <a class="nav-item site-name" href="/">Help Me Relax</a>
+        </div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar" aria-controls="myNavbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
     </div>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar" aria-controls="myNavbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="myNavbar">
-        <div class="navbar-nav ml-auto">
-           <div class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Working With Me</a>
-              <div class="dropdown-menu">
-                 <a class="nav-item nav-link" href="/aboutme/">About Me</a>
-                 <a class="nav-item nav-link" href="/services/">Services</a>
-                 {{ $testimonials := len (where .Site.RegularPages "Section" "==" "testimonials") }}
-                  {{ with $testimonials }}
-                 <a class="nav-item nav-link" href="/testimonials/">Testimonials</a>
-                  {{ end }}
-                 <a class="nav-item nav-link" href="/faqs/">Faqs</a>
-                 <a class="nav-item nav-link" href="/privacy/">Privacy</a>
-              </div>
-           </div>
-           <a class="nav-item nav-link" href="/#contact">Contact</a>
-           {{ $blogs := len (where .Site.RegularPages "Section" "==" "blogs") }}
-           {{ with $blogs }}
-           <a class="nav-item nav-link" href="/blog/">Blog</a>
-           {{ end }}
+    <div class="ml-auto">
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <div class="navbar-nav px-3 text-left">
+                <a class="nav-item nav-link" href="/aboutme/">About Me</a>
+                <a class="nav-item nav-link" href="/services/">Services</a>
+                {{ $testimonials := len (where .Site.RegularPages "Section" "==" "testimonials") }}
+                {{ with $testimonials }}
+                   <a class="nav-item nav-link" href="/testimonials/">Testimonials</a>
+                {{ end }}
+                <a class="nav-item nav-link" href="/faqs/">Faqs</a>
+                <a class="nav-item nav-link" href="/privacy/">Privacy</a>
+                <a class="nav-item nav-link" href="/#contact">Contact</a>
+                {{ $blogs := len (where .Site.RegularPages "Section" "==" "blogs") }}
+                {{ with $blogs }}
+                   <a class="nav-item nav-link" href="/blog/">Blog</a>
+                {{ end }}
+            </div>
         </div>
     </div>
 </nav>

@@ -36,16 +36,15 @@
 
 </head>
 {{ $bodytype := cond .IsHome "home" .Section }}
-<body class="p-0 m-0 {{ $bodytype }}">
+<body class="{{ $bodytype }}">
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5K9NMKQ"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<div class="top-bar">
 {{ partial "menu" . }}
-</div>
-<div data-target=".navbar-collapse" class="container-fluid content-area">
+
+<div class="container-fluid content-area">
 {{ block "main" . }}
 {{ end }}
 </div>
