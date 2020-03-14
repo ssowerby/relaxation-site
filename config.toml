@@ -10,14 +10,19 @@ disableAliases = true
 disallow_search_engines = false # set robots.txt to disallow everything
 description = "Hypnotherapy services in Central and South East London, helping deal with anxiety, boost self esteem, gain confidence, provide freedom from phobias and reduce performance anxiety."
 
-# add redirects/headers
+# add redirects + headers + dynamic config
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
+section = ["HTML", "RSS", "CONF"]
 
 # remove .{ext} from text/netlify
 [mediaTypes."text/netlify"]
 suffixes = [""]
 delimiter = ""
+
+# Add config
+[mediaTypes."application/yaml"]
+suffixes = ["yml"]
 
 # add output format for netlify _redirects
 [outputFormats.REDIRECTS]
@@ -33,3 +38,9 @@ baseName = "_headers"
 isPlainText = true
 notAlternative = true
 
+# add output format for Netlify config
+[outputFormats.CONF]
+mediatype = "application/yaml"
+baseName = "config"
+isPlainText = true
+notAlternative = true
