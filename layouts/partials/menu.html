@@ -1,26 +1,20 @@
-<nav class="navbar fixed-top navbar-light top-spacing" role="navigation">
-    <div class="container-fluid">
-        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#myNavbar" aria-controls="myNavbar" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-    </div>
-    <div class="ml-auto">
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="navbar-nav px-3 text-left">
-                <a class="nav-item nav-link" href="/aboutme/">About Me</a>
-                <a class="nav-item nav-link" href="/services/">Services</a>
-                {{ $testimonials := len (where .Site.RegularPages "Section" "==" "testimonials") }}
-                {{ with $testimonials }}
-                   <a class="nav-item nav-link" href="/testimonials/">Testimonials</a>
-                {{ end }}
-                <a class="nav-item nav-link" href="/faqs/">Faqs</a>
-                <a class="nav-item nav-link" href="/privacy/">Privacy</a>
-                <a class="nav-item nav-link" href="/#contact">Contact</a>
-                {{ $blogs := len (where .Site.RegularPages "Section" "==" "blogs") }}
-                {{ with $blogs }}
-                   <a class="nav-item nav-link" href="/blog/">Blog</a>
-                {{ end }}
-            </div>
-        </div>
-    </div>
-</nav>
+<header>
+   <nav role="navigation">
+      <input type="checkbox" id="nav" /><label for="nav"></label>
+      <ul>
+         <li><a href="/aboutme/">About Me</a></li>
+         <li><a href="/services/">Services</a></li>
+         {{ $testimonials := len (where .Site.RegularPages "Section" "==" "testimonials") }}
+         {{ with $testimonials }}
+         <li><a href="/testimonials/">Testimonials</a></li>
+         {{ end }}
+         <li><a href="/faqs/">Faqs</a></li>
+         <li><a href="/privacy/">Privacy</a></li>
+         <li><a href="/#contact">Contact</a></li>
+         {{ $blogs := len (where .Site.RegularPages "Section" "==" "blogs") }}
+         {{ with $blogs }}
+         <li><a href="/blog/">Blog</a></li>
+         {{ end }}
+    </ul>
+   </nav>
+</header>
