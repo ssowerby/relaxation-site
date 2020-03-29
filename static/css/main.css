@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=Courgette');
 @import url('https://fonts.googleapis.com/css?family=Sarala');
 
 
@@ -7,21 +6,21 @@ body {
    font-family: "Open Sans", sans-serif;
 }
 
-.content-area:before {
+body:before {
    content: "";
    position: fixed;
    top: -5%;
    left: -5%;
    right: -5%;
-   bottom: -5%;
-   z-index: -1;
+   bottom: -15%;
+   z-index: -2;
 
    display: block;
    filter: blur(0px) brightness(1.0) hue-rotate(0deg) opacity(1);
    background-image: url("/images/stock-photo-sea-stones-background-115218976.jpg");
    background-size: cover;
    width: 110%;
-   height: 110%
+   height: 120%
 }
 
 h1,h2,h3,h4 {
@@ -30,20 +29,63 @@ h1,h2,h3,h4 {
 }
 
 .section {
-   padding: 2vh 3vw;
-   margin: 2vh 2vw;
+   padding: 3vh 4vw;
+   margin: 0 0;
    min-height: 20vh;
    background-color: rgba(255, 255, 255, 0.85);
    border-radius: 0.3em;
    backdrop-filter: blur(10px);
 }
 
-.content {
-   background-color: rgba(255, 255, 255, 0.90);
+.content-area {
+   position: fixed;
+   top: 5vh;
+   left: 4vw;
+   width: 92vw;
+   height: 88vh;
+   margin: 0;
+   padding: 0 0;
+}
+
+.backdrop {
+   position: fixed;
+   background-color: rgba(255, 255, 255, 0.80);
    border-radius: 0.3em;
    backdrop-filter: blur(10px);
-   padding: 2vh 7.5vw;
-   margin: 5ch 0 7ch;
+   top: 5vh;
+   left: 4vw;
+   width: 92vw;
+   height: 88vh;
+   z-index: -1;
+   margin: 0;
+   padding: 0;
+}
+
+.home .backdrop {
+   display: none
+}
+
+.content {
+   position: relative;
+   height: 100%;
+   margin: 0 auto;
+   max-width: 50em;
+   overflow-y: scroll;
+   padding: 3vh 5vw 3vh;
+   box-sizing: border-box;
+}
+
+.home .content {
+   padding: 0 0;
+}
+
+.content::-webkit-scrollbar {
+   display: none;
+}
+
+.content {
+   -ms-overflow-style: none;
+   scrollbar-width: none
 }
 
 a {
@@ -88,7 +130,6 @@ a:visited {
    font-size: 125%;
    font-family: "Sarala", sans-serif;
    color: #1297a0;
-   padding-bottom: 0.5em;
 }
 
 .content h1 {
@@ -117,24 +158,40 @@ a:visited {
    height: 100%;
 }
 
-#logo-wrapper {
-   position: fixed;
-   top: 1em;
-   z-index: 3;
-   left: 50%
-}
-
 #logo {
-   position: relative;
-   left: -50%;
-   top: 0;
-   min-width: 20vw;
+   position: fixed;
+   left: 50%;
+   top: 5vh;
+   z-index: 5;
    cursor: pointer;
+   width: 10vh;
+   height: 10vh;
+   transform: translate(-50%,-50%)
 }
 
-@media (max-wdith: 991px) {
+@media (max-width: 991px) {
+   .section {
+      margin-bottom: 2vh;
+   }
+
    .section:last-of-type {
-      margin-bottom: 7ch;
+      margin-bottom: 0
+   }
+}
+
+@media (max-width: 600px) {
+   .email a, .phone a {
+      font-size: 0;
+   }
+
+   .email a:after{
+      content: 'Email Me';
+      font-size: initial;
+   }
+
+   .phone a:after{
+      content: 'Phone Me';
+      font-size: initial;
    }
 }
 
@@ -142,14 +199,14 @@ a:visited {
 
    .section {
       position: fixed;
-      width: 40vw;
+      width: 37vw;
       height: 35vh;
       margin: 0;
-      padding: 2vh 2vw;
+      padding: 3vh 3vw;
    }
 
    .section.top {
-      top: 10vh;
+      top: 7vh;
    }
 
    .section.left {
@@ -157,23 +214,16 @@ a:visited {
    }
 
    .section.bottom {
-      bottom: 10vh;
+      bottom: 7vh;
    }
 
    .section.right {
       right: 5vw;
    }
 
-   .home #logo-wrapper {
+   .home #logo {
       top: 50%;
    }
-
-   .home #logo {
-      min-width: 11vmin;
-      min-height: 11vmin;
-      transform:translateY(-50%)
-   }
-
 }
 
 .bottom-bar div {
@@ -198,7 +248,7 @@ nav {
    position: fixed;
    top: 0;
    left: 0;
-   z-index: 5;
+   z-index: 10;
    padding: 0;
    margin: 0;
 }
@@ -209,7 +259,6 @@ nav input[type="checkbox"] {
 
 nav label {
    display: block;
-   background: #222;
    right: 1em;
    top: 1em;
    width: 40px;
@@ -259,9 +308,9 @@ nav [type="checkbox"]:not(:checked) + label:after {
    display: block;
    width: 32px;
    height: 5px;
-   background: #777;
+   background: #262E3D;
    margin: 7px 5px;
-   box-shadow: 0px 10px 0px #777, 0px 20px 0px #777
+   box-shadow: 0px 10px 0px #262E3D, 0px 20px 0px #262E3D
 }
 
 nav [type="checkbox"]:checked + label:before, nav [type="checkbox"]:checked + label:after {
@@ -272,7 +321,7 @@ nav [type="checkbox"]:checked + label:before, nav [type="checkbox"]:checked + la
    left: 0;
    height: 8px;
    margin-top: -4px;
-   background: #777;
+   background: white;
 }
 
 
