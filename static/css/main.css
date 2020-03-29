@@ -31,6 +31,7 @@ h1,h2,h3,h4 {
 .section {
    padding: 3vh 4vw;
    margin: 0 0;
+   width: 84vw;
    min-height: 20vh;
    background-color: rgba(255, 255, 255, 0.85);
    border-radius: 0.3em;
@@ -123,10 +124,6 @@ a:visited {
    font-size: 200%;
    font-family: "Sarala", sans-serif;
    color: #1297a0;
-}
-
-.content h1 {
-   max-width: 35vw;
 }
 
 .badgeGenrUNK {
