@@ -47,20 +47,6 @@ h1,h2,h3,h4 {
    padding: 0 0;
 }
 
-.backdrop {
-   position: fixed;
-   background-color: rgba(255, 255, 255, 0.80);
-   border-radius: 0.3em;
-   backdrop-filter: blur(10px);
-   top: 5vh;
-   left: 4vw;
-   width: 92vw;
-   height: 88vh;
-   z-index: -1;
-   margin: 0;
-   padding: 0;
-}
-
 .home .backdrop {
    display: none
 }
@@ -73,10 +59,17 @@ h1,h2,h3,h4 {
    overflow-y: scroll;
    padding: 3vh 5vw 3vh;
    box-sizing: border-box;
+   background-color: rgba(255, 255, 255, 0.80);
+   border-radius: 0.3em;
+   backdrop-filter: blur(10px);
 }
 
 .home .content {
    padding: 0 0;
+   background: none;
+   backdrop-filter: none;
+   width: 100vw;
+   max-width: none;
 }
 
 .content::-webkit-scrollbar {
