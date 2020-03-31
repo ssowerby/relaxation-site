@@ -44,3 +44,6 @@ mediatype = "application/yaml"
 baseName = "config"
 isPlainText = true
 notAlternative = true
+
+[markup.goldmark.renderer]
+unsafe= true
