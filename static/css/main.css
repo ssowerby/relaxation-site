@@ -43,6 +43,7 @@ h2, h3, h2 a, h2 a:visited {
    background-color: rgba(255, 255, 255, 0.85);
    border-radius: 0.3em;
    backdrop-filter: blur(10px) contrast(0.8);
+   overflow: hidden;
 }
 
 .sectionlink {
@@ -217,9 +218,10 @@ a:visited {
       width: 15%;
       position: absolute;
       right: 3vw;
-      top: 6vh;
-      bottom: 3vh;
+      top: 0;
+      height: 100%;
       padding: 1em;
+      margin: 7vh 0;
       box-sizing: border-box;
       background-color: rgba(255, 255, 255, 0.70);
       border-radius: 0.3em;
@@ -354,4 +356,13 @@ nav [type="checkbox"]:checked ~ ul {
 
 nav [type="checkbox"]:not(:checked) ~ ul {
    pointer-events:none;
+}
+
+.align-right {
+   text-align: right;
+}
+
+.home .blog-summary {
+   max-height: 10vh;
+   overflow: hidden;
 }
