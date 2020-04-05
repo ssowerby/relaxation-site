@@ -16,7 +16,7 @@ body:before {
    z-index: -2;
 
    display: block;
-   filter: blur(0px) brightness(1.0) hue-rotate(0deg) opacity(1);
+   filter: blur(2px) brightness(0.9);
    background-image: url("/images/stock-photo-sea-stones-background-115218976.jpg");
    background-size: cover;
    width: 110%;
@@ -31,7 +31,7 @@ h1 {
    color: #27506a;
 }
 
-h2, h2 a, h2 a:visited {
+h2, h3, h2 a, h2 a:visited {
    color: #13859a;
 }
 
@@ -42,7 +42,7 @@ h2, h2 a, h2 a:visited {
    min-height: 20vh;
    background-color: rgba(255, 255, 255, 0.85);
    border-radius: 0.3em;
-   backdrop-filter: blur(10px);
+   backdrop-filter: blur(10px) contrast(0.8);
 }
 
 .sectionlink {
@@ -70,7 +70,7 @@ h2, h2 a, h2 a:visited {
    box-sizing: border-box;
    background-color: rgba(255, 255, 255, 0.80);
    border-radius: 0.3em;
-   backdrop-filter: blur(10px);
+   backdrop-filter: blur(10px) contrast(0.8);
 }
 
 .home .content {
@@ -215,16 +215,22 @@ a:visited {
    .tags {
       width: 15%;
       position: absolute;
-      right: 5vw;
+      right: 3vw;
       top: 6vh;
+      bottom: 3vh;
+      padding: 1em;
+      box-sizing: border-box;
+      background-color: rgba(255, 255, 255, 0.70);
+      border-radius: 0.3em;
    }
 
    .blog .content {
-      max-width: 100em;
+      max-width: 90em;
    }
 
    .blog .articles {
-      width: 75%;
+      width: 80%;
+      max-width: 60em;
    }
 
 }

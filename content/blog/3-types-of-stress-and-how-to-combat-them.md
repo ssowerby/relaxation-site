@@ -7,7 +7,7 @@ tags:
 
 Worrying whether you sent that email, stressing over getting your project in on time, feeling anxious about a meeting. Overbearing boss, your spouse, kids, parents, utility bills, late trains, demanding customers, stress can come from anywhere. And it keeps coming day after day like a relentless wave. You might find yourself tossing and turning at night chewing it over or losing time staring into space trying to think of solutions through a fog of panic. But when there’s so much of it coming from so many directions where do you start? 
 
-#### Identify what kind of stress it is
+### Identify what kind of stress it is
 There are three main categories of stress. Identifying which type of stress is getting to you is the first step to dealing with it.
 
 1. **Stress you can do something about right now**  
@@ -19,10 +19,10 @@ Does it need to wait till later? Is the person you need to speak to not availabl
 3. **Stress you can’t do anything about**  
 Maybe one of your relatives is ill, your house has been flooded or you’ve been made redundant. Some things are out of your control. 
 
-#### So how do you combat the 3 types of stress?
+### So how do you combat the 3 types of stress?
 Mark three columns on a piece of paper, one for each of the above categories. List down everything your stressing about in the appropriate column. 
 
-#### What difference will categorizing it make?
+### What difference will categorizing it make?
 Your brain is not a good place to keep to do lists. It will keep reminding you of things at inconvenient times like when you’re trying to sleep. This is because it has an urge to complete them. A study showed that waiters are very good at remembering an order before it’s completed but once it’s done they forget it. This is a good when it helps drive us to complete projects. However sometimes it’s not helpful, like in the middle of the night when you can’t do anything about it. So the best thing to do it get your stress list out of your head onto paper and make a plan.
 
 Once it’s down on paper you can see it and start dealing with it.
