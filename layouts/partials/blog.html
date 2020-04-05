@@ -1,20 +1,19 @@
-<div class="row">
-   <div class="col-md">
-      {{ range .Data.Pages.ByDate.Reverse }}
-      <article class="p-2 mt-3">
-         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-         {{ .Summary }}
-         <a class="read-more" href="{{ .Permalink }}">Read More</a>
-      </article>
-      {{ end }}
-   </div>
+<div class="articles">
+   {{ range .Data.Pages.ByDate.Reverse }}
+   <article>
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      {{ .Summary }}
+      <a class="read-more" href="{{ .Permalink }}">Read More</a>
+   </article>
+   {{ end }}
+</div>
 
-   <div class="col-md-auto">
-      <h2>Tags</h2>
-      <ul id="all-tags">
-         {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-         <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
-         {{ end }}
-      </ul>
-   </div>
+<div class="tags">
+   <a href="/blog" class="sectionlink">All Blogs</a>
+   <h2>Tags</h2>
+   <ul>
+      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+      {{ end }}
+   </ul>
 </div>

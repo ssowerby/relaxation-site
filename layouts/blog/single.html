@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<div class="articles">
+
+<h1>{{ .Title }}</h1>
+
+<div>
+   {{ .Content }}
+</div>
+
+</div>
+
+
+<div class="tags">
+   <a href="/blog" class="sectionlink">More Blogs</a>
+   <h2>Tags</h2>
+   {{ range (.GetTerms "tags") }}
+   <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+   {{ end }}
+</div>
+
+{{ end }}

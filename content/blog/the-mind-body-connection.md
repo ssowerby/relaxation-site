@@ -1,5 +1,5 @@
 ---
-title: The mind body connection
+title: The Mind/Body Connection
 publishDate: 2019-02-05 15:42:00
 tags:
   - healthy mind
