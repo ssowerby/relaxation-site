@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ $thisBlog := .UniqueID }}
+
 <div class="articles">
 
 <h1>{{ .Title }}</h1>
@@ -11,12 +13,28 @@
 </div>
 
 
-<div class="tags">
+<div class="sidebar">
    <a href="/blog" class="sectionlink">More Blogs</a>
+
+   {{ $thisBlog}}
+
+   <h3>Other Recent Posts</h3>
+
+   <ul>
+   {{ range first 5 (where (where .Site.RegularPages "Section" "==" "blog") "UniqueID" "ne" $thisBlog).ByDate.Reverse }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+   {{end}}
+   </ul>
+
+   <!--
    <h2>Tags</h2>
+   <ul>
    {{ range (.GetTerms "tags") }}
    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
    {{ end }}
+   </ul>
+   -->
+
 </div>
 
 {{ end }}

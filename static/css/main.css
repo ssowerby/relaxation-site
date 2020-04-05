@@ -46,8 +46,9 @@ h2, h3, h2 a, h2 a:visited {
 }
 
 .sectionlink {
-   padding: 1em 0;
+   margin: 1em 0;
    font-size: 125%;
+   display: block;
 }
 
 .content-area {
@@ -149,7 +150,7 @@ a:visited {
    transform: translate(-50%,-50%)
 }
 
-.tags {
+.sidebar {
    padding-top: 1em;
 }
 
@@ -212,7 +213,7 @@ a:visited {
       min-height: 15vmin;
    }
 
-   .tags {
+   .sidebar {
       width: 15%;
       position: absolute;
       right: 3vw;
