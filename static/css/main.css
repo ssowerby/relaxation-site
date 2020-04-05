@@ -68,7 +68,7 @@ h2, h3, h2 a, h2 a:visited {
    overflow-y: scroll;
    padding: 6vh 5vw 3vh;
    box-sizing: border-box;
-   background-color: rgba(255, 255, 255, 0.80);
+   background-color: rgba(255, 255, 255, 0.85);
    border-radius: 0.3em;
    backdrop-filter: blur(10px) contrast(0.8);
 }
