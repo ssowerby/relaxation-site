@@ -38,7 +38,7 @@ h2, h3, h2 a, h2 a:visited {
 }
 
 .section {
-   padding: 2ch 3em;
+   padding: 2ch 2em;
    margin: 0 0;
    width: 92vw;
    box-sizing: border-box;
@@ -70,7 +70,6 @@ h2, h3, h2 a, h2 a:visited {
    margin: 0 auto;
    max-width: 60em;
    overflow-y: scroll;
-   padding: 6vh 5vw 3vh;
    box-sizing: border-box;
    background-color: rgba(255, 255, 255, 0.85);
    border-radius: 0.3em;
@@ -183,7 +182,7 @@ a:visited {
 @media (max-width: 991px) {
 
    .section {
-      margin-bottom: 2vh;
+      margin-bottom: 2ch;
    }
 
    .section:last-of-type {
@@ -207,12 +206,20 @@ a:visited {
    }
 
    .blog.kind-page .sidebar {
-      padding: 5vw;
+      padding: 2em;
+   }
+
+   .content {
+      padding: 5vh 2em 2ch;
    }
 
 }
 
 @media (min-width: 992px) {
+
+   .content {
+      padding: 5vh 5vw 3vh;
+   }
 
    .section {
       position: fixed;
