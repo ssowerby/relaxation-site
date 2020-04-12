@@ -9,18 +9,20 @@ body {
 body:before {
    content: "";
    position: fixed;
-   top: -5%;
-   left: -5%;
-   right: -5%;
-   bottom: -15%;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
    z-index: -2;
-
    display: block;
-   filter: blur(2px) brightness(0.9);
-   background-image: url("/images/stock-photo-sea-stones-background-115218976.jpg");
+   background-image: url("/images/background_large.jpg");
    background-size: cover;
-   width: 110%;
-   height: 120%
+}
+
+@media (max-width: 991px) {
+   body:before {
+      background-image: url("/images/background_medium.jpg");
+   }
 }
 
 h1,h2,h3,h4 {
