@@ -35,3 +35,11 @@ collections:
     - { label: "Question", name: "title", widget: "string" }
     - { label: "Answer", name: "body", widget: "markdown" }
 
+  - name: "page"
+    label: "Page"
+    folder: "content"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

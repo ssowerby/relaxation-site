@@ -134,7 +134,7 @@ a:visited {
 .read-more {
    text-decoration: underline;
    display: block;
-   padding-top: 0.2em;
+   padding-top: 0.75em;
 }
 
 .read-more:hover {
@@ -210,7 +210,7 @@ a:visited {
    }
 
    .content {
-      padding: 5vh 2em 2ch;
+      padding: 5vh 3em 2ch;
    }
 
 }
