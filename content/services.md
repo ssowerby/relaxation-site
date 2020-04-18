@@ -1,7 +1,6 @@
 ---
 title: Services
 ---
-# Services
 
 “Just relax”, “don’t worry about it”, “love yourself”. 
 
