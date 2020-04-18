@@ -2,7 +2,7 @@
 title: The Mind/Body Connection
 tags:
   - healthy mind
-publishDate: 2019-02-05T15:42:00.000Z
+publishDate: 2020-04-18 16:03:26
 ---
 ## How to reduce anxiety and stress when you're self isolating
 
