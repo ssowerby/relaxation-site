@@ -10,6 +10,7 @@ Whether those statements from well meaning friends and family make you want to b
 Cantankerous boss, over bearing clients, trains always late, over running projects, family friction, potential sources of stress are a constant. But you can get off the merry-go-round. Which doesn’t mean it will stop spinning but does mean you won’t be in a spin with it. When you relax it’s like putting petrol in the tank. You have the fuel to deal with whatever comes your way without it depleting you. When you relax little and often you’re keeping your tank topped up, ready for when you need it. You know what I mean. Dealing with that awkward customer when you’re already feeling stressed and anxious makes it so much worse. It’s like all of your buttons have risen to the surface and they know just how to play you like a piano to make you jump to their tune. Imagine how much smoother life can go when you’re well rested, calm and those buttons are harder to press.  
 
 ## Relaxation Tool Kit
+
 Helping you learn easy, effective methods to relax and destress, that commfortably fit into your day.
 
 Borrowing from mindfulness, meditation and hypnosis I can help you learn easy ways to calm your mind and relax wherever you are. It’s not a one size fits all approach so don’t worry if you’ve tried one of these before because I have multiple techniques up my sleeve to help you. Together we’ll find you your unique tool kit of methods you can use everyday to keep that relaxation tank topped up.
@@ -24,11 +25,10 @@ A massage for the mind. In the comfort of your own home or even your office, sit
 
 All sessions take place online which means you can take that chilled out feeling straight into your business meeting, evening wind down or whatever you’re doing next.
 
-
 ## Prices
 
 Single 1 hour sessions are £85 or £299 for a pack of 4 sessions.
 
-Ready to book? Book yourself into my diary and I will get back to you with payment details.
+Ready to book? Email/text me and we can arrange to have a quick chat and book in an appointment.
 
-Want to check if it’s right for you? Have a look at my blog to get more of a flavour of what I do or send me an email/text and I’ll call you back for a quick chat. 
+Want to check if it’s right for you? Have a look at my blog to get more of a flavour of what I do or send me an email/text and I’ll call you back for a quick chat.
