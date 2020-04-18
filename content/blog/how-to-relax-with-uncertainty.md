@@ -5,7 +5,7 @@ tags:
   - uncertainty
   - anxiety
   - stress
-publishDate: 2020-04-18 18:38:10
+publishDate: 2020-04-18T18:38:10.000Z
 ---
 **Dealing with the stress and anxiety of self isolation and the coronavirus**
 
@@ -29,4 +29,4 @@ Once you’re comfortable with the breathing technique practice it while you’r
 
 Imagine somewhere it would be very relaxing and safe to be. It could be your own bedroom, somewhere you’ve been on holiday or somewhere you’d like to visit, it doesn’t matter. Imagine being there in as much detail as possible. Is it warm or cool? What colours and shapes can you see? What sounds are there? What does it feel like or how does it smell? Spend some time exploring there until you feel very relaxed. Then, while still relaxing in your special place, get a bit of a sense of that uncertain feeling or thought in the distance. Perhaps there’s a doomsday picture that goes with it. You could imagine seeing it on a TV screen far away. Notice how different it feels when you’re comfortable and relaxed in your special place and it’s all the way over there. You can let the screen go blank and relax even more deeply in your special place before turning it on again. Keep alternating until the feeling/thought doesn’t bother you any more.
 
-If you’re still having trouble coping with the uncertainty I offer one to one online appointments. Alternatively you can check out more techniques on my **[YouTube channel](https://www.youtube.com/channel/UCJcTNav3REGTI1UYEOQkhGQ/)*.***Remember to subscribe if you’d like to be notified when there’snew content.
+If you’re still having trouble coping with the uncertainty I offer one to one online appointments. Alternatively you can check out more techniques on my **[YouTube channel](https://www.youtube.com/channel/UCJcTNav3REGTI1UYEOQkhGQ/)*.***
