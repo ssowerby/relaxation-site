@@ -1,13 +1,7 @@
-<div class="content">
+<h1><a href="/services/">Services</a></h1>
 
-   <h1 class="section-title">Services</h1>
+Want to <b>learn to relax easily and deeply</b> to reap the benefits of relaxation without spending hours every day standing on your head or sitting cross legged trying to beat your thoughts into submission? Then you’re in the right place.
 
-   {{ $services := sort (where .Site.RegularPages "Section" "services") ".Params.order" }}
-
-   <div class="row">
-      {{ range $services }}
-      <div class=" col-sm-12 col-md-6 col-lg-4">{{ .Render "summary" }}</div>
-      {{ end }}
-   </div>
-
+<div class="sectionlink">
+<a href="/services/">My services</a>
 </div>

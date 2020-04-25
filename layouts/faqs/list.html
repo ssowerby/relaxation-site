@@ -1,12 +1,11 @@
 {{ define "main" }}
-<div class="w-100 pattern-strip"></div>
 <div class="content">
-   <h1>Frequently Asked Questions</h1>
-   {{ range sort .Data.Pages ".Params.order" }}
-      <article class="p-2 mt-3">
-         <h2>{{ .Title }}</h2>
-         {{ .Content }}
-      </article>
-   {{ end }}
+<h1>Frequently Asked Questions</h1>
+{{ range sort .Data.Pages ".Params.order" }}
+   <article>
+      <h2>{{ .Title }}</h2>
+      {{ .Content }}
+   </article>
+{{ end }}
 </div>
 {{ end }}
