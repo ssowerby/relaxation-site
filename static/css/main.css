@@ -163,6 +163,30 @@ a:visited {
 }
 
 
+.aboutme {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.aboutme .text {
+    flex-grow: 4;
+}
+
+.aboutme .photobox {
+    flex-grow: 3;
+}
+
+img.photo {
+    display: block;
+    max-width: 35vw;
+    max-height: 35vh;
+    width: auto;
+    height: auto;
+}
+
+
 @media (max-width: 600px) {
    .email a, .phone a {
       font-size: 0;
@@ -289,6 +313,26 @@ a:visited {
    .section h1 a {
       color: inherit;
    }
+
+   .kind-home .aboutme {
+       xdisplay: inline-block;
+   }
+
+   .kind-home .photobox {
+       height: 100%;
+   }
+
+    .kind-home img.photo {
+        max-width: 15vw;
+    }
+
+    .kind-home .aboutme .photobox .photo {
+        xposition: absolute;
+        float: right;
+        bottom: 0;
+        right: 0;
+    }
+
 }
 
 .bottom-bar div {
@@ -421,4 +465,3 @@ nav [type="checkbox"]:not(:checked) ~ ul {
 .align-right {
    text-align: right;
 }
-

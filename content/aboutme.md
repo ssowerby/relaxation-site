@@ -1,5 +1,6 @@
 ---
 title: About Me
+layout: aboutme
 ---
 Hi I'm Rachel Goth, a clinical hypnotherapist based in South London. Working as a hypnotherapist I've noticed a common thread through all of my clients. Whether they’ve come for confidence, sports performance or weight loss the first thing they all need to learn is how to relax. So using a combination of relaxation techniques, mindfulness and hypnosis I help people to feel relaxed more of the time and so stressed and anxious less of the time. It's amazing how many things aren't a problem any more when you find you don't feel stressed or anxious about them.
 
