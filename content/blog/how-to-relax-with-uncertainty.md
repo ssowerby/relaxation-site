@@ -13,9 +13,9 @@ You’re in limbo right now, like everyone else. When will we have this Covid 19
 
 Learning to deal with uncertainty is a skill which is valuable right now and also for your future. We often kid ourselves up that we are in control of everything but that’s simply not possible. How often do your plans go to plan anyway? By learning to deal with uncertainty now you’ll set yourself up for a less stressful future.
 
-### **3 ways to relax with uncertainty**
+## **3 ways to relax with uncertainty**
 
-#### **What if?**
+### **What if?**
 
 You may notice your mind trying to deal with uncertainty by filling in the blanks. This often tends to be by taking the negative, worst case, doomsday scenario and slotting it in. If this is true for you every time you have the thought **stop and think of alternatives**. What’s the best possible outcome? What’s a middle of the road kind of outcome? 
 
@@ -23,7 +23,7 @@ You never know with all the tech companies on the case we might get a vaccine so
 
 You don’t have to believe these alternatives, you’re just making room for different scenarios. By having other options it’s like you’re telling your mind to **‘hold this space’** while it waits for more information.
 
-#### **7/11 breathing**
+### **7/11 breathing**
 
 This one comes up a lot for a reason, it works! You breathe in for a count of 7 and out for a count of 11. The idea is to **breathe out for longer than you breathe in**. This sends a signal to your body and brain to stand down, nothing threatening is happening, it can relax. 
 
@@ -31,7 +31,7 @@ If 7/11 is too long a count for you try 4/7 or another number, as long as the ou
 
 Once you’re comfortable with the breathing technique practice it while you’re worrying, feeling anxious or running doomsday scenarios through your head. Breathing this way can help you relax while having the feeling or thought. Once you can feel relaxed even when the thought or feeling pops up it doesn’t have the same impact on you.
 
-#### **Special place**
+### **Special place**
 
 Imagine somewhere it would be very relaxing and safe to be. It could be your own bedroom, somewhere you’ve been on holiday or somewhere you’d like to visit, it doesn’t matter. Imagine being there in as much detail as possible. Is it warm or cool? What colours and shapes can you see? What sounds are there? What does it feel like or how does it smell? 
 
