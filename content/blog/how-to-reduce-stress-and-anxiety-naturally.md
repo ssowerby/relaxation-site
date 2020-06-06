@@ -1,18 +1,18 @@
 ---
 title: How to reduce stress and anxiety naturally
+subtitle: Relaxation, the natural antidote to stress and anxiety
 tags:
   - reduce stress
   - anxiety
   - relaxation
 publishDate: 2020-06-08 16:52:03
 ---
-## **Relaxation, the natural antidote to stress and anxiety**
 
 We all get frazzled sometimes. Life gets on top of us. Too much to do, too little time. The demands of work and family. Stress of illness or uncertainty. With the lifestyle changes we’ve all made recently due to Coronavirus we may have more stress and anxiety in our lives than ever. 
 
 With thoughts swirling around our heads and the physical stress on our bodies it can feel like a cycle we can’t get out of. But there are **things we can do ourselves to help reduce the effects of stress and anxiety**.
 
-### **Is relaxation really the answer to anxiety?**
+### Is relaxation really the answer to anxiety?
 
 It’s sounds simple doesn’t it? Maybe too simple? But honestly if you were relaxed while you were ruminating on the past or worrying about the future how much better would it feel?
 

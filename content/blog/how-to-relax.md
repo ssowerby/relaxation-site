@@ -1,5 +1,6 @@
 ---
 title: How to relax
+subtitle: 3 mains ways to relax
 tags:
   - how to relax
   - ways to relax
@@ -10,7 +11,6 @@ tags:
   - visualisation
 publishDate: 2020-06-04 16:51:01
 ---
-## **3 mains ways to relax**
 
 There are three main categories of relaxation.
 

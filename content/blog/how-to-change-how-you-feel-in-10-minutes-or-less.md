@@ -1,5 +1,6 @@
 ---
 title: How to change how you feel in 10 minutes or less
+subtitle: How to change how you feel by using your imagination
 tags:
   - hypnotherapy
   - visualisation
@@ -7,13 +8,12 @@ tags:
   - reduce anxiety
 publishDate: 2020-05-18T18:46:00.000Z
 ---
-## **How to change how you feel by using your imagination**
 
 Sometimes a dark cloud can descend on you out of nowhere. Suddenly you might find yourself worrying about something you said to someone or playing the old ‘what if’. 
 
 Other times it can be a feeling which hits you out of nowhere. Just as soon as they come those thoughts and feelings can go but if they don’t there’s a method you can use to send them on their way.
 
-### **How to change a feeling**
+### How to change a feeling
 
 You can either follow along with the video or read through the explanation below.
 

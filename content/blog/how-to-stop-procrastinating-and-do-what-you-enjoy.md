@@ -1,5 +1,6 @@
 ---
 title: How to stop procrastinating and do what you enjoy
+subtitle: Getting motivated by using your imagination
 tags:
   - motivation
   - procrastination
@@ -9,7 +10,6 @@ tags:
   - enjoy
 publishDate: 2020-05-28 16:17:56
 ---
-## Getting motivated by using your imagination
 
 It’s not always about learning to meditate or starting a yoga class.**There are many ways to relax**.
 
@@ -21,7 +21,7 @@ Isn’t it funny how when you’re about to get the paints out or tickle the ivo
 
 Sometimes there’s a bit of **performance anxiety** and sometimes there’s a bit of **reluctance to change** our state of mind, even if it’s to feeling better. So how can you convince yourself to **do the things you know you will enjoy** and relax you?
 
-### **Mental rehearsal**
+### Mental rehearsal
 
 Mental rehearsal is a great way to prepare yourself for doing something. It can reduce performance anxiety and increase your motivation. Because once you **imagine doing it in your mind** you’re half way there.
 
@@ -31,7 +31,7 @@ Which means in a way **you’ve already started** doing the activity. So you’v
 
 You’ve also **activated the human desire to finish** what you start. Which makes it much easier to get on and do it.
 
-### **Try it for yourself**
+### Try it for yourself
 
 Take a few minutes to settle somewhere comfortable and close your eyes if it feels right.
 
