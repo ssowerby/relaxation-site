@@ -1,10 +1,11 @@
 {{ define "main" }}
 <div class="content">
 <h1>Frequently Asked Questions</h1>
-{{ range sort .Data.Pages ".Params.order" }}
+{{ range $index, $element := sort .Data.Pages ".Params.order" }}
    <article>
-      <h2>{{ .Title }}</h2>
-      {{ .Content }}
+      <input class="collapser-toggle" id="faq{{$index}}" type="checkbox">
+      <h2 class="collapser-header"><label for="faq{{$index}}">{{ $element.Title }}</label></h2>
+      <div class="collapser-body">{{ $element.Content }}</div>
    </article>
 {{ end }}
 </div>

@@ -465,3 +465,32 @@ nav [type="checkbox"]:not(:checked) ~ ul {
 .align-right {
    text-align: right;
 }
+
+/* FAQ collapsing sections */
+input[type="checkbox"].collapser-toggle {
+    display: none;
+}
+.collapser-header label {
+    cursor: pointer;
+}
+input[type='checkbox'].collapser-toggle ~ .collapser-header label:after {
+    content: "";
+    border: solid #13859a;
+    border-width: 0 0.1em 0.1em 0;
+    display: inline-block;
+    padding: 0.25em;
+    margin-left: 0.5em;
+}
+input[type='checkbox'].collapser-toggle:not(:checked) ~ .collapser-header label:after {
+    transform: rotate(45deg);
+}
+input[type='checkbox'].collapser-toggle:checked ~ .collapser-header label:after {
+    transform: rotate(-135deg);
+}
+input[type='checkbox'].collapser-toggle:not(:checked) ~ .collapser-body {
+    display: none;
+}
+input[type='checkbox'].collapser-toggle:checked ~ .collapser-body {
+    display: block;
+}
+
