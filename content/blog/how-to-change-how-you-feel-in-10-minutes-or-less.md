@@ -5,10 +5,8 @@ tags:
   - visualisation
   - stress relief
   - reduce anxiety
-publishDate: 2020-05-18 18:46:00
+publishDate: 2020-05-18T18:46:00.000Z
 ---
-
-
 ## **How to change how you feel by using your imagination**
 
 Sometimes a dark cloud can descend on you out of nowhere. Suddenly you might find yourself worrying about something you said to someone or playing the old ‘what if’. 
@@ -23,7 +21,7 @@ You can either follow along with the video or read through the explanation below
 
 You might like to read through this first then do it yourself with your eyes closed.
 
-#### 1. Give it Body
+### 1. Give it Body
 
 * If it’s a thought what’s the feeling that goes with it?
 * Where is the feeling in your body? It could be in your belly, in your head or somewhere else entirely.
@@ -34,9 +32,7 @@ You might like to read through this first then do it yourself with your eyes clo
 * What size is it?
 * Is the shape moving or still?
 
-
-
-#### 2. Begin to change it
+### 2. Begin to change it
 
 * You can change the colour to one that feels more appealing.
 * You can change the shape and the size to something more soothing.
