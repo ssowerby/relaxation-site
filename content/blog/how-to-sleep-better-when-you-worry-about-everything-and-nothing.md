@@ -21,7 +21,7 @@ Obviously if you can deal with your worries during the day they won’t be left 
 
 Your brain loves a puzzle, especially at 3 o’clock in the morning. If there’s a problem you’re worrying about come up with a list of possible solutions. Even ifyou don’t know how to fix it yourself coming up with the next step to try can help ease your mind. For example planning to ask a certain person who knows more about it or reading a particular book.
 
-#### **Fantastical solutions**
+### **Fantastical solutions**
 
 Sometimes you wake up worrying about things you can’t fix like global warming or world peace. If you’re fretting about something big then go big and solve it. In a fantasy world with no rules how could this be resolved? Fairy godmother waving her wand or perhaps humans having the ability to fly? What if everything worked out happily ever after? Make it big and colourful with sights, smells and sounds, like a waking dream.
 
