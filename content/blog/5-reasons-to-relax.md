@@ -33,7 +33,7 @@ This isn’t useful in situations where things aren’t so clear cut. When you�
 
 Relaxing won’t make you ecstatically happy all the time but it does feel better than being stressed and anxious. When you can think about problems in a relaxed manner you can **take things in your stride** more easily. When you’re not stressed little things don’t upset you so much and you’re less likely to get angry and frustrated.
 
-#### **4. You’re a nicer person to be around when you’re relaxed**
+### **4. You’re a nicer person to be around when you’re relaxed**
 
 Even if you feel you can’t justify the time to relax for yourself how about doing it for the benefit of everyone else in your life? When you’re less stressed you’re **more patient with others as well as yourself**. 
 
