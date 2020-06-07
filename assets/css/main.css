@@ -27,6 +27,9 @@ body:before {
 
 h1,h2,h3,h4 {
    font-family: "Sarala", sans-serif;
+   margin: 0;
+   padding: 0;
+   padding-bottom: 0.5vh;
 }
 
 h1 {
@@ -66,7 +69,7 @@ h2, h3, h2 a, h2 a:visited {
    background-color: rgba(255, 255, 255, 0.90);
    border-radius: 0.3em;
    backdrop-filter: blur(10px) contrast(0.8);
-   padding: 5ch;
+   padding: 3ch 5ch;
    margin-bottom: 3ch;
 }
 
@@ -77,6 +80,10 @@ h2, h3, h2 a, h2 a:visited {
 a {
    color: #9a3913;
    text-decoration: none;
+}
+
+.content h1 a {
+   color: inherit;
 }
 
 a:hover {
@@ -134,6 +141,10 @@ a:visited {
    transform: translate(-50%,-50%)
 }
 
+.content.aboutme {
+    padding-bottom: 0;
+}
+
 .aboutme {
     display: flex;
     flex-direction: row;
@@ -152,7 +163,7 @@ a:visited {
 img.photo {
     display: block;
     max-width: 35vw;
-    max-height: 35vh;
+    max-height: 20vh;
     width: auto;
     height: auto;
 }
@@ -190,140 +201,22 @@ img.photo {
    float: right;
 }
 
-nav {
-   position: fixed;
-   top: 0;
-   left: 0;
-   z-index: 10;
-   padding: 0;
-   margin: 0;
+article {
+    margin-bottom: 3vh;
 }
 
-nav input[type="checkbox"] {
-   display: none;
+article:first-of-type {
+    padding-top: 2ch
 }
 
-nav label {
-   display: block;
-   right: 1em;
-   top: 1em;
-   width: 42px;
-   height: 42px;
-   cursor: pointer;
-   position: fixed;
-   z-index: 10;
-   padding: 0;
+article:last-of-type {
+    margin-bottom: 0
 }
 
-nav ul {
-   position: absolute;
-   top: 0;
-   left: 100vw;
-   width: 100vw;
-   height: 100vh;
-   margin: 0;
-   padding: 5em 0;
-   background-color: #262E3D;
-   transition: transform 1s;
+.content:first-of-type {
+    padding-top: 5ch;
 }
 
-nav ul li {
-   display: block;
-   position: relative;
-   width: 100%;
-   line-height: 12vh;
-   font-size: 7vh;
-   padding-left: 0.5em;
+.content.aboutme {
+    padding-top: 7ch;
 }
-
-nav ul li:hover {
-   cursor: pointer;
-    background-color: #262E4F;
-}
-
-nav ul li:hover > a {
-   color: #777;
-}
-
-nav > ul > li > a {
-   cursor: pointer;
-   outline: none;
-   display:inline-block;
-   width: 100%;
-   text-decoration: none;
-}
-
-nav [type="checkbox"]:not(:checked) + label:before {
-   content: '';
-   display: block;
-   width: 32px;
-   height: 3px;
-   background: #262E3D;
-   margin: 10px 5px;
-   box-shadow: 0px 10px 0px #262E3D, 0px 20px 0px #262E3D
-}
-
-nav [type="checkbox"]:checked + label:before, nav [type="checkbox"]:checked + label:after {
-   content: '';
-   position: absolute;
-   width: 100%;
-   top: 50%;
-   left: 0;
-   height: 8px;
-   margin-top: -4px;
-   background: white;
-}
-
-nav [type="checkbox"]:not(:checked) + label {
-    background-color: rgba(255, 255, 255, 0.7);
-    border-radius: 0.3em;
-}
-
-nav [type="checkbox"]:checked + label:before {
-   transform: rotate(45deg);
-}
-
-nav [type="checkbox"]:checked + label:after {
-   transform: rotate(-45deg);
-}
-
-nav [type="checkbox"]:checked ~ ul {
-   transform: translateX(-100vw);
-}
-
-nav [type="checkbox"]:checked ~ ul {
-   pointer-events:auto;
-}
-
-nav [type="checkbox"]:not(:checked) ~ ul {
-   pointer-events:none;
-}
-
-/* FAQ collapsing sections */
-input[type="checkbox"].collapser-toggle {
-    display: none;
-}
-.collapser-header label {
-    cursor: pointer;
-}
-input[type='checkbox'].collapser-toggle ~ .collapser-header label:after {
-    content: "";
-    border: solid #13859a;
-    border-width: 0 0.1em 0.1em 0;
-    display: inline-block;
-    padding: 0.25em;
-    margin-left: 0.5em;
-}
-input[type='checkbox'].collapser-toggle:not(:checked) ~ .collapser-header label:after {
-    transform: rotate(45deg);
-}
-input[type='checkbox'].collapser-toggle:checked ~ .collapser-header label:after {
-    transform: rotate(-135deg);
-}
-input[type='checkbox'].collapser-toggle:not(:checked) ~ .collapser-body {
-    display: none;
-}
-input[type='checkbox'].collapser-toggle:checked ~ .collapser-body {
-    display: block;
-}
-
