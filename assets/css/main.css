@@ -25,6 +25,22 @@ body:before {
    }
 }
 
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #ed8c21;
+}
+
+a:hover {
+    color: #cf832f !important;
+}
+
+a:visited {
+    color: #ed8c21;
+}
+
 h1,h2,h3,h4 {
    font-family: "Sarala", sans-serif;
    margin: 0;
@@ -32,12 +48,20 @@ h1,h2,h3,h4 {
    padding-bottom: 0.5vh;
 }
 
-h1 {
-   color: #27506a;
+h1, h1 a {
+   color: #27506a !important;
 }
 
-h2, h3, h2 a, h2 a:visited {
-   color: #13859a;
+h1 a:hover {
+    color: #173a51 !important;
+}
+
+h2, h3, h2 a, h3 a {
+   color: #13859a !important;
+}
+
+h2 a:hover, h3 a:hover {
+    color: #045968 !important;
 }
 
 .sectionlink {
@@ -77,23 +101,6 @@ h2, h3, h2 a, h2 a:visited {
     margin-bottom: 0
 }
 
-a {
-   color: #9a3913;
-   text-decoration: none;
-}
-
-.content h1 a {
-   color: inherit;
-}
-
-a:hover {
-   color: #9a3913;
-}
-
-a:visited {
-   color: #9a3913;
-}
-
 .bottom-bar {
    position: fixed;
    left: 0;
@@ -107,16 +114,13 @@ a:visited {
 
 .read-more {
    text-decoration: underline;
+    color: inherit;
    display: block;
    padding-top: 0.75em;
 }
 
 .read-more a {
     margin-right: 3ch;
-}
-
-.read-more:hover {
-   color: #262E3D;
 }
 
 .blog .content img:first-of-type {
