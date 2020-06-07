@@ -37,66 +37,41 @@ h2, h3, h2 a, h2 a:visited {
    color: #13859a;
 }
 
-.section {
-   padding: 2ch 2em;
-   margin: 0 0;
-   width: 92vw;
-   box-sizing: border-box;
-   min-height: 10ch;
-   background-color: rgba(255, 255, 255, 0.90);
-   border-radius: 0.3em;
-   backdrop-filter: blur(10px) contrast(0.8);
-   overflow: hidden;
-}
-
 .sectionlink {
    margin: 1em 0;
    font-size: 125%;
    display: block;
 }
 
+.sectionlink a {
+    margin-right: 2ch;
+}
+
 .content-area {
    position: fixed;
-   top: 5vh;
-   left: 4vw;
-   width: 92vw;
-   height: 87vh;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 95vh;
    box-sizing: border-box;
-   padding: 0 0;
+   padding: 7vh 5vw 3vh 5vw;
+   overflow-y: scroll;
+   clip: rect(7vh 95vw 92vh 5vw);
 }
 
 .content {
-   height: 100%;
    margin: 0 auto;
    max-width: 60em;
-   overflow-y: scroll;
    box-sizing: border-box;
    background-color: rgba(255, 255, 255, 0.90);
    border-radius: 0.3em;
    backdrop-filter: blur(10px) contrast(0.8);
+   padding: 5ch;
+   margin-bottom: 3ch;
 }
 
-.home .content {
-   padding: 0 0;
-   margin: 0;
-   position: absolute;
-   background: none;
-   backdrop-filter: none;
-   width: 92vw;
-   max-width: none;
-}
-
-.home .content-area {
-   padding-bottom: 10vh;
-}
-
-div::-webkit-scrollbar {
-   display: none;
-}
-
-.content-area,.content {
-   -ms-overflow-style: none;
-   scrollbar-width: none
+.content:last-of-type {
+    margin-bottom: 0
 }
 
 a {
@@ -123,18 +98,14 @@ a:visited {
    z-index: 10;
 }
 
-.huge {
-   font-size: 200%
-}
-
-.large {
-   font-size: 150%
-}
-
 .read-more {
    text-decoration: underline;
    display: block;
    padding-top: 0.75em;
+}
+
+.read-more a {
+    margin-right: 3ch;
 }
 
 .read-more:hover {
@@ -147,6 +118,11 @@ a:visited {
    max-height: 65vh;
 }
 
+.blog-summary-text {
+    max-height: 40ch;
+    overflow: hidden;
+}
+
 #logo {
    position: fixed;
    left: 50%;
@@ -157,11 +133,6 @@ a:visited {
    height: 10vh;
    transform: translate(-50%,-50%)
 }
-
-.sidebar {
-   padding-top: 1em;
-}
-
 
 .aboutme {
     display: flex;
@@ -186,7 +157,6 @@ img.photo {
     height: auto;
 }
 
-
 @media (max-width: 600px) {
    .email a, .phone a {
       font-size: 0;
@@ -201,138 +171,6 @@ img.photo {
       content: 'Phone Me';
       font-size: initial;
    }
-}
-
-@media (max-width: 991px) {
-
-   .section {
-      margin-bottom: 2ch;
-   }
-
-   .section:last-of-type {
-      margin-bottom: 0
-   }
-
-   .blog.kind-page .contentwrapper  {
-      overflow-y: scroll;
-      height: 100%;
-      background-color: rgba(255, 255, 255, 0.90);
-      border-radius: 0.3em;
-      backdrop-filter: blur(10px) contrast(0.8);
-   }
-
-   .blog.kind-page .content {
-      background: none;
-      backdrop-filter: none;
-      overflow-y: auto;
-      height: auto;
-      padding-bottom: 0;
-   }
-
-   .blog.kind-page .sidebar {
-      padding: 2em;
-   }
-
-   .content {
-      padding: 5vh 3em 2ch;
-   }
-
-}
-
-@media (min-width: 992px) {
-
-   .content {
-      padding: 5vh 5vw 3vh;
-   }
-
-   .section {
-      position: fixed;
-      width: 45vw;
-      height: 43vh;
-      margin: 0;
-      box-sizing: border-box;
-   }
-
-   .section h1 {
-      text-align: center;
-   }
-
-   .section.top {
-      top: 5vh;
-   }
-
-   .section.left {
-      left: 4vw;
-   }
-
-   .section.bottom {
-      bottom: 7vh;
-   }
-
-   .section.right {
-      right: 4vw;
-   }
-
-   .home #logo {
-      top: 50%;
-      min-width: 15vmin;
-      min-height: 15vmin;
-   }
-
-   .contentwrapper {
-      margin: 0 auto;
-      padding: 0;
-      height: 100%;
-      width: fit-content;
-      box-sizing: border-box;
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      align-items: stretch;
-   }
-
-   .contentwrapper .content {
-      flex-grow: 3;
-      margin-right: 2vw;
-      overflow-y: scroll;
-   }
-
-   .sidebar {
-      flex-grow: 1;
-      padding: 2em;
-      background-color: rgba(255, 255, 255, 0.90);
-      border-radius: 0.3em;
-      backdrop-filter: blur(10px) contrast(0.8);
-   }
-
-   .home .blog-summary {
-      max-height: 10vh;
-      overflow: hidden;
-   }
-
-   .section h1 a {
-      color: inherit;
-   }
-
-   .kind-home .aboutme {
-       xdisplay: inline-block;
-   }
-
-   .kind-home .photobox {
-       height: 100%;
-   }
-
-    .kind-home img.photo {
-        max-width: 15vw;
-    }
-
-    .kind-home .aboutme .photobox .photo {
-        xposition: absolute;
-        float: right;
-        bottom: 0;
-        right: 0;
-    }
-
 }
 
 .bottom-bar div {
@@ -351,7 +189,6 @@ img.photo {
 .phone {
    float: right;
 }
-
 
 nav {
    position: fixed;
@@ -460,10 +297,6 @@ nav [type="checkbox"]:checked ~ ul {
 
 nav [type="checkbox"]:not(:checked) ~ ul {
    pointer-events:none;
-}
-
-.align-right {
-   text-align: right;
 }
 
 /* FAQ collapsing sections */

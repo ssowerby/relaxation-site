@@ -1,23 +1,15 @@
 {{ define "main" }}
 
 <div class="content">
-
-<div class="section top left">
-  {{ partial "home/services" . }}
-</div>
-
-<div class="section top right">
   {{ partial "home/about" . }}
 </div>
 
- <div class="section bottom left">
+ <div class="content">
     {{ partial "home/contact" . }}
  </div>
 
- <div class="section bottom right">
+ <div class="content">
      {{ partial "home/blog" . }}
  </div>
-
-</div>
 
 {{ end }}
