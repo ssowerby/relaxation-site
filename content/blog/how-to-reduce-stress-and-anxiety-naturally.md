@@ -25,4 +25,4 @@ Also **relaxing helps to combat the physical effects of stress and anxiety**. Wh
 
 ### So how can I relax?
 
-[Here are 3 ways to relax](how-to-relax/)
+[Here are 3 ways to relax](/how-to-relax/)
