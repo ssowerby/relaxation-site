@@ -6,7 +6,13 @@
     <title>{{ block "title" . }}
       {{- with .Title }}{{ . }} | {{ end }}{{ .Site.Title -}}
       {{ end }}</title>
-    <link rel="stylesheet" href="/css/main.css">
+
+   {{ $mainCss := resources.Get "css/main.css" }}
+   {{ $navCss := resources.Get "css/nav.css" }}
+   {{ $faqCss := resources.Get "css/faq.css" }}
+   {{ $cssBundle := slice $mainCss $navCss $faqCss | resources.Concat "css/bundle.css" | resources.Minify }}
+
+    <link rel="stylesheet" href="{{ $cssBundle.Permalink }}">
     <link rel="canonical" href="{{ .Permalink }}">
 
    {{ if .Description }}
@@ -49,6 +55,7 @@
    {{ block "main" . }}
    {{ end }}
 </div>
+
 <div class="bottom-bar">
 {{ partial "bottombar" . }}
 </div>

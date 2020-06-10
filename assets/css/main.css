@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Sarala');
+
+
+body {
+   font-family: "Open Sans", sans-serif;
+}
+
+body:before {
+   content: "";
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   z-index: -2;
+   display: block;
+   background-image: url("/images/background_large.jpg");
+   background-size: cover;
+}
+
+@media (max-width: 991px) {
+   body:before {
+      background-image: url("/images/background_medium.jpg");
+   }
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #ed8c21;
+}
+
+a:hover {
+    color: #cf832f !important;
+}
+
+a:visited {
+    color: #ed8c21;
+}
+
+h1,h2,h3,h4 {
+   font-family: "Sarala", sans-serif;
+   margin: 0;
+   padding: 0;
+   padding-bottom: 0.5vh;
+}
+
+h1, h1 a {
+   color: #27506a !important;
+}
+
+h1 a:hover {
+    color: #173a51 !important;
+}
+
+h2, h3, h2 a, h3 a {
+   color: #13859a !important;
+}
+
+h2 a:hover, h3 a:hover {
+    color: #156e7e !important;
+}
+
+.sectionlink {
+   margin: 1em 0;
+   font-size: 125%;
+   display: block;
+}
+
+.sectionlink a {
+    margin-right: 2ch;
+}
+
+.content-area {
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 95vh;
+   box-sizing: border-box;
+   padding: 7vh 5vw 3vh 5vw;
+   overflow-y: scroll;
+   clip: rect(7vh 95vw 92vh 5vw);
+}
+
+.content {
+   margin: 0 auto;
+   max-width: 60em;
+   box-sizing: border-box;
+   background-color: rgba(255, 255, 255, 0.90);
+   border-radius: 0.5em;
+   backdrop-filter: blur(10px) contrast(0.8);
+   padding: 3ch 5ch;
+   margin-bottom: 3ch;
+}
+
+.content:last-of-type {
+    margin-bottom: 0
+}
+
+.bottom-bar {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height: 5ch;
+   background-color: #262E3D;
+   color: white;
+   z-index: 10;
+}
+
+.read-more {
+   text-decoration: underline;
+    color: inherit;
+   display: block;
+   padding-top: 0.75em;
+}
+
+.read-more a {
+    margin-right: 3ch;
+}
+
+.blog .content img:first-of-type {
+   max-width: 100%;
+   height: auto;
+   max-height: 65vh;
+}
+
+.blog-summary-text {
+    max-height: 40ch;
+    overflow: hidden;
+}
+
+#logo {
+   position: fixed;
+   left: 50%;
+   top: 6vh;
+   z-index: 5;
+   cursor: pointer;
+   width: 10vh;
+   height: 10vh;
+   transform: translate(-50%,-50%)
+}
+
+.content.aboutme {
+    padding-bottom: 0;
+}
+
+.aboutme {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.aboutme .text {
+    flex-grow: 4;
+}
+
+.aboutme .photobox {
+    flex-grow: 3;
+}
+
+img.photo {
+    display: block;
+    max-width: 35vw;
+    max-height: 20vh;
+    width: auto;
+    height: auto;
+}
+
+@media (max-width: 600px) {
+   .email a, .phone a {
+      font-size: 0;
+   }
+
+   .email a:after{
+      content: 'Email Me';
+      font-size: initial;
+   }
+
+   .phone a:after{
+      content: 'Phone Me';
+      font-size: initial;
+   }
+}
+
+.bottom-bar div {
+   font-size: large;
+   padding: 0.5em 1em;
+}
+
+.bottom-bar a {
+   color: white;
+}
+
+.email {
+   float: left;
+}
+
+.phone {
+   float: right;
+}
+
+article {
+    margin-bottom: 3vh;
+}
+
+article:first-of-type {
+    padding-top: 2ch
+}
+
+article:last-of-type {
+    margin-bottom: 0
+}
+
+.content:first-of-type {
+    padding-top: 5ch;
+}
+
+.content.aboutme {
+    padding-top: 7ch;
+}

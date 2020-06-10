@@ -11,7 +11,6 @@ tags:
   - visualisation
 publishDate: 2020-06-04 16:51:01
 ---
-
 There are three main categories of relaxation.
 
 * Being grounded in the moment
