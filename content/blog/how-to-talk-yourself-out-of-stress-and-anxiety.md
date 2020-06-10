@@ -3,8 +3,9 @@ title: How to talk yourself out of stress and anxiety
 subtitle: Change your negative self talk the easy way
 tags:
   - stress
+  - anxiety
   - negative thoughts
-publishDate: 2020-06-30 20:11:00
+publishDate: 2020-06-30T20:11:00.000Z
 ---
 Often it’s **what we’re saying to ourselves in our heads which stresses us out**. “I’m never going to get that promotion, I’m not good enough.” “It’s all going to be a disaster.”
 
