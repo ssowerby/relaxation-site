@@ -5,9 +5,8 @@ tags:
   - reduce stress
   - anxiety
   - relaxation
-publishDate: 2020-06-08 16:52:03
+publishDate: 2020-06-08T16:52:03.000Z
 ---
-
 We all get frazzled sometimes. Life gets on top of us. Too much to do, too little time. The demands of work and family. Stress of illness or uncertainty. With the lifestyle changes we’ve all made recently due to Coronavirus we may have more stress and anxiety in our lives than ever. 
 
 With thoughts swirling around our heads and the physical stress on our bodies it can feel like a cycle we can’t get out of. But there are **things we can do ourselves to help reduce the effects of stress and anxiety**.
@@ -26,4 +25,4 @@ Also **relaxing helps to combat the physical effects of stress and anxiety**. Wh
 
 ### So how can I relax?
 
-[Here are 3 main ways to relax](the-3-main-ways-to-relax/)
+[Here are 3 ways to relax](how-to-relax/)
