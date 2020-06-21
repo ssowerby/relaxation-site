@@ -13,7 +13,7 @@
    {{ $cssBundle := slice $mainCss $navCss $faqCss | resources.Concat "css/bundle.css" | resources.Minify }}
 
     <link rel="stylesheet" href="{{ $cssBundle.Permalink }}">
-    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="canonical" href="{{.Site.BaseURL}}{{ .Permalink }}">
 
    {{ if .Description }}
    <meta name="description" content="{{ .Description }}">
