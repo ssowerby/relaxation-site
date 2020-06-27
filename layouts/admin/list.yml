@@ -25,6 +25,7 @@ collections:
       - { label: "Subtitle", name: "subtitle", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Publish Date", name: "publishDate", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - { label: "Summary", name: "summary", widget: "markdown" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "faq"
