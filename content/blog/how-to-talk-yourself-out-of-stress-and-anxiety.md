@@ -5,7 +5,20 @@ tags:
   - stress
   - anxiety
   - negative thoughts
-publishDate: 2020-06-30T20:11:00.000Z
+publishDate: 2020-07-07 21:11:00
+summary: >-
+  Often it’s **what we’re saying to ourselves in our heads which stresses us
+  out**. “I’m never going to get that promotion, I’m not good enough.” “It’s all
+  going to be a disaster.”
+
+
+  No wonder we don’t feel good when we have a **running commentary of doom and gloom** whispering in our ear 24/7. How exhausting, and demoralizing.
+
+
+  ### So what’s the alternative?
+
+
+  Don’t think bad thoughts? Wouldn’t that be nice. But I’m not going to tell you not to have the thoughts  because if you could do that I’m pretty sure you would have already.
 ---
 Often it’s **what we’re saying to ourselves in our heads which stresses us out**. “I’m never going to get that promotion, I’m not good enough.” “It’s all going to be a disaster.”
 
