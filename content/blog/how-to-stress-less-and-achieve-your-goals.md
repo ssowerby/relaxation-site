@@ -7,7 +7,14 @@ tags:
   - relax
   - goals
   - plan
-publishDate: 2020-07-07 18:45:00
+publishDate: 2020-07-14 19:45:00
+summary: >-
+  Not dealing with the bills, not progressing with our careers, not making that
+  important phone call. There are lots of things in life which stress us out and
+  we know we’d feel better if we got on and did them but often we don’t.
+
+
+  The effects of long term stress can be unpleasant. Bad digestion, poor sleep, lowered immunity and trouble making decisions can all be effects of stress. So when we know what it is that’s stressing us out why don’t we get on and deal with it?
 ---
 ![piggy bank](/uploads/piggy-bank.jpg "Photo by Damir Spanic on Unsplash")
 
