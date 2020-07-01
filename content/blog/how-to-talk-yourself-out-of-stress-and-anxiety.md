@@ -5,7 +5,7 @@ tags:
   - stress
   - anxiety
   - negative thoughts
-publishDate: 2020-07-07 21:11:00
+publishDate: 2020-07-06 19:11:00
 summary: >-
   Often it’s **what we’re saying to ourselves in our heads which stresses us
   out**. “I’m never going to get that promotion, I’m not good enough.” “It’s all
