@@ -5,22 +5,21 @@ tags:
   - online hypnosis
   - how online hypnosis works
   - ""
-publishDate: 2020-07-02 18:42:00
+publishDate: 2020-07-02T18:42:00.000Z
 summary: >-
   With the recent changes thrust upon us lately by the coronavirus many of us
   are learning just **how much we can do online**. Zoom, a platform many of us
   had never heard of before lockdown may now be your best buddy. 
 
 
-  I was already seeing clients online but now I’m using Zoom to chat with my friends and family and take classes too. But I know some people are still **reticent about online hypnosis** and how it works. So I’m here to show you how it works and **reassure you that it does work**. In fact **online hypnosis can be better** than traditional office based sessions.
+  Online is the way I've been working for a while now and since the coronavirus outbreak it's how I've been staying in touch with friends and family and also keeping up with my exercise. But I know some people are still **reticent about online hypnosis** and how it works. So I’m here to show you how it works and **reassure you that it does work**. In fact **online hypnosis can be better** than traditional office based sessions.
 ---
 With the recent changes thrust upon us lately by the coronavirus many of us are learning just **how much we can do online**. Zoom, a platform many of us had never heard of before lockdown may now be your best buddy. 
 
-![Woman on her bed using a laptop while her pet dog sleeps](/uploads/bruno-cervera-azsk_6imt3i-unsplash.jpg "<span>Photo by <a href=\"https://unsplash.com/@brunocervera?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">BRUNO CERVERA</a> on <a href=\"https://unsplash.com/collections/10619902/blogs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>")
+![Woman on her bed using a laptop while her pet dog sleeps](/uploads/bruno-cervera-azsk_6imt3i-unsplash.jpg "<span>Photo by <a href=\\"https://unsplash.com/@brunocervera?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\\">BRUNO CERVERA</a> on <a href=\\"https://unsplash.com/collections/10619902/blogs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\\">Unsplash</a></span>")
 
-I was already seeing clients online but now I’m using Zoom to chat with my friends and family and take classes too. But I know some people are still **reticent about online hypnosis** and how it works. So I’m here to show you how it works and **reassure you that it does work**. In fact **online hypnosis can be better** than traditional office based sessions.
+Online is the way I've been working for a while now and since the coronavirus outbreak it's how I've been staying in touch with friends and family and keeping up with my exercise. But I know some people are still **reticent about online hypnosis** and how it works. So I’m here to show you how it works and **reassure you that it does work**. In fact **online hypnosis can be better** than traditional office based sessions.
 
-## \
 What happens in an online hypnotherapy session
 
 ### Setting up the right environment
@@ -44,7 +43,7 @@ In fact often times people like to close their eyes to help them concentrate. So
 
 Yes, just like chatting with friends works, having meetings or doing exercise classes. It’s different yes but different doesn’t necessarily equal worse, sometimes it’s better. I would argue for **hypnotherapy online can actually be better**.
 
-![Man with his feet up the sofa using a laptop](/uploads/ali-yahya-emqe7ab3mcc-unsplash.jpg "<span>Photo by <a href=\"https://unsplash.com/@ayahya09?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ali Yahya</a> on <a href=\"https://unsplash.com/s/photos/person-on-sofa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>")
+![Man with his feet up the sofa using a laptop](/uploads/ali-yahya-emqe7ab3mcc-unsplash.jpg "<span>Photo by <a href=\\"https://unsplash.com/@ayahya09?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\\">Ali Yahya</a> on <a href=\\"https://unsplash.com/s/photos/person-on-sofa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\\">Unsplash</a></span>")
 
 ### How online hypnotherapy is better than face to face hypnotherapy
 
