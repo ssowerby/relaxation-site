@@ -5,7 +5,7 @@ tags:
   - online hypnosis
   - how online hypnosis works
   - ""
-publishDate: 2020-07-02T18:42:00.000Z
+publishDate: 2020-07-02 19:42:00
 summary: >-
   With the recent changes thrust upon us lately by the coronavirus many of us
   are learning just **how much we can do online**. Zoom, a platform many of us
