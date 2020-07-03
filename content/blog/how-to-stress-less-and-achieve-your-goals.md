@@ -7,7 +7,7 @@ tags:
   - relax
   - goals
   - plan
-publishDate: 2020-07-13 16:45:00
+publishDate: 2020-07-13 20:45:00
 summary: >-
   Not dealing with the bills, not progressing with our careers, not making that
   important phone call. There are lots of things in life which stress us out and
