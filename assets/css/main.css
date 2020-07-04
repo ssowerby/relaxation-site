@@ -149,21 +149,26 @@ h2 a:hover, h3 a:hover {
     padding-bottom: 0;
 }
 
-.aboutme {
-    display: grid;
-   grid-template-areas:
+
+@media (min-width: 800px) {
+
+   .aboutme {
+      display: grid;
+      grid-template-areas:
       'header header'
       'text photo';
-}
+   }
 
-.aboutme .header {
-   grid-area: header;
-}
+   .aboutme .header {
+      grid-area: header;
+   }
 
-.aboutme .text {
-   grid-area: text;
-   padding-right: 2em;
-   padding-bottom: 2em;
+   .aboutme .text {
+      grid-area: text;
+      padding-right: 2em;
+      padding-bottom: 2em;
+   }
+
 }
 
 .aboutme .photobox {
