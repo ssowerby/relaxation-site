@@ -150,18 +150,25 @@ h2 a:hover, h3 a:hover {
 }
 
 .aboutme {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: stretch;
+    display: grid;
+   grid-template-areas:
+      'header header'
+      'text photo';
+}
+
+.aboutme .header {
+   grid-area: header;
 }
 
 .aboutme .text {
-    flex-grow: 4;
+   grid-area: text;
+   padding-right: 2em;
+   padding-bottom: 2em;
 }
 
 .aboutme .photobox {
-    flex-grow: 3;
+   grid-area: photo;
+   align-self: end;
 }
 
 img.photo {
