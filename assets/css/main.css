@@ -93,7 +93,7 @@ h2 a:hover, h3 a:hover {
    background-color: rgba(255, 255, 255, 0.90);
    border-radius: 0.5em;
    backdrop-filter: blur(10px) contrast(0.8);
-   padding: 5em 5ch 3em 5ch;
+   padding: 2em 5ch 2em 5ch;
    margin-bottom: 3ch;
 }
 
