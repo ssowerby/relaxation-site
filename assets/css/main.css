@@ -81,9 +81,9 @@ h2 a:hover, h3 a:hover {
    width: 100vw;
    height: 95vh;
    box-sizing: border-box;
-   padding: 5em 5vw 3vh 5vw;
+   padding: 7vh 5vw 7vh 5vw;
    overflow-y: scroll;
-   clip: rect(7vh 95vw 92vh 5vw);
+   clip: rect(7vh 95vw 93vh 5vw);
 }
 
 .content {
@@ -145,41 +145,40 @@ h2 a:hover, h3 a:hover {
    transform: translate(-48%,0)
 }
 
-.content.aboutme {
-    padding-bottom: 0;
+.aboutbar {
+   display: flex;
+   flex-direction: row;
+   padding: 2em;
+   padding-bottom: 0;
+   border-bottom: 1px solid gray;
+   border-radius: 0.5em;
 }
 
-
-@media (min-width: 800px) {
-
-   .aboutme {
-      display: grid;
-      grid-template-areas:
-      'header header'
-      'text photo';
-   }
-
-   .aboutme .header {
-      grid-area: header;
-   }
-
-   .aboutme .text {
-      grid-area: text;
-      padding-right: 2em;
-      padding-bottom: 2em;
-   }
-
+.aboutbar .header h1 {
+   font-size: 250%;
 }
 
-.aboutme .photobox {
-   grid-area: photo;
-   align-self: end;
+.aboutbar .header h2 {
+   font-size: 150%;
+   padding-left: 1em;
+   padding-right: 1em;
+}
+
+.aboutbar .header {
+   flex: 4;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+}
+
+.aboutbar .photobox {
+   flex: 1;
 }
 
 img.photo {
     display: block;
-    max-width: 35vw;
-    max-height: 20vh;
+    max-width: 25vw;
+    max-height: 25vh;
     width: auto;
     height: auto;
 }
@@ -230,9 +229,9 @@ article:last-of-type {
 }
 
 .content:first-of-type {
-    padding-top: 5ch;
+    padding-top: 7ch;
 }
 
 .content.aboutme {
-    padding-top: 7ch;
+   padding-bottom: 0
 }
