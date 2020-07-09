@@ -2,9 +2,7 @@
 title: About Me
 layout: aboutme
 ---
-Hi I'm Rachel, I'm a hypnotherapist based in South London. I help people like you feel relaxed more of the time and so stressed and anxious less of the time. It's amazing how many things aren't a problem any more when you find you don't feel stressed or anxious about them.
-
-
+Hi I'm Rachel Goth, I'm a hypnotherapist based in South London. I help people like you to reduce their stress and anxiety, worry less and enjoy life more. I help them to feel more relaxed more of the time and so stressed and anxious less of the time. It's amazing how many things aren't a problem any more when they don't stress you out or make you feel anxious or fearful.
 
 ## My Philosophy
 
@@ -16,12 +14,10 @@ With busy lives, work being able to contact you at all hours and social media ra
 
 Not to mention long term stress is bad for our health (blood pressure, heart attacks, digestion and so on) and a factor in depression. 
 
-
-
 ## My Story
 
 I worked as a graphic designer for many years before moving on to explore lots of careers from neon light designer to jewellery designer. I enjoyed all of them but there was something missing.  
 
-It wasn’t until I discovered hypnotherapy and more about how my own mind works that it all came together. Hypnotherapy allowed me to combine my creativity with scientific understanding and helping others in a way that I find fulfilling. 
+It wasn’t until I discovered hypnotherapy and more about how my own mind works that it all came together. Hypnotherapy allowed me to combine my creativity with scientific understanding to help others in a way that I find fulfilling. 
 
-Through my hypnotherapy training and working with clients I’ve used many different ways to help people relax. For a flavour of how I can help you I recommend you check out my blog. You’ll find lots of tips there that you can implement for yourself right now.
+Through my hypnotherapy training and working with clients I’ve used many different ways to help people change how they feel and relax. For a flavour of how I can help you I recommend you check out my [blog](https://www.helpmerelax.co.uk/blog/). You’ll find lots of tips there that you can implement for yourself right now.
