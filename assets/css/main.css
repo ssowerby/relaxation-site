@@ -240,38 +240,38 @@ article:last-of-type {
    padding-bottom: 0
 }
 
-blockquote {
+.blockquote {
    padding: 0;
    margin: 0;
    margin-bottom: 1em;
 }
 
-blockquote .quoted {
+.blockquote .quoted {
 }
 
-blockquote .testimonial {
+.blockquote .testimonial {
    padding: 0.2em 2vw;
    background: #eee;
 }
 
-blockquote .quoteblock {
+.blockquote .quoteblock {
    font-size: 300%;
    padding: 0;
    margin: 0;
    height: 0.5em;
 }
 
-blockquote .quoteleft {
+.blockquote .quoteleft {
    vertical-align: sub;
 }
 
-blockquote .quoteright {
+.blockquote .quoteright {
    text-align: right;
    line-height: 50%;
    vertical-align: super;
 }
 
-blockquote footer {
+.blockquote .author {
    text-align: right;
    padding-right: 0.5em;
 }

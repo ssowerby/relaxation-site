@@ -3,7 +3,7 @@
 
 <h1>Testimonials</h1>
 {{ range sort .Data.Pages ".Params.order" }}
-<blockquote>
+<div class="blockquote">
    <div class="quoted">
       <div class="quoteblock quoteleft">
          &ldquo;
@@ -14,8 +14,8 @@
       </div>
    </div>
 
-   <footer><cite class="author">{{ .Params.author }}</cite></footer>
-</blockquote>
+   <div class="author">{{ .Params.author }}</div>
+</div>
 {{ end }}
 
 </div>
