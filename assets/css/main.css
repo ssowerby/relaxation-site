@@ -93,8 +93,12 @@ h2 a:hover, h3 a:hover {
    background-color: rgba(255, 255, 255, 0.90);
    border-radius: 0.5em;
    backdrop-filter: blur(10px) contrast(0.8);
-   padding: 2em 5ch 2em 5ch;
+   padding: 2em 5vw;
    margin-bottom: 3ch;
+}
+
+.content:first-of-type {
+   padding-top: 5em !important;
 }
 
 .content:last-of-type {
@@ -232,41 +236,42 @@ article:last-of-type {
     margin-bottom: 0
 }
 
-.content:first-of-type {
-    padding-top: 7ch;
-}
-
 .content.aboutme {
    padding-bottom: 0
 }
 
+blockquote {
+   padding: 0;
+   margin: 0;
+   margin-bottom: 1em;
+}
+
 blockquote .quoted {
-   display: flex;
-   padding-bottom: 1em;
 }
 
 blockquote .testimonial {
-   padding: 0.5em;
+   padding: 0.2em 3vw;
    background: #eee;
-   border-radius: 5px;
 }
 
 blockquote .quoteblock {
    font-size: 300%;
-   padding: 0.25em;
+   padding: 0;
+   margin: 0;
+   height: 0.5em;
 }
 
 blockquote .quoteleft {
-   transform: translateY(-1em);
+   vertical-align: sub;
 }
 
 blockquote .quoteright {
-   margin-top: auto;
-   transform: translateY(1.5em);
+   text-align: right;
+   line-height: 50%;
+   vertical-align: super;
 }
 
 blockquote footer {
    text-align: right;
-   padding: 1em;
-   margin-bottom: 2em;
+   padding-right: 0.5em;
 }
