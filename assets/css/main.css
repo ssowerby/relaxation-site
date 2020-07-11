@@ -157,7 +157,7 @@ h2 a:hover, h3 a:hover {
    }
 
    .aboutbar .header h1 {
-      font-size: 4vw;
+      font-size: 3.25vw;
    }
 
    .aboutbar .header h2 {
@@ -174,6 +174,7 @@ h2 a:hover, h3 a:hover {
    }
 
    .aboutbar .photobox {
+      margin-top: auto;
       flex: 1;
    }
 }
@@ -237,4 +238,35 @@ article:last-of-type {
 
 .content.aboutme {
    padding-bottom: 0
+}
+
+blockquote .quoted {
+   display: flex;
+   padding-bottom: 1em;
+}
+
+blockquote .testimonial {
+   padding: 0.5em;
+   background: #eee;
+   border-radius: 5px;
+}
+
+blockquote .quoteblock {
+   font-size: 300%;
+   padding: 0.25em;
+}
+
+blockquote .quoteleft {
+   transform: translateY(-1em);
+}
+
+blockquote .quoteright {
+   margin-top: auto;
+   transform: translateY(1.5em);
+}
+
+blockquote footer {
+   text-align: right;
+   padding: 1em;
+   margin-bottom: 2em;
 }

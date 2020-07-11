@@ -39,7 +39,7 @@ nav ul li {
    display: block;
    position: relative;
    width: 100%;
-   line-height: 12vh;
+   line-height: 11vh;
    font-size: 7vh;
    padding-left: 0.5em;
 }
@@ -96,7 +96,7 @@ nav [type="checkbox"]:checked + label:after {
 }
 
 nav [type="checkbox"]:checked ~ ul {
-   transform: translateX(-100vw);
+   transform: translateX(-30vw);
 }
 
 nav [type="checkbox"]:checked ~ ul {
