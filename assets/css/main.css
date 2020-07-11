@@ -83,7 +83,7 @@ h2 a:hover, h3 a:hover {
    box-sizing: border-box;
    padding: 7vh 5vw 7vh 5vw;
    overflow-y: scroll;
-   clip: rect(7vh 95vw 93vh 5vw);
+   xclip: rect(7vh 95vw 93vh 5vw);
 }
 
 .content {
