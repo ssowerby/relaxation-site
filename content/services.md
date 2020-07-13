@@ -1,33 +1,48 @@
 ---
 title: Services
 ---
+## Hypnotherapy Sessions for Stress, Anxiety and Fear
 
-“Just relax”, “don’t worry about it”, “love yourself”. 
+Sometimes a nagging fear or anxiety motivates us to deal with a problem and then it switches off. Like getting you to prepare for an interview or arrange for someone to look at the funny noise the boiler is making. Sometimes however you can feel a knot in your stomach or be consumed by worry but there either isn’t a problem to solve or it isn’t something you can fix. In that kind of situation hypnotherapy can help.
 
-Whether those statements from well meaning friends and family make you want to barf or punch a wall, you’re in the right place. What I offer are highly practical sessions in which I’ll guide you through what to do. One method may not work for you but I have plenty more so don’t worry. Together we will find what works for you and you’ll experience relaxation more deeply than you might ever have before. It can take a little practice but once you master it it’s something you can incorporate into your day that won’t take up a lot of time and you’ll actually enjoy doing.
+**When you have a fear or anxiety which you can’t argue yourself out of hypnosis is a very useful tool**. It’s the ideal therapy for automatic reactions which are driven by the subconscious part of your mind because it’s aimed directly at your subconscious.
 
-Cantankerous boss, over bearing clients, trains always late, over running projects, family friction, potential sources of stress are a constant. But you can get off the merry-go-round. Which doesn’t mean it will stop spinning but does mean you won’t be in a spin with it. When you relax it’s like putting petrol in the tank. You have the fuel to deal with whatever comes your way without it depleting you. When you relax little and often you’re keeping your tank topped up, ready for when you need it. You know what I mean. Dealing with that awkward customer when you’re already feeling stressed and anxious makes it so much worse. It’s like all of your buttons have risen to the surface and they know just how to play you like a piano to make you jump to their tune. Imagine how much smoother life can go when you’re well rested, calm and those buttons are harder to press.  
+### What is hypnosis?
 
-## Relaxation Tool Kit
+Hypnosis is a state of mind, a kind of trance which you’ll find you’re familiar with. It’s akin to the trance of day dreaming, how you feel when you’re close to drifting off to sleep or how you feel when you’re absorbed in a book or a hobby. It’s a kind of internal focus in which you become absorbed in what you’re doing or imagining rather than what’s happening around you. 
 
-Helping you learn easy, effective methods to relax and destress, that commfortably fit into your day.
+You know those times when you’re in the flow and when you look up more time has passed than you thought? It’s that kind of experience. We use it because it’s similar to the state of mind when we process memories from the learnings of the day during sleep.
 
-Borrowing from mindfulness, meditation and hypnosis I can help you learn easy ways to calm your mind and relax wherever you are. It’s not a one size fits all approach so don’t worry if you’ve tried one of these before because I have multiple techniques up my sleeve to help you. Together we’ll find you your unique tool kit of methods you can use everyday to keep that relaxation tank topped up.
+### How does hypnotherapy work?
 
-All sessions take place online so there’s no travel stress and it saves you time.
+Hypnotherapy helps you to make changes on a subconscious level. We all have a part of our brain which runs below the level of conscious thought. It keeps your blood pumping, regulates your breathing, moves the muscles in your legs when you walk.
 
-## The Big Chill
+Once you’ve learned something well enough this part takes over responsibility for it. So you can automatically tie your shoe laces, driving a car or ride a bike. The subconscious part of your mind creates an automatic programme for the behaviour and runs it so you don’t have to waste brain power thinking about it. Imagine if you had to think about everything you did every day like getting up, cleaning your teeth, getting dressed, making breakfast? It would be exhausting, not to mention boring. When it works well our subconscious saves us a lot of conscious effort.
 
-Pure chill out sessions where you can relax deeply and reap the benefits.
+The problem is sometimes the subconscious can make less helpful processes automatic like panicking every time you have to speak in public or interpreting anything that doesn’t work out as meaning you’re stupid or feeling fear when there’s no danger. It can be difficult to talk yourself out of these feelings because they happen automatically. With hypnotherapy we can reach the subconscious part of the mind which is running the automatic programme and correct it.
 
-A massage for the mind. In the comfort of your own home or even your office, sit back and let the relaxation wash over you. A combination of visualisation, meditation and mindfulness to take you into a deep state of relaxation. Reap the benefits to your body and mind of relaxing deeper than you might have ever relaxed before. Have regular sessions to help alleviate those daily stressors or take a few sessions to kick start your new relaxed way of life.
+### What happens in a hypnotherapy session?
 
-All sessions take place online which means you can take that chilled out feeling straight into your business meeting, evening wind down or whatever you’re doing next.
+In the first session we’ll discuss what it is you’d like to change and define the goal for our sessions together. From here we will move into the trance part of the session. It’s not the dramatic stage or watch swinging experience you might expect. 
 
-## Prices
+I use an indirect form of hypnosis which is more like a relaxing conversation in which I offer you helpful suggestions and imaginative exercises. You will be aware and in control. You may feel a bit like you’re day dreaming. You might remember everything I say or not much, it doesn’t really matter. 
 
-Single 1 hour sessions are £85 or £299 for a pack of 4 sessions.
+Most people find it relaxing and some say it feels like the few moments before you drift off into sleep. The point is we’re accessing the subconscious part of your mind where we can make changes relatively quickly.
+
+In the following sessions we check on your progress and tailor the session to move you a step further towards your goal.
+
+### How many sessions will I need?
+
+In most cases we can deal with the issue sufficiently within four sessions but of course there’s no guarantee as each person is unique.
+
+### Where do sessions take place?
+
+All sessions take place online which means no commuting time and you can take that relaxed feeling straight into your business meeting, evening wind down or whatever you’re doing next.
+
+### [](<>)Prices
+
+Single 1 hour sessions are £85 or £298 when booked as a group of 4 sessions.
 
 Ready to book? Email/text me and we can arrange to have a quick chat and book in an appointment.
 
-Want to check if it’s right for you? Have a look at my blog to get more of a flavour of what I do or send me an email/text and I’ll call you back for a quick chat.
+Want to check if it’s right for you? Have a look at [my blog](https://www.helpmerelax.co.uk/blog/) to get more of a flavour of what I do or send me an email/text and I’ll call you back for a quick chat.
