@@ -23,7 +23,7 @@
 
    <ul>
    {{ range first 5 (where (where .Site.RegularPages "Section" "==" "blog") "UniqueID" "ne" $thisBlog).ByDate.Reverse }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a> {{ dateFormat "2 January 2006" .PublishDate }}</li>
    {{end}}
    </ul>
 

@@ -1,6 +1,7 @@
 <div class="articles">
    {{ range .Data.Pages.ByDate.Reverse }}
    <article>
+      {{ dateFormat "2 January 2006" .PublishDate }}
       <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
       <div class="blog-summary">{{ .Summary }}</div>
       <a class="read-more" href="{{ .Permalink }}">Read More</a>
