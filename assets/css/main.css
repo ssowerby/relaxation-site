@@ -127,7 +127,7 @@ h2 a:hover, h3 a:hover {
     margin-right: 3ch;
 }
 
-.blog .content img:first-of-type {
+.blog .content img {
    max-width: 100%;
    height: auto;
    max-height: 65vh;
@@ -276,29 +276,29 @@ article:last-of-type {
    padding-right: 0.5em;
 }
 
-.pictures {
-    display: flex;
-    flex-direction: row;
-    padding: 0;
-    margin: 0;
-    padding-top: 2vh;
+@media (min-width: 800px) {
+
+    .image-strip {
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+        padding-top: 2vh;
+        padding-bottom: 2vh;
+    }
+
+    .image-strip img {
+        width: 33%;
+    }
+
+    .content.aboutme .photobox {
+        float: right;
+    }
 }
 
-.pictures div {
-    flex: 1;
-    align-self: self-end;
-}
-
-.pictures .photobox {
-    margin-top: auto;
-}
-
-.image-strip {
-    text-align: right;
-    alignment: right;
-    padding-bottom: 1vh;
-}
-
-.image-strip img {
-    width: 50%;
+@media (max-width: 799px) {
+    .image-strip img {
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
