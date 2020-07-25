@@ -1,5 +1,5 @@
-
 {{ define "main" }}
+
 <div class="content aboutme">
    <div class="header">
       <h1>{{ .Title }}</h1>
@@ -7,9 +7,19 @@
    <div class="text">
       {{ .Content }}
    </div>
-   <div class="photobox">
-      <img class="photo" src="//d1nq4hyj0msl77.cloudfront.net/rachel.png"/>
+
+   <div class="pictures">
+      <div class="photobox">
+         <img class="photo" src="//d1nq4hyj0msl77.cloudfront.net/rachel.png"/>
+      </div>
+
+      <div class="image-strip">
+         <img class="photo" src="/images/ghsc.png"/>
+         <img class="photo" src="/images/ghr.png"/>
+         <img class="photo" src="/images/anxiety_uk.png"/>
+      </div>
    </div>
+
 </div>
 
 {{ end }}
