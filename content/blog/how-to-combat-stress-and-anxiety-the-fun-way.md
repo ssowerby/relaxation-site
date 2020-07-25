@@ -1,6 +1,5 @@
 ---
 title: How to combat stress and anxiety the fun way
-subtitle: (Regular relaxation)
 tags:
   - stress
   - worry
