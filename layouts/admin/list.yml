@@ -20,7 +20,7 @@ collections:
     label: "Blog"
     folder: "content/blog"
     create: true
-    summary: "{{title}} {{publishDate}}"
+    summary: "{{title}} {{day}}/{{month}}/{{year}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "string" }
