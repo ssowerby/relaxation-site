@@ -20,7 +20,7 @@ collections:
     label: "Blog"
     folder: "content/blog"
     create: true
-    summary: "{{title}} {{day}}/{{month}}/{{year}}"
+    summary: "{{ string "&lbrace;&lbrace;title&rbrace;&rbrace; &lbrace;&lbrace;publishDate&rbrace;&rbrace;" | htmlUnescape }}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "string" }
