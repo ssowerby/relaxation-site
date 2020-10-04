@@ -39,10 +39,6 @@ In most cases we can deal with the issue sufficiently within four sessions but o
 
 All sessions take place online which means no commuting time and you can take that relaxed feeling straight into your business meeting, evening wind down or whatever you’re doing next.
 
-### [](<>)Prices
-
-Single 1 hour sessions are £85 or £298 when booked as a group of 4 sessions.
-
 Ready to book? Email/text me and we can arrange to have a quick chat and book in an appointment.
 
 Want to check if it’s right for you? Have a look at [my blog](https://www.helpmerelax.co.uk/blog/) to get more of a flavour of what I do or send me an email/text and I’ll call you back for a quick chat.
