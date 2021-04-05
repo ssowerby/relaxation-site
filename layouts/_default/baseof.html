@@ -29,6 +29,8 @@
    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
    {{ end }}
 
+   <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="2ba64ac8-5147-4324-a942-171281f9b5bd" data-blockingmode="auto" type="text/javascript"></script>
+
    <!-- Global site tag (gtag.js) - Google Analytics -->
    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164651226-1"></script>
    <script>
@@ -54,11 +56,17 @@
 <div class="content-area">
    {{ block "main" . }}
    {{ end }}
+
+   <div class="footer content">
+      {{ partial "footer" . }}
+   </div>
 </div>
 
 <div class="bottom-bar">
-{{ partial "bottombar" . }}
+   {{ partial "bottombar" . }}
 </div>
+
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/2ba64ac8-5147-4324-a942-171281f9b5bd/cd.js" type="text/javascript" async></script>
 
 </body>
 </html>

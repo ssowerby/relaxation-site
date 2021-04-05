@@ -104,6 +104,14 @@ h2 a:hover, h3 a:hover {
     margin-bottom: 0
 }
 
+.footer {
+   background-color: lightgray;
+}
+
+.footer a {
+   padding-left: 1em;
+}
+
 .bottom-bar {
    position: fixed;
    left: 0;
@@ -301,3 +309,38 @@ article:last-of-type {
         margin-right: auto;
     }
 }
+
+table, th, td {
+   border: 1px black solid;
+   border-collapse: collapse;
+   margin-bottom: 1.5em;
+}
+
+th, td {
+   border: 1px black solid;
+   border-collapse: collapse;
+   padding: 0.5em;
+}
+
+table tr th:empty {
+   display: none;
+}
+
+ol {
+   counter-reset: item;
+}
+
+ol > li {
+   counter-increment: item;
+}
+
+ol ol > li {
+   list-style-type: none;
+}
+
+ol ol > li:before {
+   content: counters(item, ".") " ";
+   margin-left: -2.5em;
+   padding-right: 1em;
+}
+

@@ -9,8 +9,6 @@
          <li><a href="/testimonials/">Testimonials</a></li>
          {{ end }}
          <li><a href="/faqs/">Faqs</a></li>
-         <li><a href="/privacy/">Privacy</a></li>
-         <li><a href="/#contact">Contact</a></li>
          {{ $blogs := len (where .Site.RegularPages "Section" "==" "blog") }}
          {{ with $blogs }}
          <li><a href="/blog/">Blog</a></li>
