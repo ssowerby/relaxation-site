@@ -108,24 +108,15 @@ h2 a:hover, h3 a:hover {
    background-color: #555555;
 }
 
-.footer .copyright {
-   display: inline-block;
-   float: right;
-   color: white;
+.footer .links {
+   display: flex;
+   align-items: center;
+   justify-content: center;
 }
 
-@media (max-width: 1000px) {
-   .footer .copyright {
-      display: block;
-      float: none;
-      padding: 0.5em 0;
-   }
+.footer .links a:nth-of-type(n+2) {
+   padding-left: 2em;
 }
-
-.footer a:nth-of-type(n+2) {
-   padding-left: 1em;
-}
-
 
 .bottom-bar {
    position: fixed;
