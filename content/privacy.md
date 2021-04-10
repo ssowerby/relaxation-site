@@ -136,7 +136,7 @@ We do not share your personal data with any third parties.
 
 ### Opting out
 
-You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by contacting us [include link] at any time.
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by contacting us via [email](mailto:rachel@rachelgoth.com) at any time.
 
 Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.
 

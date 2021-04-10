@@ -95,8 +95,8 @@ Last updated: 5th April 2021
 
 13. Limitation on my liability
     1. Except for any legal responsibility that I cannot exclude in law (such as for death or personal injury), I am not legally responsible for any:
-        1. losses that:
-        (a) were not foreseeable to you and me when these Terms were formed; or
+        1. losses that: <br>
+        (a) were not foreseeable to you and me when these Terms were formed; or  <br>
         (b) that were not caused by any breach on my part
         2. business losses.
 
