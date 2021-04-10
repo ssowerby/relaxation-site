@@ -32,16 +32,13 @@ First party cookies are cookies set by our website. Third party cookies are cook
 We use third party cookies on our website and details of these are included in the table below.
 
 ### More detail about our cookies
-The table below provides more information about the cookies we use and why:
 
-| Owner | Cookie | Purpose for the cookie |
-| ----- | ------ | -----------------------|
-| Google Inc | _utma <br> _utmb <br> _utmc <br> _utmz | Google Analytics.  This is a web analytics service provided by Google Inc which uses cookies to show us how visitors found and explored our site, and how we can enhance their experience. It provides us with information about the behaviour of our visitors (eg how long they stayed on the site, the average number of pages viewed) and also tells us how many visitors we have had. <br> |
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/2ba64ac8-5147-4324-a942-171281f9b5bd/cd.js" type="text/javascript" async></script>
 
 
 ### How to turn off cookies or alter settings
 
-You can alter your cookie preferences at any time by [set out how they may do this eg ‘going to the cookie consent mechanism and changing the relevant setting to ‘off’].
+You can alter your cookie preferences at any time <a href="javascript:Cookiebot.renew(); return false;">here</a>
 
 If you do not want to accept cookies, you can also change your browser settings so that cookies are not accepted. If you do this, please be aware that you may lose some of the functionality of this website.
 
