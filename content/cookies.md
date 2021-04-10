@@ -38,7 +38,7 @@ We use third party cookies on our website and details of these are included in t
 
 ### How to turn off cookies or alter settings
 
-You can alter your cookie preferences at any time <a href="javascript:Cookiebot.renew(); return false;">here</a>
+You can alter your cookie preferences at any time <a href="javascript:Cookiebot.renew()">here</a>
 
 If you do not want to accept cookies, you can also change your browser settings so that cookies are not accepted. If you do this, please be aware that you may lose some of the functionality of this website.
 

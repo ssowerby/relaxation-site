@@ -246,6 +246,10 @@ img.photo {
    float: right;
 }
 
+.bottom-bar .copyright {
+   float: right;
+}
+
 article {
     margin-bottom: 3vh;
 }
