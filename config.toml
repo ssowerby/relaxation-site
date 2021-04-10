@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-gb"
-title = "Help Me Relax"
+title = "Rachel Goth"
 sectionPagesMenu = "main"
 
 enableRobotsTXT = true
@@ -46,4 +46,7 @@ isPlainText = true
 notAlternative = true
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
+
+[markup.goldmark.extensions]
+table = true
