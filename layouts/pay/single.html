@@ -2,13 +2,26 @@
 <div class="content">
 <h1>Payment</h1>
 
-   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+   <script type="text/javascript"> // <![CDATA[
+   function paymentSubmit() {
+      if(!document.getElementById("accept").checked) {
+         alert("Please read and accept the Terms and Conditions in order to continue.");
+         return false;
+      }
+   } // ]]></script>
+
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" onsubmit="return paymentSubmit();">
       <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="222H6LMRY6UTS">
+
+      <p>{{ .Params.description}}</p>
+      <p>£{{ .Params.price }}</p>
+      <input type="hidden" name="hosted_button_id" value="{{ .Params.button }}">
+
+      <p><input id="accept" type="checkbox"> I have read and agree to the <a target="_new" href="/pdfs/service_terms.pdf">Terms and Conditions</a></p>
+
       <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
       <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
    </form>
-
 
 </div>
 {{end}}
