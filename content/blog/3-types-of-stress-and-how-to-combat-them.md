@@ -25,7 +25,7 @@ Mark three columns on a piece of paper, one for each of the above categories. Li
 
 ### What difference will categorizing it make?
 
-Your brain is not a good place to keep to do lists. It will keep reminding you of things at inconvenient times like when you’re trying to sleep. This is because it has an urge to complete them. A study showed that waiters are very good at remembering an order before it’s completed but once it’s done they forget it. This is a good when it helps drive us to complete projects. However sometimes it’s not helpful, like in the middle of the night when you can’t do anything about it. So the best thing to do it get your stress list out of your head onto paper. Then your mind doesn't need to remind you about it and you can start to make a plan.
+Your brain is not a good place to keep to-do lists. It will keep reminding you of things at inconvenient times like when you’re trying to sleep. This is because it has an urge to complete them. A study showed that waiters are very good at remembering an order before it’s completed but once it’s done they forget it. This is a good when it helps drive us to complete projects. However sometimes it’s not helpful, like in the middle of the night when you can’t do anything about it. So the best thing to do is get your stress list out of your head onto paper. Then your mind doesn't need to remind you about it and you can start to make a plan.
 
 ### Making the plan
 
