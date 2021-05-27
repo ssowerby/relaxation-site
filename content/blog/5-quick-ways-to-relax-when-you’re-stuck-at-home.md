@@ -34,7 +34,7 @@ The idea is to **breathe out for longer** than your breathe in and to breathe **
 
 ### 3. Peripheral vision on the sofa
 
-When we’re anxious or stressed we have a tendency to narrow our focus. In nature this would be us giving all full attention to the threat, like a hungry lion coming towards us. So when we use our peripheral vision we’re sending the opposite message to our body that everything is fine. This is one of my favourite ways to relax. When the TV is rubbish it’s a good one to do while you’re sitting on the sofa.
+When we’re anxious or stressed we have a tendency to narrow our focus. In nature this would be us giving our full attention to the threat, like a hungry lion coming towards us. So when we use our peripheral vision we’re sending the opposite message to our body that everything is fine. This is one of my favourite ways to relax. When the TV is rubbish it’s a good one to do while you’re sitting on the sofa.
 
 **Focus on a spot** somewhere in front of you and let your **gaze soften**. 
 
@@ -54,7 +54,7 @@ Fix your gaze on a point in front of you.
 
 Notice **3 things you can see** without moving your eyes. It could be a computer monitor, Keyboard, mouse. 
 
-Then notice **3 things you can hear**. Maybe be the hum of the computer, birds singing outside, other people in your home. 
+Then notice **3 things you can hear**. Maybe the hum of the computer, birds singing outside, other people in your home. 
 
 Then notice **3 things you can feel**. Perhaps the feel of the mouse in your hand, the chair beneath you, the temperature of the air. 
 
