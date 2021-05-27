@@ -5,7 +5,7 @@ tags:
   - sleep
   - relaxation
 publishDate: 2020-04-18T18:47:25.000Z
-summary: <https://www.rachelgoth.com/blog/how-to-sleep-better-when-you-worry-about-everything-and-nothing/>
+
 ---
 You know relaxing is good for you and you want to do it. The only trouble is whenever you start to relax you find yourself nodding off. Maybe you’re the person at yoga who always falls a sleep at the end and is embarrassed when they wake up snoring. Maybe, like someone I know, you went to meditation classes but sat there digging your fingernails into your leg to stop you snoozing. You might even find you’ve become anxious about relaxing as you worry about nodding off. So what can you do to stay awake and enjoy some relaxation?
 

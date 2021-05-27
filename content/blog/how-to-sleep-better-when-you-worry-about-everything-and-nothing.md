@@ -11,7 +11,7 @@ Tossing and turning. Demanding the thought go away but finding it’s still ther
 
 ### Write it down
 
-Don’t keep your to do list in your head. Write down anything you need to remember so your brain doesn’t feel the need to remind you about it in the middle of the night. I keep paper and pen next to my bed so if anything pops up I can write it down and forget about it until the morning.
+Don’t keep your to-do list in your head. Write down anything you need to remember so your brain doesn’t feel the need to remind you about it in the middle of the night. I keep paper and pen next to my bed so if anything pops up I can write it down and forget about it until the morning.
 
 ### Deal with it
 
