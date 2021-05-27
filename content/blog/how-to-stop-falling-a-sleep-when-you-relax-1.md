@@ -7,7 +7,6 @@ tags:
 publishDate: 2020-04-18T18:47:25.000Z
 summary: <https://www.rachelgoth.com/blog/how-to-sleep-better-when-you-worry-about-everything-and-nothing/>
 ---
-
 You know relaxing is good for you and you want to do it. The only trouble is whenever you start to relax you find yourself nodding off. Maybe you’re the person at yoga who always falls a sleep at the end and is embarrassed when they wake up snoring. Maybe, like someone I know, you went to meditation classes but sat there digging your fingernails into your leg to stop you snoozing. You might even find you’ve become anxious about relaxing as you worry about nodding off. So what can you do to stay awake and enjoy some relaxation?
 
 ### Are you getting enough sleep?
@@ -28,7 +27,7 @@ Listen to hypnosis, meditation or guided visualisation audios designed to lull y
 
 ### Deal with worry
 
-Tossing and turning all night worrying about everything from global warming to whether you remembered to buy bread. If this rings a bell with you check out my article on **how to sleep better when you worry about everything and nothing.**
+Tossing and turning all night worrying about everything from global warming to whether you remembered to buy bread. If this rings a bell with you check out my article on **[how to sleep better when you worry about everything and nothing.](/blog/how-to-sleep-better-when-you-worry-about-everything-and-nothing/)**
 
 ### What if it’s not possible to get enough sleep?
 
