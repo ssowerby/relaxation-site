@@ -23,10 +23,10 @@ collections:
     summary: "{{ string "&lbrace;&lbrace;title&rbrace;&rbrace; &lbrace;&lbrace;publishDate&rbrace;&rbrace;" | htmlUnescape }}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Subtitle", name: "subtitle", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Publish Date", name: "publishDate", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
-      - { label: "Summary", name: "summary", widget: "markdown" }
+      - { label: "Summary", name: "summary", widget: "markdown", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "faq"
