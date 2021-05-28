@@ -14,14 +14,14 @@ summary: >-
   your mind.
 
 
-  Maybe you’ve signed up for the gym or meditation classes but you haven’t managed to make it there with everything else you have going on. You know you need to relax but somehow it always ends up at the bottom of your to do list.
+  Maybe you’ve signed up for the gym or meditation classes but you haven’t managed to make it there with everything else you have going on. You know you need to relax but somehow it always ends up at the bottom of your to-do list.
 
 
   Doing an hour of yoga or meditation every day sounds nice but it’s never going to happen. You get up early enough as it is and there’s no time when you get home. **So what can you do to relieve stress and rebalance?**
 ---
 You know you need some respite from the stress of this crazy world. The full on demands of your job. The mountain of emails you plough through every evening to try and head off the next day’s avalanche. The chaos going on in your mind.
 
-Maybe you’ve signed up for the gym or meditation classes but you haven’t managed to make it there with everything else you have going on. You know you need to relax but somehow it always ends up at the bottom of your to do list.
+Maybe you’ve signed up for the gym or meditation classes but you haven’t managed to make it there with everything else you have going on. You know you need to relax but somehow it always ends up at the bottom of your to-do list.
 
 Doing an hour of yoga or meditation every day sounds nice but it’s never going to happen. You get up early enough as it is and there’s no time when you get home. So what can you do to relieve stress and rebalance?
 
