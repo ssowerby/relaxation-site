@@ -15,11 +15,11 @@ Don’t keep your to-do list in your head. Write down anything you need to remem
 
 ### Deal with it
 
-Obviously if you can deal with your worries during the day they won’t be left over to bug you at night. If you can’t deal with it right now then makingarrangements to deal with it later. Even booking an appointment can put your mind to rest.
+Obviously if you can deal with your worries during the day they won’t be left over to bug you at night. If you can’t deal with it right now then making arrangements to deal with it later. Even booking an appointment can put your mind to rest.
 
 ### What’s next?
 
-Your brain loves a puzzle, especially at 3 o’clock in the morning. If there’s a problem you’re worrying about come up with a list of possible solutions. Even ifyou don’t know how to fix it yourself coming up with the next step to try can help ease your mind. For example planning to ask a certain person who knows more about it or reading a particular book.
+Your brain loves a puzzle, especially at 3 o’clock in the morning. If there’s a problem you’re worrying about come up with a list of possible solutions. Even if you don’t know how to fix it yourself coming up with the next step to try can help ease your mind. For example planning to ask a certain person who knows more about it or reading a particular book.
 
 ### Fantastical solutions
 
