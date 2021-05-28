@@ -4,7 +4,7 @@ tags:
   - healthy mind
   - stress
   - anxiety
-publishDate: 2020-04-18 16:09:18
+publishDate: 2020-04-18 16:08:00
 ---
 Worrying whether you sent that email, stressing over getting your project in on time, feeling anxious about a meeting. Overbearing boss, your spouse, kids, parents, utility bills, demanding customers, stress can come from anywhere. And it keeps coming day after day like a relentless wave. You might find yourself tossing and turning at night chewing it over or losing time staring into space trying to think of solutions through a fog of panic. But when there’s so much coming from so many directions where do you start? 
 
