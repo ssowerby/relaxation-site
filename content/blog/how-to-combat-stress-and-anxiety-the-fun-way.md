@@ -19,7 +19,7 @@ summary: >-
 
   * You might be frustrated with yourself for stressing over tiny inconsequential things.
 
-  * You’re fed up of it and want rid of this stress an anxiety
+  * You’re fed up of it and want rid of this stress and anxiety
 
   * Where do you start?
 ---
@@ -29,7 +29,7 @@ Your life is stressful -
 * It feels like it’s been going on for a long time.
 * You don’t know how it started or maybe you do (bad period at work, anxious parental role models). It might be one thing or ten things.
 * You might be frustrated with yourself for stressing over tiny inconsequential things.
-* You’re fed up of it and want rid of this stress an anxiety
+* You’re fed up of it and want rid of this stress and anxiety
 * Where do you start?
 
 ## **Start where you are**
