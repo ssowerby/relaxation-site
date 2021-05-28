@@ -21,15 +21,15 @@ There are three main categories of stress. Identifying which type of stress is g
 
 ### So how do you combat the 3 types of stress?
 
-Mark three columns on a piece of paper, one for each of the above categories. List down everything your stressing about in the appropriate column. 
+Mark three columns on a piece of paper, one for each of the above categories. List down everything you're stressing about in the appropriate column. 
 
 ### What difference will categorizing it make?
 
-Your brain is not a good place to keep to-do lists. It will keep reminding you of things at inconvenient times like when you’re trying to sleep. This is because it has an urge to complete them. A study showed that waiters are very good at remembering an order before it’s completed but once it’s done they forget it. This is a good when it helps drive us to complete projects. However sometimes it’s not helpful, like in the middle of the night when you can’t do anything about it. So the best thing to do is get your stress list out of your head onto paper. Then your mind doesn't need to remind you about it and you can start to make a plan.
+Your brain is not a good place to keep to-do lists. It will keep reminding you of things at inconvenient times like when you’re trying to sleep. This is because it has an urge to complete them. A study showed that waiters are very good at remembering an order before it’s completed but once it’s done they forget it. This is good when it helps drive us to complete projects. However sometimes it’s not helpful, like in the middle of the night when you can’t do anything about it. So the best thing to do is get your stress list out of your head onto paper. Then your mind doesn't need to remind you about it and you can start to make a plan.
 
 ### Making the plan
 
-* If you can deal with it now do it. Think how good it will feel when the conversation is over, the email sent or the room tidied. Doing the thing is often less stressful than thinking about. Plus you get the bonus feeling of relief and accomplishment afterwards.
+* If you can deal with it now do it. Think how good it will feel when the conversation is over, the email sent or the room tidied. Doing the thing is often less stressful than thinking about it. Plus you get the bonus feeling of relief and accomplishment afterwards.
 * If you can’t do it right now when can you? Schedule it in. Once your brain knows it’s in the diary it can give you a break from going over and over it.
 * Is it going to take a long time or involve a number of tasks? Break it down into steps and schedule them in. Again once your brain knows you have a handle on it it can ease off with the reminders.
 * If there’s nothing you can do about it is there something you can do to mitigate the effect? Maybe you can make your ill loved one’s life easier by doing their shopping.  Perhaps it’s time to start looking for a new job or investigating new careers. Taking positive action can fulfil your brain’s need to do something about it. Some people find exercise and meditation helpful too. Writing down how you feel about something and sealing it away in an envelope has also been shown to be effective at giving the mind a sense of resolution.
