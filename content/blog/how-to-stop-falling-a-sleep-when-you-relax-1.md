@@ -26,7 +26,7 @@ Listen to hypnosis, meditation or guided visualisation audios designed to lull y
 
 ### Deal with worry
 
-Tossing and turning all night worrying about everything from global warming to whether you remembered to buy bread. If this rings a bell with you check out my article on **[how to sleep better when you worry about everything and nothing.](/blog/how-to-sleep-better-when-you-worry-about-everything-and-nothing/)**
+Tossing and turning all night worrying about everything from global warming to whether you remembered to buy bread. If this rings a bell with you check out my article on [how to sleep better when you worry about everything and nothing.](/blog/how-to-sleep-better-when-you-worry-about-everything-and-nothing/)
 
 ### What if it’s not possible to get enough sleep?
 
