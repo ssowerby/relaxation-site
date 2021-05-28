@@ -5,13 +5,12 @@ tags:
   - sleep
   - relaxation
 publishDate: 2020-04-18T18:47:25.000Z
-
 ---
-You know relaxing is good for you and you want to do it. The only trouble is whenever you start to relax you find yourself nodding off. Maybe you’re the person at yoga who always falls asleep at the end and is embarrassed when they wake up snoring. Maybe, like someone I know, you went to meditation classes but sat there digging your fingernails into your leg to stop you snoozing. You might even find you’ve become anxious about relaxing as you worry about nodding off. So what can you do to stay awake and enjoy some relaxation?
+You know relaxing is good for you and you want to do it. The only trouble is whenever you start you find yourself nodding off. Maybe you’re the person at yoga who always falls asleep at the end and is embarrassed when they wake up snoring. Maybe, like someone I know, you went to meditation classes but sat there digging your fingernails into your leg to stop you snoozing. You might even find you’ve become anxious about relaxing as you worry about nodding off. So what can you do to stay awake and enjoy some relaxation?
 
 ### Are you getting enough sleep?
 
-If you think you are then a trip to the doctors is in order. Otherwise if you know you don’t get enough sleep then it’s not surprising that your body seizes on any downtime as an opportunity to catch a few more ZZZs. If you want to be able to relax without drifting off you simply need to get more sleep. Here are some simple things you can try to help you get a good night's sleep.
+If you think you are then a trip to the doctors is in order. Otherwise if you know you don’t get enough sleep then it’s not surprising that your body seizes on any downtime as an opportunity to catch a few more ZZZs. If you want to be able to relax without drifting off you simply need to get more sleep. Here are some simple things you can try to help you get a good night's rest.
 
 ### Wind down
 
