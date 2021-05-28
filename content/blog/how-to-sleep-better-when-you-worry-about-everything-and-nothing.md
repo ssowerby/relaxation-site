@@ -6,7 +6,6 @@ tags:
   - worry
 publishDate: 2020-04-18T19:01:07.000Z
 ---
-
 Tossing and turning. Demanding the thought go away but finding it’s still there three hours later gnawing at you. Even a small niggle can feel like a huge mountain of a problem after the sun goes down. It’s difficult to let things lie when they’re not resolved. It’s like our brains go into overdrive, prodding us to stay awake and do something about it. So how can we put them to rest and get some shut eye?
 
 ### Write it down
@@ -15,7 +14,7 @@ Don’t keep your to-do list in your head. Write down anything you need to remem
 
 ### Deal with it
 
-Obviously if you can deal with your worries during the day they won’t be left over to bug you at night. If you can’t deal with it right now then making arrangements to deal with it later. Even booking an appointment can put your mind to rest.
+Obviously if you can deal with your worries during the day they won’t be left over to bug you at night. If you can’t deal with it right now then make arrangements to tackle it later. Even booking an appointment can put your mind to rest.
 
 ### What’s next?
 
