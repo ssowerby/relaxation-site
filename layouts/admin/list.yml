@@ -29,6 +29,15 @@ collections:
       - { label: "Summary", name: "summary", widget: "markdown", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
+  - name: "pay"
+    label: "Payments"
+    folder: "content/pay"
+    create: true
+    fields:
+      - { label: "Paypal button ID", name: "button", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Price", name: "price", widget: "number", value_type: "float" }
+
   - name: "faq"
     label: "FAQ"
     folder: "content/faqs"
