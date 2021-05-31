@@ -33,7 +33,9 @@ collections:
     label: "Payment"
     folder: "content/pay"
     create: true
+    identifier_field: name
     fields:
+      - { label: "Name", name: "name", widget: "string" }
       - { label: "Paypal button ID", name: "button", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Price", name: "price", widget: "number", value_type: "float" }
