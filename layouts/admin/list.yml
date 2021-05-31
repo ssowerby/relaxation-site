@@ -30,7 +30,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "pay"
-    label: "Payments"
+    label: "Payment"
     folder: "content/pay"
     create: true
     fields:
