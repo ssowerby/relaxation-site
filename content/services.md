@@ -3,7 +3,7 @@ title: Services
 ---
 ## Hypnotherapy Sessions for Stress, Anxiety and Fear
 
-Sometimes a nagging fear or anxiety motivates us to deal with a problem and then it switches off. Like getting you to prepare for an interview or arrange for someone to look at the funny noise the boiler is making. Sometimes however you can feel a knot in your stomach or be consumed by worry but there either isn’t a problem to solve or it isn’t something you can fix. In that kind of situation hypnotherapy can help.
+Sometimes a nagging fear or anxiety motivates us to deal with a problem and then it switches off. Like getting you to prepare for a client meeting or arrange for someone to look at the funny noise the boiler is making. Sometimes however you can feel a knot in your stomach or be consumed by worry but there either isn’t a problem to solve or it isn’t something you can fix. In that kind of situation hypnotherapy can help.
 
 **When you have a fear or anxiety which you can’t argue yourself out of hypnosis is a very useful tool**. It’s the ideal therapy for automatic reactions which are driven by the subconscious part of your mind because it’s aimed directly at your subconscious.
 
