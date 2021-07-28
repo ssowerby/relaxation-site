@@ -16,7 +16,7 @@ body:before {
    z-index: -2;
    display: block;
    background-image: url("/images/background_new.jpg");
-   background-size: 100%;
+   background-size: cover;
 }
 
 /*@media (max-width: 991px) {
