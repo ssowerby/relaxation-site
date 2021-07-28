@@ -6,7 +6,7 @@ Hi I'm Rachel Goth, I'm a hypnotherapist based in South London. I help people li
 
 ## My Philosophy
 
-Wen we’re stressed we don’t have access to our higher thinking. Funnily enough that doesn’t help us to find solutions to our problems. Two people can live the exact same life, one happy, the other miserable. I’ll bet you the miserable one isn’t relaxed. When we’re relaxed we’re more intelligent and we have access to all of our wisdom. 
+When we’re stressed we don’t have access to our higher thinking. Funnily enough that doesn’t help us to find solutions to our problems. Two people can live the exact same life, one happy, the other miserable. I’ll bet you the miserable one isn’t relaxed. When we’re relaxed we’re more intelligent and we have access to all of our wisdom. 
 
 I never used to understand the thing about accepting where you are before you can change it. Acceptance seemed to me like giving up. But now I see it as relaxing with it, detaching your emotions from it so you can think more clearly and have a better chance of finding the path out. 
 
