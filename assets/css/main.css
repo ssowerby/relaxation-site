@@ -15,15 +15,15 @@ body:before {
    bottom: 0;
    z-index: -2;
    display: block;
-   background-image: url("//d1nq4hyj0msl77.cloudfront.net/background_large.jpg");
-   background-size: 100%;
+   background-image: url("//d1nq4hyj0msl77.cloudfront.net/background_new.jpg");
+   background-size: cover;
 }
 
-@media (max-width: 991px) {
+/*@media (max-width: 991px) {
    body:before {
       background-image: url("//d1nq4hyj0msl77.cloudfront.net/background_medium.jpg");
    }
-}
+}*/
 
 a {
     text-decoration: none;
@@ -154,12 +154,12 @@ h2 a:hover, h3 a:hover {
 #logo {
    position: fixed;
    left: 50%;
-   top: 0;
+   top: 8px;
    z-index: 5;
    cursor: pointer;
    width: 8em;
    height: 8em;
-   transform: translate(-48%,0)
+   transform: translate(-50%,0);
 }
 
 @media (min-width: 800px) {
@@ -296,16 +296,18 @@ article:last-of-type {
 @media (min-width: 800px) {
 
     .image-strip {
-        display: flex;
-        flex-direction: row;
+        display: grid;
+        grid-auto-flow: column;
+        justify-items: center;
         padding: 0;
         margin: 0;
         padding-top: 2vh;
         padding-bottom: 2vh;
+        gap: 1em;
     }
 
     .image-strip img {
-        width: 50%;
+      max-width: 10em;
     }
 
     .content.aboutme .photobox {
