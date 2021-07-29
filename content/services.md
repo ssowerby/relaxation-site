@@ -1,44 +1,40 @@
 ---
 title: Services
 ---
-## Hypnotherapy Sessions for Stress, Anxiety and Fear
+If you’re someone who uses their imagination in their work, in fact your creativity and ideas are the life blood of what you do, but your passion is waning, then you’re in the right place because:
 
-Sometimes a nagging fear or anxiety motivates us to deal with a problem and then it switches off. Like getting you to prepare for an interview or arrange for someone to look at the funny noise the boiler is making. Sometimes however you can feel a knot in your stomach or be consumed by worry but there either isn’t a problem to solve or it isn’t something you can fix. In that kind of situation hypnotherapy can help.
+* I’m a creative type (link to about page) too so I know what it’s like when you get in a funk and the money maker between your ears just isn’t doing its thing.  
+* I know what it’s like dealing with all the other crap that goes on outside of your creative zone. Wouldn’t it be nice sometimes to not have to deal with people or the world and just do your thing (sigh)?
+* I also know that’s never going to happen so I offer:
 
-**When you have a fear or anxiety which you can’t argue yourself out of hypnosis is a very useful tool**. It’s the ideal therapy for automatic reactions which are driven by the subconscious part of your mind because it’s aimed directly at your subconscious.
+## 1:1 sessions to get your imagination firing on all cylinders
 
-### What is hypnosis?
+Using a combination of hypnosis and various other relaxation, visualisation and mindfulness techniques we will identify what’s keeping you out of your creative zone and get you back in there where you belong so you can do your best work and more importantly enjoy it again.
 
-Hypnosis is a state of mind, a kind of trance which you’ll find you’re familiar with. It’s akin to the trance of day dreaming, how you feel when you’re close to drifting off to sleep or how you feel when you’re absorbed in a book or a hobby. It’s a kind of internal focus in which you become absorbed in what you’re doing or imagining rather than what’s happening around you. 
+### How do we do that?
 
-You know those times when you’re in the flow and when you look up more time has passed than you thought? It’s that kind of experience. We use it because it’s similar to the state of mind when we process memories from the learnings of the day during sleep.
+I can’t get rid of your deadlines, sweet talk your bank manager or make your kids sandwiches. I can however help you change how all that stuff impacts on your creativity. Because stress and anxiety are the natural enemies of creativity. 
 
-### How does hypnotherapy work?
+Think about it, do you have your best ideas when you’re stuck in traffic worrying about getting to that meeting in time and how you’re going to find time for the supermarket shop? Is it actually more likely to happen when you’re in the shower or out for a walk? I’m betting the latter and I’m also betting you don’t find showering or walking in the countryside stressful.
 
-Hypnotherapy helps you to make changes on a subconscious level. We all have a part of our brain which runs below the level of conscious thought. It keeps your blood pumping, regulates your breathing, moves the muscles in your legs when you walk.
+It’s biology. 
 
-Once you’ve learned something well enough this part takes over responsibility for it. So you can automatically tie your shoe laces, driving a car or ride a bike. The subconscious part of your mind creates an automatic programme for the behaviour and runs it so you don’t have to waste brain power thinking about it. Imagine if you had to think about everything you did every day like getting up, cleaning your teeth, getting dressed, making breakfast? It would be exhausting, not to mention boring. When it works well our subconscious saves us a lot of conscious effort.
+When we get highly stressed we click into fight or flight mode. You know that state of mind which is useful if you’re crossing the street and a car is coming or you’re touching a hot pan. 
 
-The problem is sometimes the subconscious can make less helpful processes automatic like panicking every time you have to speak in public or interpreting anything that doesn’t work out as meaning you’re stupid or feeling fear when there’s no danger. It can be difficult to talk yourself out of these feelings because they happen automatically. With hypnotherapy we can reach the subconscious part of the mind which is running the automatic programme and correct it.
+You’re focussed on the danger and your only decision is whether to move away quick, fight or freeze on the spot and play dead. Like getting out of the way of the car or taking your hand off the pan, it’s not a situation for considered debate. You don’t have the capacity to think about anything else other than the iminent threat and nor should you. 
 
-### What happens in a hypnotherapy session?
+The trouble is our minds have a wide definition of what’s dangerous which includes stuff we worry and churn over in our heads which isn’t life threatening. You know, like:
 
-In the first session we’ll discuss what it is you’d like to change and define the goal for our sessions together. From here we will move into the trance part of the session. It’s not the dramatic stage or watch swinging experience you might expect. 
+* How on earth are you going to get this project done on time? 
+* What if this or that or the other happens? 
+* Are you really good enough to be doing this? 
 
-I use an indirect form of hypnosis which is more like a relaxing conversation in which I offer you helpful suggestions and imaginative exercises. You will be aware and in control. You may feel a bit like you’re day dreaming. You might remember everything I say or not much, it doesn’t really matter. 
+In those cases going into fight or flight also happens but it’s not helpful. Your imagination may be firing but it’s taken up with disaster scenarios with no capacity left for ideas and solutions.
 
-Most people find it relaxing and some say it feels like the few moments before you drift off into sleep. The point is we’re accessing the subconscious part of your mind where we can make changes relatively quickly.
-
-In the following sessions we check on your progress and tailor the session to move you a step further towards your goal.
-
-### How many sessions will I need?
-
-In most cases we can deal with the issue sufficiently within four sessions but of course there’s no guarantee as each person is unique.
+Essentially what we need to do is train your brain to recategorise those none life threatening anxieties as just that, not life threatening. When we do that the fight or flight system can stand down so you have access to more of your brain power, including your imagination. Then we can get on with reconnecting you to your passion, you know, what fires you up to do your thing.
 
 ### Where do sessions take place?
 
-All sessions take place online which means no commuting time and you can take that relaxed feeling straight into your business meeting, evening wind down or whatever you’re doing next.
+All of the sessions take place online via Zoom so I can help you wherever you are and you don't need to waste time travelling.
 
-Ready to book? Email/text me and we can arrange to have a quick chat and book in an appointment.
-
-Want to check if it’s right for you? Have a look at [my blog](https://www.helpmerelax.co.uk/blog/) to get more of a flavour of what I do or send me an email/text and I’ll call you back for a quick chat.
+If that sounds good to you message me and let’s chat.
