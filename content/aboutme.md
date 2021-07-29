@@ -4,7 +4,7 @@ layout: aboutme
 ---
 Hi I'm Rachel, the creative person's fire lighter. 
 
-### The reason I do my work today is because too many creative professionals and entrepreneurs are struggling with creative burn out sucking the joy out of their work. So I help them rekindle their passion so they enjoy being creative again.
+### The reason I do my work today is because too many creative professionals and entrepreneurs are struggling with creative burn out sucking the joy out of their work. I help them rekindle their passion so they enjoy being creative again.
 
 Ever since I can remember I was making things and writing stories. When I became a graphic designer in a web company I felt like I’d landed my dream job. I actually got paid to play around with colour and form, to bring my imaginings to life.  
 
