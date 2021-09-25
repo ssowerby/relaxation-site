@@ -9,6 +9,7 @@ disableAliases = true
 [params]
 disallow_search_engines = false # set robots.txt to disallow everything
 description = "Master your mind and beat the stress, anxiety or fear which has been holding you back."
+images = ['images/RGnewlogo2.png']
 
 # add redirects + headers + dynamic config
 [outputs]
