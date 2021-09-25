@@ -6,9 +6,11 @@
     HUGO_VERSION = "0.88.1"
     HUGO_ENABLEGITINFO = "true"
 
+[context.production]
+    command = "hugo --gc --minify -b https://www.rachelgoth.com"
+
 [context.production.environment]
     HUGO_ENV = "production"
-    command = "hugo --gc --minify -b https://www.rachelgoth.com"
 
 [context.deploy-preview]
     command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
