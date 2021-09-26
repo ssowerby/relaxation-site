@@ -7,7 +7,7 @@
     HUGO_ENABLEGITINFO = "true"
 
 [context.production]
-    command = "hugo --gc --minify -b https://www.rachelgoth.com"
+    command = "hugo --gc -b https://www.rachelgoth.com"
 
 [context.production.environment]
     HUGO_ENV = "production"
