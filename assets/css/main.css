@@ -6,7 +6,11 @@ body {
    font-family: "Open Sans", sans-serif;
 }
 
-xxxbody:before {
+img {
+   max-width: 100%;
+}
+
+body:before {
    content: "";
    position: fixed;
    top: 0;
