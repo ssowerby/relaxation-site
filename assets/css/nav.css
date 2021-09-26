@@ -34,6 +34,7 @@ nav ul {
    background-color: #262E3D;
    transition: transform 1s;
    font-size: 7vh;
+   visibility: hidden;
 }
 
 nav ul li {
@@ -46,7 +47,7 @@ nav ul li {
 
 nav ul li:hover {
    cursor: pointer;
-    background-color: #262E4F;
+   background-color: #262E4F;
 }
 
 nav ul li:hover > a {
@@ -56,7 +57,7 @@ nav ul li:hover > a {
 nav > ul > li > a {
    cursor: pointer;
    outline: none;
-   display:inline-block;
+   display: inline-block;
    width: 100%;
    text-decoration: none;
 }
@@ -97,6 +98,11 @@ nav [type="checkbox"]:checked + label:after {
 
 nav [type="checkbox"]:checked ~ ul {
    transform: translateX(-7em);
+   visibility: visible;
+}
+
+nav [type="checkbox"]:checked ~ ul {
+   display: block;
 }
 
 nav [type="checkbox"]:checked ~ ul {
