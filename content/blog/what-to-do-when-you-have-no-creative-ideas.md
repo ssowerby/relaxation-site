@@ -1,6 +1,6 @@
 ---
 title: What to do when you have no creative ideas
-subtitle: 5 ways to get your creative juices flowing
+subtitle: 5 ways to be more creative
 publishDate: 2021-10-18 19:17:13
 summary: >-
   Back when I was a graphic designer there’d be times I’d find myself staring at
