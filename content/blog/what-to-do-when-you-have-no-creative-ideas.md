@@ -13,9 +13,7 @@ summary: >-
 
   Even now it’s tempting to keep staring at the blank screen when I feel stuck despite the fact I know it doesn’t help. What has changed is I’m a lot quicker now at realising it isn’t helping and I have a few go to methods to share with you which get the ideas flowing again.
 ---
-
-
-## 1. Stop forcing it 
+## 1. Stop forcing it
 
 If you’ve been at the computer for hours trying to make it happen but you’re just getting crickets do something else. Move on to working on another project or better still get out in the fresh air. Kick a ball about with the kids or have a run. Change your physical state and move your focus to something completely different. It’s as good as a holiday for your brain.
 
@@ -33,7 +31,7 @@ If you have no good ideas start with the rubbish ones. Get them down onto paper.
 
 When you sleep your brain processes all the input from the day. Giving yourself that processing time can be enlightening. It also means you’re well rested and fresh ready to continue the following morning.
 
-## 5. Walk away
+## 5. Walk away (or run)
 
 Studies show that exercise improves mood and increases the production of brain cells. Thinking about your project while you’re on the move can lead to a whole host of new ideas.
 
