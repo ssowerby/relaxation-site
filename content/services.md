@@ -1,9 +1,9 @@
 ---
 title: Services
 ---
-If you’re someone who uses their imagination in their work, in fact your creativity and ideas are the life blood of what you do, but your passion is waning, then you’re in the right place because:
+If you’re someone who uses their imagination in their work (crafter, artist, designer, writer), in fact your creativity and ideas are the life blood of what you do, but your passion is waning, then you’re in the right place because:
 
-* I’m a creative type (link to about page) too so I know what it’s like when you get in a funk and the money maker between your ears just isn’t doing its thing.  
+* [I’m a creative](https://www.rachelgoth.com/aboutme/) type too so I know what it’s like when you get in a funk and the money maker between your ears just isn’t doing its thing.  
 * I know what it’s like dealing with all the other crap that goes on outside of your creative zone. Wouldn’t it be nice sometimes to not have to deal with people or the world and just do your thing (sigh)?
 * I also know that’s never going to happen so I offer:
 
@@ -35,6 +35,6 @@ Essentially what we need to do is train your brain to recategorise those none li
 
 ### Where do sessions take place?
 
-All of the sessions take place online via Zoom so I can help you wherever you are and you don't need to waste time travelling.
+All of the sessions take place online via **Zoom** so I can help you wherever you are and you don't need to waste time travelling.
 
 If that sounds good to you message me and let’s chat.
