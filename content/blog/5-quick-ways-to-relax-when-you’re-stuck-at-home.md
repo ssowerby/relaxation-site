@@ -24,7 +24,7 @@ Notice the **colours, shapes** and feel of the shampoo/shower gel. When you squi
 
 When you notice your mind wandering bring it back to what you’re doing and continue noticing more details. Whenever **you’re in the moment** you’re giving your mind a rest from rumination and worry.
 
-### 2. 7-11 breathing while the kettle boils
+### 2. 7-11 breathing while the kettle boils <a name="711breathing"></a> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zw1ttK2HPgw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
