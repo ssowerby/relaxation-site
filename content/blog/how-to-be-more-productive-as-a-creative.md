@@ -38,3 +38,5 @@ Maybe you enjoy being creative more in the middle of the week? 
 For you it might be a certain time of day that you’re more creative. Rather than a time of day it might be after you’ve done a particular thing like meditating, going for a walk or doing exercise. Keeping a journal or diary and making notes of your best/most productive times will help you see the patterns and then you can use them to your advantage.
 
 How could you change up your calendar so you can make the most of those times or days when you have more access to your creative flow? It’s amazing what you can achieve when you go with your creative rhythms.
+
+Now I know it’s not always possible to completely control your calendar so if you need to get into your flow at a time when you’re not feeling it check out [3 ways to tap into your creative flow](https://www.rachelgoth.com/blog/3-ways-to-tap-into-your-creative-flow/).
