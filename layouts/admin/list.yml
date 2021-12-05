@@ -2,6 +2,8 @@ backend:
   name: github
   repo: ssowerby/relaxation-site
   branch: {{ getenv "HEAD" }}
+  use_graphql: true
+  squash_merges: true
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
@@ -55,3 +57,12 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "signup"
+    label: "Sign-up"
+    folder: "content/signup"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Thanks", name: "thanks", widget: "markdown" }

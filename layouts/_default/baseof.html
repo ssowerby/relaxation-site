@@ -7,8 +7,6 @@
       {{- with .Title }}{{ . }} | {{ end }}{{ .Site.Title -}}
       {{ end }}</title>
 
-   <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/ca20fed29b5ebd272d66141db/f859938b54bdbd0f6c7554c9f.js");</script>
-
    {{ template "_internal/opengraph.html" . }}
 
    {{ $mainCss := resources.Get "css/main.css" }}
