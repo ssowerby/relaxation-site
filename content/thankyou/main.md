@@ -19,7 +19,7 @@ Open the email, download the MP3 and go and become more creative right now.
 
 Look forward to talking with you again soon.
 
-<div>
+</div>
 
 <div id="thanks_pic">
 
