@@ -61,14 +61,14 @@ collections:
     label: "Sign-up"
     folder: "content/signup"
     create: true
-    summary: ""{{filename}}"
     fields:
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "thankyou"
     label: "Thank you"
     folder: "content/thankyou"
     create: true
-    summary: ""{{filename}}"
     fields:
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
