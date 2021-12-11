@@ -63,6 +63,11 @@ collections:
     folder: "content/signup"
     create: true
     fields:
-      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Thanks", name: "thanks", widget: "markdown" }
+
+  - name: "thankyou"
+    label: "Thank you"
+    folder: "content/thankyou"
+    create: true
+    fields:
+      - { label: "Body", name: "body", widget: "markdown" }
