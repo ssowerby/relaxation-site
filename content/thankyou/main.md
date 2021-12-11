@@ -12,8 +12,7 @@ I’m really pleased you’ve signed up for my MP3, **How to Become More Creativ
 * As well as simple technique you can use any time to reduce overwhelm so you can access your imagination
 
 Here’s what I want you to do next. 
-Go to your email inbox and look for an email from me with the subject line.
-
+Go to your email inbox and look for an email from me with the subject line
 **Your How to Become More Creative MP3 Has Arrived.**
 
 Open the email, download the MP3 and go and become more creative right now.
