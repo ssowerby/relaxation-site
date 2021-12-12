@@ -12,6 +12,7 @@ collections:
   - name: "testimonial"
     label: "Testimonial"
     folder: "content/testimonials"
+    identifier_field: "author"
     create: true
     fields:
       - { label: "Author", name: "author", widget: "string" }
