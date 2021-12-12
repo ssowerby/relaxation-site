@@ -2,6 +2,8 @@ backend:
   name: github
   repo: ssowerby/relaxation-site
   branch: {{ getenv "HEAD" }}
+  use_graphql: true
+  squash_merges: true
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
@@ -33,9 +35,7 @@ collections:
     label: "Payment"
     folder: "content/pay"
     create: true
-    identifier_field: name
     fields:
-      - { label: "Name", name: "name", widget: "string" }
       - { label: "Paypal button ID", name: "button", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Price", name: "price", widget: "number", value_type: "float" }
@@ -51,6 +51,22 @@ collections:
   - name: "page"
     label: "Page"
     folder: "content"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "signup"
+    label: "Sign-up"
+    folder: "content/signup"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "thankyou"
+    label: "Thank you"
+    folder: "content/thankyou"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
