@@ -7,6 +7,8 @@ summary: This morning I’ve been battling with tech. A fifteen minute recording
   software refused to recognise the mic. It could have set me off kilter for the
   rest of the day.
 ---
+This morning I’ve been battling with tech. A fifteen minute recording I thought would be child’s play turned into much more of a palava when the software refused to recognise the mic. It could have set me off kilter for the rest of the day.
+
 It’s not as if I haven’t recorded hypnosis and meditation audios many times before. I’d even plugged in my new mic the night before to test it out and it was all working perfectly. But when it came time to knuckle down and do it this morning it just didn’t work. I was getting flat lined, no sound at all. It was so frustrating. My day had a plan which allowed half an hour for recording and in the end with the Google searches and the swearing it was more like two hours.
 
 I’m so grateful I’d been for a morning walk beforehand. I’ve been meaning to make it a regular thing but hadn’t gotten around to it. It’s like I’d been treating it as a nice to have rather than an essential part of my day so, it continually slipped to the bottom of the to do list. But today I actually made it.
