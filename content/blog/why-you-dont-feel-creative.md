@@ -10,6 +10,10 @@ summary: >-
 
   My heart ached for her. This was one of many blows to her imagination she would have to face in the years to come -
 ---
+“Stop making things up” came the irritated voice from the bench behind me. I took a sly peek over my shoulder to see a dejected little girl, candy floss in hand, being told in no uncertain terms that unicorns do not exist. And even if they did they would not be found paddling at the seaside.
+
+My heart ached for her. This was one of many blows to her imagination she would have to face in the years to come -
+
 * Imaginary friends do not need a place at the table
 * Stalks have absolutely nothing to do with the delivery of babies 
 * And the biggie, there is no Father Christmas
