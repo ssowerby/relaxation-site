@@ -2,15 +2,12 @@
 title: 3 ways to tap into your creative flow
 subtitle: How to get your creative juices flowing more of the time
 publishDate: 2021-11-30 09:09:35
-summary: >-
-  I used to be the kind of person who waited for the muse to strike. I’d drop a
-  project for days or weeks even until I felt in the mood to work on it. When my
-  imagination was firing on all cylinders it felt amazing. In the fallow times
-  it felt like I’d never have an idea again. 
-
-
-  In some circles that seems to be the approved way, kind of romanticised. We have visions of poets and artists languishing in despair, waiting for the few nuggets of pure gold which suddenly appear every now and then. Like the rollercoaster is an essential part of the journey, it’s how you pay your dues. But when being creative became my job that had to change.
+summary: ""
 ---
+I used to be the kind of person who waited for the muse to strike. I’d drop a project for days or weeks even until I felt in the mood to work on it. When my imagination was firing on all cylinders it felt amazing. In the fallow times it felt like I’d never have an idea again. 
+
+In some circles that seems to be the approved way, kind of romanticised. We have visions of poets and artists languishing in despair, waiting for the few nuggets of pure gold which suddenly appear every now and then. Like the rollercoaster is an essential part of the journey, it’s how you pay your dues. But when being creative became my job that had to change.
+
 Go for a walk. It helps relieve any tensions and anxiety which keeps you out of the creative zone. Walking has also been found to stimulate the growth of new Brian cells and increased brain power can’t be bad. As a graphic designer I didn’t have the luxury of reclining on a chaise longue hand to my forehead. Instead when the ideas weren’t flowing I’d push through, wrestling with my designs, having sleepless nights and doing the best I could. I did usually get there in the end but it wasn’t a fun process and kind of sucked the joy out of what was supposed to be my dream jog.
 
 Since then I’ve learned a lot through studying mindset techniques and I’ve found ways to win without the fight. Because your creative flow isn’t a mystical occurrence which only comes along when the stars align, you can actually find it any time. You just have to know where to look.
