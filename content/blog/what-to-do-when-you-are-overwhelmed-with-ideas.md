@@ -12,6 +12,12 @@ summary: >-
 
   But sometimes it’s a bit much and you just want to work out who done it. That’s what it was like for me with my play. I was stuck in that initial brainstorm phase. How was I going to decide how to progress as all the different ideas jostled for my attention?
 ---
+I was writing a ‘who done it’. I had my setting. I had my lead character, victims, multiple suspects and motives coming out of my ears. But how was I going to choose who done it?
+
+I love the early stages of creating something new when you get lost in your imagination. When bursts of inspiration come to you while you’re walking along, ideas tumbling into your head as you shower. It’s exciting, full of possibility, a rich seam ripe for picking. 
+
+But sometimes it’s a bit much and you just want to work out who done it. That’s what it was like for me with my play. I was stuck in that initial brainstorm phase. How was I going to decide how to progress as all the different ideas jostled for my attention?
+
 If you’re suffering from creative block at the moment you don’t need to hear this right now. Check out [what to do when you have no creative ideas](https://www.rachelgoth.com/blog/what-to-do-when-you-have-no-creative-ideas/) then come back later when you’re brimming with ideas. And don’t worry it will happen, it inevitably always does. 
 
 So I’m going to say it, too many ideas can be just as debilitating as no idea.
