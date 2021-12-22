@@ -6,6 +6,8 @@ summary: I don’t like The Great British Bake Off. There, my guilty secret is
   them. Cookery shows just aren’t up there for me. I do however have a grudging
   respect for the show and a soft spot in my heart for Nadiya Hussain.
 ---
+I don’t like The Great British Bake Off. There, my guilty secret is out. Sorry but I’m more interested in eating cake than baking or looking at them. Cookery shows just aren’t up there for me. I do however have a grudging respect for the show and a soft spot in my heart for Nadiya Hussain.
+
 The Bake Off does a tremendous job of showcasing ordinary at home bakers and their extraordinary skills. It inspires people the nation over to push themselves and have a go. It’s lead to careers in TV for some contestants and new businesses for others. Ordinary people who never dreamed they’d be where they are today because of their love of baking. Nadiya Hussain for one. 
 
 Despite being so nervous on her first day of filming Bake Off that she was in tears Nadia went on to win. And since then Nadia’s written cook books and fiction and starred in her own TV programme. She even has an MBE! I know Nadia didn’t see any of that coming (checkout her [website](https://www.nadiyahussain.com/about-me/)).
