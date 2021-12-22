@@ -15,6 +15,10 @@ summary: >-
 
   It doesn’t sound much but it’s huge. Imagine not blaming yourself for everything that happens including the weather or beating yourself up because you’re not perfect. When you’re more relaxed it’s easier to live with mistakes and misunderstandings and **enjoy the imperfect parts of life**.
 ---
+Okay I’m not saying a massage is going to make you feel you’re the best thing since sliced bread. It won’t make you go from hiding in the corner at parties to being the compere. However what regular relaxation can do for you is help you to gain a more **balanced view** of things.
+
+It doesn’t sound much but it’s huge. Imagine not blaming yourself for everything that happens including the weather or beating yourself up because you’re not perfect. When you’re more relaxed it’s easier to live with mistakes and misunderstandings and **enjoy the imperfect parts of life**.
+
 ![woman lying down](/uploads/woman-lying-down.jpg "Photo by Kinga Cichewicz on Unsplash")
 
 Okay I’m not saying a massage is going to make you feel you’re the best thing since sliced bread. It won’t make you go from hiding in the corner at parties to being the compere. However what regular relaxation can do for you is help you to gain a more **balanced view** of things.
