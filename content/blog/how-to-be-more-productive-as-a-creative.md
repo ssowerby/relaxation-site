@@ -13,6 +13,10 @@ summary: >-
 
   “So how is your day going?” The coach went around the Zoom room asking each of us. And that’s when I admitted it for the first time -
 ---
+It was Monday morning again and I’d scheduled in time to write some blog posts. Usually I love writing, seeing the story form in front of your eyes. Refining it like a gardener pruning a bush into a pleasing shape. But today I’d been noodling around at the edges of it all morning, feeling busy but not really getting anywhere. Essentially killing time until the weekly check in with my coaching group. 
+
+“So how is your day going?” The coach went around the Zoom room asking each of us. And that’s when I admitted it for the first time -
+
 “I feel creative as a brick on Mondays.” 
 
 The coach didn’t offer me any solutions, swiftly moving on to the next person but there was a relief in simply saying it out loud. 
