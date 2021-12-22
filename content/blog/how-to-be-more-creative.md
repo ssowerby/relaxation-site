@@ -9,7 +9,11 @@ summary: >-
 
   But I wasn’t encouraged to do art at university. Both my teachers and parents persuaded me it wasn’t a useful subject to take. So instead I took history and didn’t paint or draw a thing for over a decade until…
 ---
- I was moving house I came across some old paintings and remembered how much I’d enjoyed making art. I really wanted to take it up again but feeling rusty I decided to sign up for a night class. 
+I haven’t painted since I was at school. It was one of my favourite subjects. I could spend three days painting the one picture, lost in my flow. Even a picture of a gate. 
+
+But I wasn’t encouraged to do art at university. Both my teachers and parents persuaded me it wasn’t a useful subject to take. So instead I took history and didn’t paint or draw a thing for over a decade until…
+
+I was moving house I came across some old paintings and remembered how much I’d enjoyed making art. I really wanted to take it up again but feeling rusty I decided to sign up for a night class. 
 
 ![Painting of a gate](/uploads/img_20211207_150148.jpg "Told you I painted a gate")
 
