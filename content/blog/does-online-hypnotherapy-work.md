@@ -5,12 +5,12 @@ tags:
   - online hypnosis
   - how online hypnosis works
 publishDate: 2020-07-02 19:42:00
-summary: >-
-  With the recent changes thrust upon us lately by the coronavirus many of us
-  are learning just **how much we can do online**. Zoom, a platform many of us
-  had never heard of before lockdown may now be your best buddy. 
-
+summary: "With the recent changes thrust upon us lately by the coronavirus many
+  of us are learning just **how much we can do online**. Zoom, a platform many
+  of us had never heard of before lockdown may now be your best buddy. "
 ---
+With the recent changes thrust upon us lately by the coronavirus many of us are learning just **how much we can do online**. Zoom, a platform many of us had never heard of before lockdown may now be your best buddy. 
+
 Online is the way I've been working for a while now and since the coronavirus outbreak it's how I've been staying in touch with friends and family and also keeping up with my exercise. But I know some people are still **reticent about online hypnosis** and how it works. So I’m here to show you how it works and **reassure you that it does work**. In fact **online hypnosis can be better** than traditional office based sessions.
 
 With the recent changes thrust upon us lately by the coronavirus many of us are learning just **how much we can do online**. Zoom, a platform many of us had never heard of before lockdown may now be your best buddy. 
