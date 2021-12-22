@@ -2,7 +2,10 @@
 title: 3 ways to tap into your creative flow
 subtitle: How to get your creative juices flowing more of the time
 publishDate: 2021-11-30 09:09:35
-summary: ""
+summary: I used to be the kind of person who waited for the muse to strike. I’d
+  drop a project for days or weeks even until I felt in the mood to work on it.
+  When my imagination was firing on all cylinders it felt amazing. In the fallow
+  times it felt like I’d never have an idea again.
 ---
 I used to be the kind of person who waited for the muse to strike. I’d drop a project for days or weeks even until I felt in the mood to work on it. When my imagination was firing on all cylinders it felt amazing. In the fallow times it felt like I’d never have an idea again. 
 
