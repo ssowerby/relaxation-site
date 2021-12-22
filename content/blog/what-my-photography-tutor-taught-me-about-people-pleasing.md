@@ -4,7 +4,7 @@ publishDate: 2021-12-22 17:41:44
 summary: I worked my tail off on that project. I didn’t feel I had a natural
   affinity for photography, not the professional kind. I was more point and
   shoot. Apertures and F stops put my head in a spin. So when my photography
-  teacher told me I was doing excellent work and I was chuffed until...
+  teacher told me I was doing excellent work I was chuffed until...
 ---
 I worked my tail off on that project. I didn’t feel I had a natural affinity for photography, not the professional kind. I was more point and shoot. Apertures and F stops put my head in a spin. So every one of my brain cells was working overtime. I’d even been to B&Q to buy a bathroom cabinet to paint. That’s what you do at college isn’t it, think outside the box? 
 
