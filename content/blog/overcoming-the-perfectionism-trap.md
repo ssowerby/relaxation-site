@@ -9,6 +9,8 @@ summary: As a creative it’s easy to get lost in the detail, particularly if
   perfect word choice, shade of pink or width of a line. When I start to agonise
   over the details I think about this…
 ---
+As a creative it’s easy to get lost in the detail, particularly if you’re a perfectionist. A whole project can be held up while you debate the perfect word choice, shade of pink or width of a line. When I start to agonise over the details I think about this…
+
 My stomach rumbled. It would already be dark outside. I hoped Steve had started cooking the dinner and hadn’t got carried away playing Zelda again. That had a habit of happening when it was his turn. 
 
 “So which one?” My boss asked again for the twentieth time as if keeping me here in this windowless room for another two hours was bound to spark an idea. Not that it was really a problem, it was more case of heads or tails.
