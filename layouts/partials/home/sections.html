@@ -1,0 +1,9 @@
+{{ $sections := .Site.GetPage "/section" }}
+{{ $matching := $sections.Resources.Match "*" }}
+<div id="sections">
+{{ range $matching }}
+<div class="section">
+   {{ .Content }}
+</div>
+{{ end }}
+</div>

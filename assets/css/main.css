@@ -92,7 +92,7 @@ h2 a:hover, h3 a:hover {
 
 .content {
    margin: 0 auto;
-   max-width: 60em;
+   max-width: 72em;
    box-sizing: border-box;
    background-color: rgba(255, 255, 255, 0.90);
    border-radius: 0.5em;
@@ -361,3 +361,28 @@ ol ol > li:before {
    padding-right: 1em;
 }
 
+
+
+#sections {
+   width: 100%;
+   xbackground-color: red;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   align-items: stretch;
+}
+
+#sections .section {
+   display: inline-block;
+   width: 300px;
+   align-content: center;
+   vertical-align: top;
+   xbackground-color: blue;
+   padding: 1em;
+}
+
+.cta-signup {
+   text-align: center;
+   font-size: x-large;
+}
