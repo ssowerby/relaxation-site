@@ -1,5 +1,6 @@
 ---
 filename: signup
+visible: true
 order: 2
 ---
 Sign up for something interesting
