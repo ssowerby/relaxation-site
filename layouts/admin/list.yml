@@ -35,6 +35,7 @@ collections:
   - name: "section"
     label: "Home Section"
     folder: "content/section"
+    identifier_field: "filename"
     summary: "{{ string "{{slug}}" }}"
     slug: "{{ string "{{filename}}" }}"
     create: true
