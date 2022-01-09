@@ -10,7 +10,7 @@ I’m really pleased you’ve signed up for my MP3, **How to Become More Creativ
 
 Here’s what I want you to do next. 
 Go to your email inbox and look for an email from me with the subject line
-**Your How to Become More Creative MP3 Has Arrived.**
+**Here's Your - How to Become More Creative MP3.**
 
 Open the email, download the MP3 and go and become more creative right now.
 
