@@ -35,8 +35,6 @@
 
     <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="2ba64ac8-5147-4324-a942-171281f9b5bd" data-blockingmode="auto" type="text/javascript"></script>
 
-    <script src="{{ $js.Permalink }}" data-blockingmode="auto" type="text/javascript"></script>
-
    <!-- Global site tag (gtag.js) - Google Analytics -->
    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164651226-1"></script>
    <script>
@@ -73,6 +71,8 @@
 <div class="bottom-bar">
    {{ partial "bottombar" . }}
 </div>
+
+<script src="{{ $js.Permalink }}" data-blockingmode="auto" type="text/javascript"></script>
 
 </body>
 </html>
