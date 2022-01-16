@@ -3,5 +3,5 @@
 </div>
 
 <div class="copyright">
-   Copyright &copy; 2021 Rachel Goth
+   {{ replace .Site.Copyright "{year}" now.Year | htmlUnescape }}
 </div>

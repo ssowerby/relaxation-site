@@ -24,6 +24,7 @@ body:before {
    overflow: hidden;
 }
 
+
 /*@media (max-width: 991px) {
    body:before {
       background-image: url("//d1nq4hyj0msl77.cloudfront.net/background_medium.jpg");
@@ -86,7 +87,8 @@ h2 a:hover, h3 a:hover {
    width: 100vw;
    height: 95vh;
    box-sizing: border-box;
-   padding: 7vh 5vw 7vh 5vw;
+   margin: 7vh 0 0 0;
+   padding: 0 5vw 7vh 5vw;
    overflow-y: scroll;
 }
 
@@ -162,9 +164,18 @@ h2 a:hover, h3 a:hover {
    top: 8px;
    z-index: 5;
    cursor: pointer;
-   width: 8em;
-   height: 8em;
+   width: 6em;
+   height: 6em;
    transform: translate(-50%,0);
+   transition-timing-function: ease-in;
+   transition: width 1s, height 1s
+}
+
+body.header-not-at-top #logo {
+    width: 3em;
+    height: 3em;
+    transition-timing-function: ease-out;
+    transition: width 1s, height 1s
 }
 
 @media (min-width: 800px) {

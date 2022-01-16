@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-gb"
 title = "Rachel Goth"
 sectionPagesMenu = "main"
+copyright = "Copyright &copy; 2021-{year} Rachel Goth"
 
 enableRobotsTXT = true
 disableAliases = true
