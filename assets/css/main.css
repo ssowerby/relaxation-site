@@ -389,11 +389,23 @@ ol ol > li:before {
    width: 300px;
    align-content: center;
    vertical-align: top;
-   xbackground-color: blue;
    padding: 1em;
 }
 
-.cta-signup {
-   text-align: center;
-   font-size: x-large;
+.section header h3,h4,h5 {
+   padding: 0.1em;
+   margin: 0;
+   font-family: "Palatino Linotype",Palatino,sans-serif;
+   color: rgb(255,96,96) !important;
 }
+
+a.cta {
+   display: block;
+   font-size: large;
+   color: white;
+   background-color: rgb(96,96,255);
+   padding: 0.5em;
+   margin: 1em;
+   text-align: center;
+}
+
