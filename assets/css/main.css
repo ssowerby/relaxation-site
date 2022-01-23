@@ -20,7 +20,7 @@ body:before {
    z-index: -2;
    display: block;
    background-image: url("//d1nq4hyj0msl77.cloudfront.net/background_new.jpg");
-   background-size: cover;
+   background-size: 100vw 100vh;
    overflow: hidden;
 }
 

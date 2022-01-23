@@ -13,16 +13,17 @@ nav input[type="checkbox"] {
 
 nav label {
    display: block;
-   right: 3em;
-   top: 1em;
-   width: 42px;
-   height: 42px;
+   right: 5vw;
+   top: 1vh;
+   width: 5vh;
+   height: 5vh;
    cursor: pointer;
    position: fixed;
    z-index: 10;
    padding: 0;
 }
 
+/* Menu background */
 nav ul:before {
    content: "";
    position: fixed;
@@ -67,10 +68,6 @@ nav ul li:hover {
    background-color: white;
 }
 
-nav ul li:hover > a {
-   xcolor: #777;
-}
-
 nav > ul > li > a {
    cursor: pointer;
    outline: none;
@@ -79,30 +76,33 @@ nav > ul > li > a {
    text-decoration: none;
 }
 
+/* Burger menu stripes */
 nav [type="checkbox"]:not(:checked) + label:before {
    content: '';
    display: block;
-   width: 32px;
-   height: 3px;
-   background: #262E3D;
-   margin: 10px 5px;
-   box-shadow: 0 10px 0 #262E3D, 0 20px 0 #262E3D
+   width: 4vh;
+   height: 0.5vh;
+   background-color: #262E3D;
+   margin: 0.8vh 0.5vh;
+   box-shadow: 0 1.5vh 0 #262E3D, 0 3vh 0 #262E3D;
 }
 
+/* Close box line * 2 for X */
 nav [type="checkbox"]:checked + label:before, nav [type="checkbox"]:checked + label:after {
    content: '';
    position: absolute;
    width: 100%;
    top: 50%;
    left: 0;
-   height: 8px;
-   margin-top: -4px;
-   background: white;
+   height: 0.5vh;
+   margin-top: -0.25vh;
+   background-color: rgb(200,200,200);
 }
 
+/* Burger background */
 nav [type="checkbox"]:not(:checked) + label {
     background-color: rgba(255, 255, 255, 0.7);
-    border-radius: 0.3em;
+    border-radius: 0.5vh;
 }
 
 nav [type="checkbox"]:checked + label:before {
@@ -111,6 +111,9 @@ nav [type="checkbox"]:checked + label:before {
 
 nav [type="checkbox"]:checked + label:after {
    transform: rotate(-45deg);
+}
+
+nav [type="checkbox"]:checked + label {
 }
 
 nav [type="checkbox"]:checked ~ ul {
