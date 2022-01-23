@@ -21,10 +21,9 @@
 
 {{ $problems := .Site.GetPage "/problem" }}
 {{ $matching := $problems.Resources.Match "*" }}
-<div id="sections">
-
+<div id="problems">
    {{ range sort $matching ".Params.order" }}
-   <div class="section">
+   <div>
       {{ .Content }}
    </div>
    {{ end }}

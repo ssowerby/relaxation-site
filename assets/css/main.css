@@ -48,7 +48,7 @@ h1,h2,h3,h4,h5,h6 {
    margin: 0;
    padding: 0;
    padding-bottom: 0.5vh;
-   font-weight: normal !important;
+   font-weight: normal;
 }
 
 h1, h1 a {
@@ -184,6 +184,7 @@ body.header-not-at-top #logo {
       padding-bottom: 0;
       border-bottom: 1px solid gray;
       border-radius: 0.5em;
+      margin-bottom: 2em;
    }
 
    .aboutbar .header h1 {
@@ -393,7 +394,7 @@ ol ol > li:before {
    margin: 0;
    font-family: "Palatino Linotype",Palatino,sans-serif;
    color: rgb(229,79,120) !important;
-    font-weight: bold !important;
+   font-weight: bolder !important;
 }
 
 a.cta {
@@ -402,7 +403,30 @@ a.cta {
    color: white;
    background-color: rgb(79,129,219);
    padding: 0.5em;
-   margin: 1em;
+   margin: 0.5em;
+   width: 75%;
    text-align: center;
 }
 
+#problems {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20em, 1fr) [row-end]);
+    grid-gap: 0 0;
+}
+
+#problems > div {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em;
+}
+
+#problems > div > ul {
+    flex-grow: 1;
+    padding: 0.25em;
+    margin: 0;
+}
+
+#problems .cta {
+    align-self: end;
+}
