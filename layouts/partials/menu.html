@@ -2,17 +2,12 @@
    <nav role="navigation">
       <input type="checkbox" id="nav" /><label for="nav"></label>
       <ul>
+         <li><a href="/how_i_help/">How I Help</a></li>
+         <li><a href="/how_it_works/">How It Works</a></li>
          <li><a href="/aboutme/">About Me</a></li>
-         <li><a href="/services/">Services</a></li>
-         {{ $testimonials := len (where .Site.RegularPages "Section" "==" "testimonials") }}
-         {{ with $testimonials }}
          <li><a href="/testimonials/">Testimonials</a></li>
-         {{ end }}
          <li><a href="/faqs/">Faqs</a></li>
-         {{ $blogs := len (where .Site.RegularPages "Section" "==" "blog") }}
-         {{ with $blogs }}
          <li><a href="/blog/">Blog</a></li>
-         {{ end }}
     </ul>
    </nav>
 </header>

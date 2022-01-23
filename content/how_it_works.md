@@ -1,9 +1,9 @@
 ---
-title: Services
+title: How It Works
 ---
 If you’re someone who uses their imagination in their work (crafter, artist, designer, writer), in fact your creativity and ideas are the life blood of what you do, but your passion is waning, then you’re in the right place because:
 
-* [I’m a creative](https://www.rachelgoth.com/aboutme/) type too so I know what it’s like when you get in a funk and the money maker between your ears just isn’t doing its thing.  
+* [I’m a creative](/aboutme/) type too so I know what it’s like when you get in a funk and the money maker between your ears just isn’t doing its thing.  
 * I know what it’s like dealing with all the other crap that goes on outside of your creative zone. Wouldn’t it be nice sometimes to not have to deal with people or the world and just do your thing (sigh)?
 * I also know that’s never going to happen so I offer:
 

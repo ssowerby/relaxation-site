@@ -1,8 +1,7 @@
 <div class="aboutbar">
 
    <div class="header">
-<!--      <h1>Because everyone deserves to feel free to be their weird, wacky, wonderfully creative selves.</h1> -->
-      <h2>Say goodbye to creative burnout & reignite your creative spark so you can get back to enjoying what you do best.</h2>
+      <h1>Mindset mastery for artists and makers</h1>
    </div>
 
    <div class="photobox">
@@ -13,15 +12,21 @@
 
 <div class="text">
 
-   <p>Remember the passion you had for your work? That beautiful feeling of being in flow, ideas flowing? Want to feel that way again? You’re in the right place.
+   <p>
+      If you can answer yes to any of these you’re in the right place.
 
-   <p>This was supposed to be your dream. This is what you wanted to do with you life but now it’s sucking the joy out of it. I can help you sort out the muddle going on between your ears. To find your calm even with the pressure of deadlines and demanding clients. To feel that childlike joy of creating again and get back to doing what you do best.
-
-   <p>If you’d like my help to reignite your creative spark and keep it burning <a href="mailto:rachel@rachelgoth.com">message me</a> and let’s have a chat.
-
-
-   <p><a href="/aboutme/">So who am I anyway and what do I know about it?</a>
-
-   <p><a href="/services/">How does it work?</a>
+   </p>
 
 </div>
+
+{{ $problems := .Site.GetPage "/problem" }}
+{{ $matching := $problems.Resources.Match "*" }}
+<div id="sections">
+
+   {{ range sort $matching ".Params.order" }}
+   <div class="section">
+      {{ .Content }}
+   </div>
+   {{ end }}
+</div>
+

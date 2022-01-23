@@ -23,6 +23,23 @@ nav label {
    padding: 0;
 }
 
+nav ul:before {
+   content: "";
+   position: fixed;
+   left: 0;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   z-index: -2;
+   display: block;
+   width: auto;
+   background-image: url("//d1nq4hyj0msl77.cloudfront.net/background_new.jpg");
+   background-size: cover;
+   transform: scaleX(-1);
+   filter: contrast(10%) brightness(180%);
+   overflow: hidden;
+}
+
 nav ul {
    position: absolute;
    top: 0;
@@ -31,10 +48,10 @@ nav ul {
    height: 100vh;
    margin: 0;
    padding: 1em 0;
-   background-color: #262E3D;
    transition: transform 1s;
    font-size: 7vh;
    visibility: hidden;
+   overflow: hidden;
 }
 
 nav ul li {
@@ -47,11 +64,11 @@ nav ul li {
 
 nav ul li:hover {
    cursor: pointer;
-   background-color: #262E4F;
+   background-color: white;
 }
 
 nav ul li:hover > a {
-   color: #777;
+   xcolor: #777;
 }
 
 nav > ul > li > a {

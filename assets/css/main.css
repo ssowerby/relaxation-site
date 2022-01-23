@@ -35,39 +35,36 @@ a {
     text-decoration: none;
 }
 
-a:link {
-    color: #ed8c21;
+a:link, a:visited {
+    color: rgb(231,96,66);
 }
 
 a:hover {
-    color: #cf832f !important;
+    color: rgb(231,53,118) !important;
 }
 
-a:visited {
-    color: #ed8c21;
-}
-
-h1,h2,h3,h4 {
+h1,h2,h3,h4,h5,h6 {
    font-family: "Sarala", sans-serif;
    margin: 0;
    padding: 0;
    padding-bottom: 0.5vh;
+   font-weight: normal !important;
 }
 
 h1, h1 a {
-   color: #27506a !important;
+    color: rgb(231,53,118) !important;
 }
 
 h1 a:hover {
-    color: #173a51 !important;
+    color: rgb(231,96,66) !important;
 }
 
 h2, h3, h2 a, h3 a {
-   color: #13859a !important;
+    color: rgb(229,79,120) !important;
 }
 
 h2 a:hover, h3 a:hover {
-    color: #156e7e !important;
+    color: rgb(231,96,66) !important;
 }
 
 .sectionlink {
@@ -166,6 +163,8 @@ h2 a:hover, h3 a:hover {
    cursor: pointer;
    width: 6em;
    height: 6em;
+   max-height: 15vw;
+   max-width: 15vw;
    transform: translate(-50%,0);
    transition-timing-function: ease-in;
    transition: width 1s, height 1s
@@ -174,6 +173,8 @@ h2 a:hover, h3 a:hover {
 body.header-not-at-top #logo {
     width: 3em;
     height: 3em;
+    max-height: 10vw;
+    max-width: 10vw;
     transition-timing-function: ease-out;
     transition: width 1s, height 1s
 }
@@ -376,7 +377,6 @@ ol ol > li:before {
 
 #sections {
    width: 100%;
-   xbackground-color: red;
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
@@ -397,6 +397,7 @@ ol ol > li:before {
    margin: 0;
    font-family: "Palatino Linotype",Palatino,sans-serif;
    color: rgb(229,79,120) !important;
+    font-weight: bold !important;
 }
 
 a.cta {
