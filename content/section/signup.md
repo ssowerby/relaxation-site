@@ -5,7 +5,7 @@ order: 1
 ---
 <header>
 <h4>Want to</h4>
-<h3>be more creative</h3>
+<h3>&nbsp;be more creative?</h3>
 </header>
 
 Get my FREE How to Become More Creative MP3
