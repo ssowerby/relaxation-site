@@ -161,20 +161,16 @@ h2 a:hover, h3 a:hover {
    top: 8px;
    z-index: 5;
    cursor: pointer;
-   width: 6em;
-   height: 6em;
-   max-height: 15vw;
-   max-width: 15vw;
+   width: 10vh;
+   height: 10vh;
    transform: translate(-50%,0);
    transition-timing-function: ease-in;
    transition: width 1s, height 1s
 }
 
 body.header-not-at-top #logo {
-    width: 3em;
-    height: 3em;
-    max-height: 10vw;
-    max-width: 10vw;
+    width: 6vh;
+    height: 6vh;
     transition-timing-function: ease-out;
     transition: width 1s, height 1s
 }
