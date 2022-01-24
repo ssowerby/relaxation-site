@@ -17,15 +17,13 @@ Remember you started this because you fell in love with what you do and I can he
 
 ## How it works
 
-I work with you one to one to discover what’s holding you back and give you the tools to take back control. This could mean using hypnosis, EFT, mindfulness or other psychological techniques, whichever ones are right for you.
+I work with you one to one to discover what’s holding you back and give you the tools to take back control. This could mean using visualisation, mindfulness or other psychological techniques, whichever ones are right for you.
 
 To start with we have a free discovery call over Zoom to go through what you’d like help with and check we’re a good fit to work together. This can be insightful in its self.
 
 Then if we choose to work together I offer a package of four sessions held online over Zoom. You can pay for a one off session instead but it’s more expensive as I like to encourage you to come for at least four sessions to feel the benefit. After that you may feel you have what you need which is great. If you’d like more support following on then you can purchase single sessions at a discounted rate.
 
 [More on how it works](/how_it_works/)
-
-
 
 ## Prices
 
@@ -34,7 +32,6 @@ Four session package £340
 Single session £120
 
 Single sessions after a package purchase £85
-
 
 ## Who am I?
 
