@@ -1,5 +1,5 @@
 ---
-title: How to Ask to Get Useful Feedback
+title: How to Ask For and Get Useful Feedback
 subtitle: Sisters, Ice Cream and How to Ask for the Feedback You Want
 publishDate: 2022-01-28 12:32:07
 summary: >-
