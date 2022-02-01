@@ -3,18 +3,13 @@ title: How to Ask For and Get Useful Feedback
 subtitle: Sisters, Ice Cream and How to Ask for the Feedback You Want
 publishDate: 2022-01-28 12:32:07
 summary: >-
-  “Less sisters, more ice cream” he said. I was writing a play and the course
-  tutor was giving me feedback. My play did indeed involve both sisters and ice
-  cream. The problem was it was a two character play. Less sisters would mean
-  the ice cream would have to become sentient or the audience would have to be
-  happy with watching melting confectionary for an hour. Maybe as performance
-  art it would work but not as a play.
+  “Where’s the green” she frowned. This was someone I’d just met who asked to
+  see one of my paintings. I hadn’t actually asked for any feedback and was a
+  little taken aback. The colours were ones I liked. When I'd picked them I
+  hadn't planned on justifying my choices to anyone else. 
 
 
-  I wanted to write a play about sisters. My tutor wanted me to write a play featuring dessert. And that’s okay.
-
-
-  Many times when we ask for feedback what we receive can feel disheartening, baffling or irrelevant. It’s not the fault of the person giving it to you, they’re telling you what they think. I learned it’s on me to get the feedback that’s going to be useful for me. This is how I approach it..
+  Many times even when we ask for feedback what we receive can feel disheartening, baffling or irrelevant. It’s not the fault of the person giving it to you, they’re telling you what they think. It’s on us to get the feedback that’s going to be useful for us and leave the rest. This is how I approach it..
 ---
 ### How to get useful feedback
 
