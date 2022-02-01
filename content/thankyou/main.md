@@ -14,6 +14,8 @@ Go to your email inbox and look for an email from me with the subject line
 
 Open the email, download the MP3 and go and become more creative right now.
 
+(Remember to **check your SPAM** folder if you don't see it) 
+
 Look forward to talking with you again soon.
 
 </div>
