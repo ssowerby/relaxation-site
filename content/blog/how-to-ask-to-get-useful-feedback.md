@@ -13,9 +13,11 @@ summary: >-
 
   Often feedback can feel disheartening, baffling or irrelevant whether you’ve asked for it or not. It’s not the fault of the person giving it to you, they’re telling you what they think. It’s on us to get from feedback what’s going to be useful for us and leave the rest. This is how I approach it now..
 ---
-### How to get useful feedback
+
 
 ![Abstract painting with no green](/uploads/img_20220203_111256.jpg "Where's the green?")
+
+### How to get useful feedback
 
 * Be specific about what you want to know. Give them a list of questions to keep them focussed (you know how minds can wander, you’re a creative).
 * Be polite when you get more than what you asked for. This person has gone out of their way to help you.
