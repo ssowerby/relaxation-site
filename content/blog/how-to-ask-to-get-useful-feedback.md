@@ -8,7 +8,7 @@ summary: >-
   I'd picked them I hadn't planned on justifying my choices to anyone else.
 
 
-  “More ice cream, less sisters” was the feedback from my tutor. It was a two hander play about sisters so I didn’t get it. Wouldn’t less sisters mean more stage time for melting confectionary? Sounded more like performance art than a play to me.
+  “More ice cream, less sisters” was the feedback from my tutor. It was a two hander play about sisters. I didn’t get it. Wouldn’t less sisters mean more stage time for melting confectionary? Sounded more like performance art than a play to me.
 
 
   Often feedback can feel disheartening, baffling or irrelevant whether you’ve asked for it or not. It’s not the fault of the person giving it to you, they’re telling you what they think. It’s on us to get from feedback what’s going to be useful for us and leave the rest. This is how I approach it now..
