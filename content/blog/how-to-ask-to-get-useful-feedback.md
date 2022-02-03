@@ -1,24 +1,28 @@
 ---
 title: How to Ask For and Get Useful Feedback
-subtitle: Sisters, Ice Cream and How to Ask for the Feedback You Want
+subtitle: How to deal with critique without denting your confidence
 publishDate: 2022-01-28 12:32:07
 summary: >-
-  “Where’s the green” she frowned. This was someone I’d just met who asked to
-  see one of my paintings. I hadn’t actually asked for any feedback and was a
-  little taken aback. The colours were ones I liked. When I'd picked them I
-  hadn't planned on justifying my choices to anyone else. 
+  “Where’s the green” she frowned at my painting. I hadn’t actually asked for
+  her opinion and was a little taken aback. The colours were ones I liked. When
+  I'd picked them I hadn't planned on justifying my choices to anyone else.
 
 
-  Many times even when we ask for feedback what we receive can feel disheartening, baffling or irrelevant. It’s not the fault of the person giving it to you, they’re telling you what they think. It’s on us to get the feedback that’s going to be useful for us and leave the rest. This is how I approach it..
+  “More ice cream, less sisters” was the feedback from my tutor. It was a two hander play about sisters so I didn’t get it. Wouldn’t less sisters mean more stage time for melting confectionary? Sounded more like performance art than a play to me.
+
+
+  Often feedback can feel disheartening, baffling or irrelevant whether you’ve asked for it or not. It’s not the fault of the person giving it to you, they’re telling you what they think. It’s on us to get from feedback what’s going to be useful for us and leave the rest. This is how I approach it now..
 ---
 ### How to get useful feedback
 
 * Be specific about what you want to know. Give them a list of questions to keep them focussed (you know how minds can wander, you’re a creative).
-* Be polite when you get more than what you asked for but don’t feel obliged to take it all onboard.
-* Only ask for feedback from people who’s opinion you value. Otherwise it’s irrelevant.
+* Be polite when you get more than what you asked for. This person has gone out of their way to help you.
+* Don’t feel obliged to take it all onboard. Cherry pick what’s useful to you.
+* Only ask for feedback from people who’s opinion you value. Otherwise it may be irrelevant.
 * Ask for opinions from more than one person so you have a range of points of view to consider. Notice if there are any common themes coming through.
-* Don’t dismiss anything out of hand. Chew on it for a bit, there might be hidden gems in there.
-* Remember at the end of the day it’s your project and yours is the name that’s on it.
+* Don’t dismiss anything out of hand. Chew on it for a bit, there might be hidden gems in there. 
+* Ask for clarity if you don’t understand what they’re saying. (“What do you mean less sisters?” Why didn’t I ask more questions at the time?)
+* Remember at the end of the day it’s your project and you can do what you like with it.
 
 ### Getting feedback from fellow creatives
 
