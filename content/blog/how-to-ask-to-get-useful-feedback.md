@@ -15,6 +15,8 @@ summary: >-
 ---
 ### How to get useful feedback
 
+![Abstract painting with no green](/uploads/img_20220203_111256.jpg "Where's the green?")
+
 * Be specific about what you want to know. Give them a list of questions to keep them focussed (you know how minds can wander, you’re a creative).
 * Be polite when you get more than what you asked for. This person has gone out of their way to help you.
 * Don’t feel obliged to take it all onboard. Cherry pick what’s useful to you.
