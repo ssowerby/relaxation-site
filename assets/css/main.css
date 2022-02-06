@@ -295,6 +295,12 @@ article:last-of-type {
    background: #eee;
 }
 
+.testimonial iframe {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
 .blockquote .quoteblock {
    font-size: 300%;
    padding: 0;
