@@ -1,6 +1,6 @@
 {{ $sections := .Site.GetPage "/section" }}
 {{ $matching := $sections.Resources.Match "*" }}
-<div id="sections">
+<div class="sections">
 
 {{ range sort $matching ".Params.order" }}
 <div class="section">

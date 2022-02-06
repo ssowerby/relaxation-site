@@ -45,7 +45,7 @@ a:hover {
 
 h1,h2,h3,h4,h5,h6 {
    font-family: "Sarala", sans-serif;
-   margin: 0;
+    margin: 0;
    padding: 0;
    padding-bottom: 0.5vh;
    font-weight: normal;
@@ -145,9 +145,19 @@ h2 a:hover, h3 a:hover {
 }
 
 .blog .content img {
-   max-width: 100%;
-   height: auto;
-   max-height: 65vh;
+    max-width: 100%;
+    height: auto;
+    max-height: 65vh;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+.blog .blog-article h1, .blog .blog-article h2 {
+    width: fit-content;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0%);
 }
 
 .blog-summary-text {
@@ -370,25 +380,6 @@ ol ol > li:before {
    padding-right: 1em;
 }
 
-
-
-#sections {
-   width: 100%;
-   display: flex;
-   flex-direction: row;
-   flex-wrap: wrap;
-   justify-content: space-around;
-   align-items: stretch;
-}
-
-#sections .section {
-   display: inline-block;
-   width: 300px;
-   align-content: center;
-   vertical-align: top;
-   padding: 1em;
-}
-
 .section header h3,h4,h5 {
    padding: 0;
    margin: 0.5em;
@@ -414,26 +405,35 @@ a.cta:hover {
     color: lightblue !important;
 }
 
-#problems {
+.sections {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(20em, 1fr) [row-end]);
     grid-gap: 0.5em;
+    grid-auto-flow: row dense;
     width: 100%;
 }
 
-#problems > div {
+.sections.rtl {
+    direction: rtl
+}
+
+.sections.rtl > .section {
+    direction: ltr;
+}
+
+.sections > .section {
     display: flex;
     flex-direction: column;
     margin: 0.5em;
     padding: 0;
 }
 
-#problems > div > ul {
+.sections > .section > ul {
     flex-grow: 1;
     padding: 0.25em;
     margin: 0;
 }
 
-#problems .cta {
+.sections .cta {
     align-self: end;
 }

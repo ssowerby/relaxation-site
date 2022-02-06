@@ -2,7 +2,7 @@
 
 {{ $thisBlog := .UniqueID }}
 
-<div class="content">
+<div class="content blog-article">
 
    <h1>{{ .Title }}</h1>
 
@@ -17,18 +17,30 @@
 </div>
 
 
-<div class="content others">
+<div class="content sections rtl">
 
-   <h3>Other Recent Posts</h3>
+   {{ $sections := .Site.GetPage "/section" }}
+   {{ $matching := $sections.Resources.Match "signup*" }}
 
-   <ul>
-   {{ range first 5 (where (where .Site.RegularPages "Section" "==" "blog") "UniqueID" "ne" $thisBlog).ByDate.Reverse }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a> {{ dateFormat "2 January 2006" .PublishDate }}</li>
-   {{end}}
-   </ul>
+   {{ range $matching }}
+      <div class="section">
+         {{ .Content }}
+      </div>
+   {{ end }}
 
-   <div class="read-more">
-      <a href="/blog/">All Blogs</a>
+   <div class="section">
+      <h3>Other Recent Posts</h3>
+
+      <ul>
+         {{ range first 5 (where (where .Site.RegularPages "Section" "==" "blog") "UniqueID" "ne" $thisBlog).ByDate.Reverse }}
+         <li><a href="{{ .Permalink }}">{{ .Title }}</a> {{ dateFormat "2 January 2006" .PublishDate }}</li>
+         {{end}}
+      </ul>
+
+      <div class="read-more">
+         <a href="/blog/">All Blogs</a>
+      </div>
+
    </div>
 
 </div>
