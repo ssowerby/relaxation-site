@@ -407,7 +407,7 @@ a.cta:hover {
 
 .sections {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(20em, 1fr) [row-end]);
+    grid-template-columns: repeat(auto-fit, minmax(20em, 1fr) [row-end]);
     grid-gap: 0.5em;
     grid-auto-flow: row dense;
     width: 100%;
