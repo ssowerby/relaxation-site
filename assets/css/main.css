@@ -301,6 +301,13 @@ article:last-of-type {
     transform: translate(-50%, 0%);
 }
 
+.video-container {
+   position: relative;
+   padding-bottom: 56.25%;
+   height: 0;
+   overflow: hidden;
+}
+
 .blockquote .quoteblock {
    font-size: 300%;
    padding: 0;
