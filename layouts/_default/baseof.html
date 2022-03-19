@@ -16,7 +16,7 @@
 
    {{ $js := resources.Get "js/main.js" }}
 
-    <link rel="stylesheet" href="/css/bundle.min.css">
+    <link rel="stylesheet" href="{{ $cssBundle.RelPermalink }}">
     <link rel="canonical" href="{{ .Permalink | absURL }}">
 
    {{ if .Description }}
