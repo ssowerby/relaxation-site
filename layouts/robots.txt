@@ -2,5 +2,9 @@ User-agent: *
 {{- if .Site.Params.disallow_search_engines }}
 Disallow: /
 {{ else }}
-Disallow: {{ if ne (getenv "HUGO_ENV") "production" }}/{{ end }}
+{{ if ne (getenv "HUGO_ENV") "production" }}
+Disallow: /
+{{ else }}
+Allow: /
+{{ end }}
 {{ end }}
