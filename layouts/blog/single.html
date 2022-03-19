@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $thisBlog := .UniqueID }}
+{{ $thisBlog := .File.UniqueID }}
 
 <div class="content blog-article">
 
@@ -32,7 +32,7 @@
       <h3>Other Recent Posts</h3>
 
       <ul>
-         {{ range first 5 (where (where .Site.RegularPages "Section" "==" "blog") "UniqueID" "ne" $thisBlog).ByDate.Reverse }}
+         {{ range first 5 (where (where .Site.RegularPages "Section" "==" "blog") ".File.UniqueID" "ne" $thisBlog).ByDate.Reverse }}
          <li><a href="{{ .Permalink }}">{{ .Title }}</a> {{ dateFormat "2 January 2006" .PublishDate }}</li>
          {{end}}
       </ul>
