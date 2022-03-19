@@ -295,10 +295,12 @@ article:last-of-type {
    background: #eee;
 }
 
-.testimonial iframe {
-    position: relative;
-    left: 50%;
-    transform: translate(-50%, 0%);
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .video-container {
@@ -306,6 +308,8 @@ article:last-of-type {
    padding-bottom: 56.25%;
    height: 0;
    overflow: hidden;
+   left: 50%;
+   transform: translate(-50%, 0%);
 }
 
 .blockquote .quoteblock {
