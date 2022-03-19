@@ -26,7 +26,7 @@ When you think about it how often is what’s stressing you out actually happeni
 Here's one way you can bring yourself into the moment.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/inF_RytmaYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/inF_RytmaYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Physical relaxation
@@ -38,7 +38,7 @@ When we're stressed or anxious we often tense our bodies. Our bodies can even go
 Here's an example of a physical relaxation technique
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tP1qLC07tGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tP1qLC07tGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### **Using your imagination to relax**
@@ -52,7 +52,7 @@ By **using our imaginations positively** we can change how we feel about things 
 Here's an example of a relaxation technique which uses your imagination.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N6IcKuUoYvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N6IcKuUoYvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-All three categories of relaxation overlap but these are the basic groupings. You might find one type of relaxation more appealing than the others. It’s good to try out all three and find what works for you. You could start by checking out the above videos from [my YouTube Channel](https://www.youtube.com/channel/UCJcTNav3REGTI1UYEOQkhGQ/). Please remember to subscribe to my channel if you'd like to be informed when new content goes live.
+All three categories of relaxation overlap but these are the basic groupings. You might find one type of relaxation more appealing than the others. It’s good to try out all three and find what works for you. You could start by checking out the above videos from [my YouTube Channel](https://www.youtube-nocookie.com/channel/UCJcTNav3REGTI1UYEOQkhGQ/). Please remember to subscribe to my channel if you'd like to be informed when new content goes live.

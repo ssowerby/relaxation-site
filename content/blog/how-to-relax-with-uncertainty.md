@@ -37,4 +37,4 @@ Imagine somewhere it would be very relaxing and safe to be. It could be your own
 
 Spend some time exploring there until you feel very relaxed. Then, while still relaxing in your special place, get a bit of a sense of that uncertain feeling or thought in the distance. Perhaps there’s a doomsday picture that goes with it. You could imagine seeing it on a TV screen far away. Notice how different it feels when you’re comfortable and relaxed in your special place and it’s all the way over there. You can let the screen go blank and relax even more deeply in your special place.
 
-If you’re still having trouble coping with the uncertainty I offer one to one online appointments. Alternatively you can check out more techniques on my **[YouTube channel](https://www.youtube.com/channel/UCJcTNav3REGTI1UYEOQkhGQ/)*.***
+If you’re still having trouble coping with the uncertainty I offer one to one online appointments. Alternatively you can check out more techniques on my **[YouTube channel](https://www.youtube-nocookie.com/channel/UCJcTNav3REGTI1UYEOQkhGQ/)*.***

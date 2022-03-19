@@ -59,4 +59,4 @@ You’re also more likely to be looking outward rather than thinking about what 
 
 **The beauty of relaxing is it’s easy to do, free and enjoyable too**. And if you’re stuck at home right now like a lot of the nation you might find you have more time to try out new ways to relax.
 
-For tips and techniques on how to relax check out my [YouTube channel](https://www.youtube.com/channel/UCJcTNav3REGTI1UYEOQkhGQ?view_as=subscriber)
+For tips and techniques on how to relax check out my [YouTube channel](https://www.youtube-nocookie.com/channel/UCJcTNav3REGTI1UYEOQkhGQ?view_as=subscriber)

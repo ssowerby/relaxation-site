@@ -27,7 +27,7 @@ When you notice your mind wandering bring it back to what you’re doing and con
 ### 2. 7-11 breathing while the kettle boils <a name="711breathing"></a> 
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zw1ttK2HPgw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zw1ttK2HPgw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 It’s called 7-11 because you breathe in for 7 and out for 11. The numbers aren’t strict, you could breathe in for 4 and out for 7, whichever numbers are comfortable for you. 
