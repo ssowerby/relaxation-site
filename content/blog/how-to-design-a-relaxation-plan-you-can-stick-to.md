@@ -39,7 +39,9 @@ I’m guessing you get showered most days right? How about incorporating a bit o
 
 You have to go to work right? How about incorporating relaxing into your commute? Get off the tube a stop earlier and walk the last part or listen to a podcast while you’re on the train.
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zw1ttK2HPgw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 #### On the loo
 

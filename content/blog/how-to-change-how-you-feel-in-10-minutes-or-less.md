@@ -17,7 +17,9 @@ Other times it can be a feeling which hits you out of nowhere. Just as soon as t
 
 You can either follow along with the video or read through the explanation below.
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jX9yR0Oaoxo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 You might like to read through this first then do it yourself with your eyes closed.
 
