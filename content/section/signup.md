@@ -1,7 +1,7 @@
 ---
 filename: signup
+order: 2
 visible: true
-order: 1
 ---
 <header>
 <h4>Want to</h4>
