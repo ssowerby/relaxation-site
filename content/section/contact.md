@@ -1,6 +1,6 @@
 ---
 filename: contact
-order: 3
+order: 1
 visible: true
 ---
 <div>
