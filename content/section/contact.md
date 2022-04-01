@@ -1,7 +1,7 @@
 ---
 filename: contact
+order: 3
 visible: true
-order: 2
 ---
 <div>
 To make a booking or arrange a chat:
