@@ -461,3 +461,15 @@ a.cta:hover {
 .sections .cta {
     align-self: end;
 }
+
+.social {
+    position: absolute;
+    top: 1em;
+    right: 2em;
+}
+
+.social-icon {
+    width: 2em;
+    height: 2em;
+    padding: 0.25em;
+}
