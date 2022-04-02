@@ -1,15 +1,66 @@
 {{ define "main" }}
 
+{{ $homeDir := .Site.GetPage "/home" }}
+{{ $matching := $homeDir.Resources.Match "*" }}
+
 <div class="content">
-  {{ partial "home/about" . }}
+
+    <div class="aboutbar">
+
+        <div class="header">
+            <h1>Mindset mastery for artists and makers</h1>
+        </div>
+
+        <div class="photobox">
+            <img class="photo" src="//d1nq4hyj0msl77.cloudfront.net/rachel.png"/>
+        </div>
+
+    </div>
+
+    <div class="text">
+
+        {{ range where $matching "Params.filename" "intro" }}
+            {{ .Content }}
+        {{ end }}
+
+    </div>
+
 </div>
 
+{{ range sort (where $matching "Params.filename" "!=" "intro") "Params.order" }}
+<div class="content" style="{{ .Params.style }}">
+    {{ .Content }}
+</div>
+{{ end }}
+
  <div class="content">
-    {{ partial "home/sections" . }}
+     {{ $sections := .Site.GetPage "/section" }}
+     {{ $matching := $sections.Resources.Match "*" }}
+     <div class="sections">
+
+         {{ range sort $matching ".Params.order" }}
+         <div class="section">
+             {{ .Content }}
+         </div>
+         {{ end }}
+     </div>
  </div>
 
  <div class="content">
-     {{ partial "home/blog" . }}
+     <h2><a href="/blog/">Latest Blog</a></h2>
+
+     {{ $lastBlog := index (where .Site.RegularPages "Section" "==" "blog").ByDate.Reverse 0 }}
+
+     {{ with $lastBlog }}
+     {{ dateFormat "2 January 2006" .PublishDate }}
+     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+     <div class="blog-summary-text">{{ .Summary }}</div>
+     <div class="read-more">
+         <a href="{{ .Permalink }}">Continue Reading</a>
+         <a href="/blog/">All Blogs</a>
+     </div>
+     {{end}}
+
  </div>
 
 {{ end }}

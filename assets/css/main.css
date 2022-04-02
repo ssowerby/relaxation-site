@@ -24,13 +24,6 @@ body:before {
    overflow: hidden;
 }
 
-
-/*@media (max-width: 991px) {
-   body:before {
-      background-image: url("//d1nq4hyj0msl77.cloudfront.net/background_medium.jpg");
-   }
-}*/
-
 a {
     text-decoration: none;
 }
@@ -91,7 +84,7 @@ h2 a:hover, h3 a:hover {
 
 .content {
    margin: 0 auto;
-   max-width: 72em;
+   max-width: 60em;
    box-sizing: border-box;
    background-color: rgba(255, 255, 255, 0.90);
    border-radius: 0.5em;
@@ -462,11 +455,24 @@ a.cta:hover {
     align-self: end;
 }
 
-.social {
-    position: absolute;
-    top: 1em;
-    right: 2em;
+@media (min-width: 50em) {
+    .social {
+        position: absolute;
+        top: 1em;
+        right: 2em;
+    }
 }
+
+@media (max-width: 50em) {
+    .social {
+        padding-top: 1em;
+        position: relative;
+        left: 50%;
+        width: fit-content;
+        transform: translate(-50%, 0%);
+    }
+}
+
 
 .social-icon {
     width: 2em;
