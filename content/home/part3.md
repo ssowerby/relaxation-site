@@ -1,10 +1,11 @@
 ---
 filename: part3
 order: 3
+visible: true
+style: regular
 ---
 
-You’ve already got the business skills. What I do is help you recognise what’s holding you back inside yourself and give you the support and techniques to deal with it so it doesn’t get in your way. Then you’re free to implement everything you’ve already learned and put all those courses to good use.
+This is the work you were born to do and you know that because you’ve tried the other stuff and you’re an artist down to your bones. This is the one thing that feels true to you. To deny it would be like losing a body part, but you also need it to work. You don’t want a hobby, you want a business you can be proud of.
 
-I know what it’s like to have your own mind and emotions getting in your way and I don’t want you to spend the years I did figuring it out.  If you’re ready to start moving towards your business goals more consistently, book in for a free Discovery Call and let’s see if we’re a good fit for each other.
+After my dad died I found out what a talented artist he’d been. He’d given it all up before I was even born because he never believed he could make a career out of his skills. And I remember all the jobs he had  instead. Job he hated and which chipped away at his spark day after day. I don’t want that for you and that’s why I do this..
 
-<a class="cta" href="/booking">Book your free Discovery Session</a>

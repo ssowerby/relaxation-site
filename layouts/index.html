@@ -28,7 +28,7 @@
 </div>
 
 {{ range sort (where $matching "Params.filename" "!=" "intro") "Params.order" }}
-<div class="content" style="{{ .Params.style }}">
+<div class="content {{ .Params.style }}">
     {{ .Content }}
 </div>
 {{ end }}

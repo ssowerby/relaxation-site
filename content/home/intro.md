@@ -1,5 +1,7 @@
 ---
 filename: intro
+visible: true
+style: regular
 ---
 
 Hi I’m Rachel, a mindset coach for artists and makers who want to turn their hobby into a business.
