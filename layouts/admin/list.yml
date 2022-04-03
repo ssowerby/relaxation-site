@@ -61,6 +61,19 @@ collections:
       - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted"], required: true }
       - { label: "Body", name: "body", widget: "markdown", required: true }
 
+  - name: "workwithme"
+    label: "Work With Me"
+    folder: "content/workwithme"
+    identifier_field: "filename"
+    summary: "{{ string "{{slug}}" }}"
+    slug: "{{ string "{{filename}}" }}"
+    create: true
+    fields:
+      - { label: "Name", name: "filename", widget: "string", required: true }
+      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100, required: true }
+      - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted"], required: true }
+      - { label: "Body", name: "body", widget: "markdown", required: true }
+
   - name: "pay"
     label: "Payment"
     folder: "content/pay"
