@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+{{ range (sort .Data.Pages "Params.order") }}
+<div class="content {{ .Params.style }}">
+   {{ .Content }}
+</div>
+{{ end }}
+
+{{end}}
+
