@@ -1,7 +1,7 @@
 ---
 filename: part5
 order: 5
-style: regular
+style: inverted
 ---
 ## So how does it work?
 
