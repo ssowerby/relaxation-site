@@ -1,7 +1,7 @@
 ---
 filename: part2
 order: 2
-style: regular
+style: inverted
 ---
 ## I know the feeling. Wouldn’t it be better if -
 
