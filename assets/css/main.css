@@ -31,7 +31,6 @@ a, a:link, a:visited {
 
 a:hover {
     filter: brightness(70%);
-    color: rgb(231,53,118);
 }
 
 h1,h2,h3,h4,h5,h6 {
