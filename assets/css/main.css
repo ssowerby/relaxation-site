@@ -36,7 +36,7 @@ a:hover {
 
 h1,h2,h3,h4,h5,h6 {
    font-family: "Sarala", sans-serif;
-    margin: 0;
+   margin: 0;
    padding: 0;
    padding-bottom: 0.5vh;
    font-weight: normal;
@@ -55,7 +55,15 @@ h1,h2,h3,h4 {
     text-align: center;
 }
 
+h1 a, h2 a, h3 a, h4 a {
+    color: inherit;
+}
+
 .section h1, .section h2, .section h3, .section h4 {
+    text-align: left;
+}
+
+li h1, li h2, li h3, li h4 {
     text-align: left;
 }
 
@@ -131,7 +139,7 @@ h2, h3 {
 }
 
 a.read-more {
-   display: block;
+   display: inline-block;
    padding-top: 0.75em;
    margin-right: 3ch;
    text-decoration: underline;
