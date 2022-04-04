@@ -74,6 +74,7 @@ nav > ul > li > a {
    display: inline-block;
    width: 100%;
    text-decoration: none;
+   color: rgb(231,96,66) !important;
 }
 
 /* Burger menu stripes */
