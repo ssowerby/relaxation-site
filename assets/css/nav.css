@@ -74,6 +74,7 @@ nav > ul > li > a {
    display: inline-block;
    width: 100%;
    text-decoration: none;
+   color: rgb(231,96,66) !important;
 }
 
 /* Burger menu stripes */
@@ -117,7 +118,7 @@ nav [type="checkbox"]:checked + label {
 }
 
 nav [type="checkbox"]:checked ~ ul {
-   transform: translateX(-7em);
+   transform: translateX(-7.5em); /* Menu text width */
    visibility: visible;
 }
 
