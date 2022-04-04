@@ -46,7 +46,7 @@
      </div>
  </div>
 
- <div class="content">
+ <div class="content latest-blog">
      <h2><a href="/blog/">Latest Blog</a></h2>
 
      {{ $lastBlog := index (where .Site.RegularPages "Section" "==" "blog").ByDate.Reverse 0 }}
