@@ -4,8 +4,8 @@ order: 1
 visible: true
 style: regular
 ---
-<span class="standout">
-Standout text
+# <span class="standout">
+Work With Me
 </span>
 
 ## Is this you?
