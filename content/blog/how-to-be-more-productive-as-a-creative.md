@@ -43,4 +43,4 @@ For you it might be a certain time of day that you’re more creative. Rather th
 
 How could you change up your calendar so you can make the most of those times or days when you have more access to your creative flow? It’s amazing what you can achieve when you go with your creative rhythms.
 
-Now I know it’s not always possible to completely control your calendar so if you need to get into your flow at a time when you’re not feeling it check out [3 ways to tap into your creative flow](https://www.rachelgoth.com/blog/3-ways-to-tap-into-your-creative-flow/).
+Now I know it’s not always possible to completely control your calendar so if you need to get into your flow at a time when you’re not feeling it check out [3 ways to tap into your creative flow](/blog/3-ways-to-tap-into-your-creative-flow/).

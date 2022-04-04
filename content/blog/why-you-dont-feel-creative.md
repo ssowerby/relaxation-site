@@ -43,7 +43,7 @@ Whether you’re designing fitness routines for your clients, creating courses o
 So never think it’s gone. Never think you’ve missed the boat or you’re just not one of those lucky people. In fact remember about all the times you use your imagination every day and keep feeding it regularly. 
 
 ## How to feed your imagination
-
+__
 Books, films, walking in nature, listening to music. Remembering times when you’ve felt creative, even if it was when you were 5. Really stepping into that creative feeling, seeing what you were doing and hearing the sounds. Taking courses in fields you’ve never explored before. It’s all nutrients for your imagination. And unlike a puppy you can’t over feed it.
 
-If you’re stuck for ideas right now check out [What to do when you have no creative ideas](https://www.rachelgoth.com/blog/what-to-do-when-you-have-no-creative-ideas/)
+If you’re stuck for ideas right now check out [What to do when you have no creative ideas](/blog/what-to-do-when-you-have-no-creative-ideas/)

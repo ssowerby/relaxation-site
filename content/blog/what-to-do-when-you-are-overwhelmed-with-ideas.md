@@ -18,7 +18,7 @@ I love the early stages of creating something new when you get lost in your imag
 
 But sometimes it’s a bit much and you just want to work out who done it. That’s what it was like for me with my play. I was stuck in that initial brainstorm phase. How was I going to decide how to progress as all the different ideas jostled for my attention?
 
-If you’re suffering from creative block at the moment you don’t need to hear this right now. Check out [what to do when you have no creative ideas](https://www.rachelgoth.com/blog/what-to-do-when-you-have-no-creative-ideas/) then come back later when you’re brimming with ideas. And don’t worry it will happen, it inevitably always does. 
+If you’re suffering from creative block at the moment you don’t need to hear this right now. Check out [what to do when you have no creative ideas](/blog/what-to-do-when-you-have-no-creative-ideas/) then come back later when you’re brimming with ideas. And don’t worry it will happen, it inevitably always does. 
 
 So I’m going to say it, too many ideas can be just as debilitating as no idea.
 
@@ -36,6 +36,6 @@ And you know I put off getting on with my play, hoping I’d get a burst of insp
 * You need to get organised. Spider diagrams, backs of envelopes, wherever those ideas are gather them together and start listing them out. Bullet points work for me to organise the ideas into a reasonable sequence. I get to see patterns I hadn’t noticed and a feel for which ones will and won’t work.
 * Don’t try to skip the bullet point stage. If you try and go straight to finished product you’ll likely trip yourself up. If you’re painting or sculpting rather than a list maybe do a few small studies. Then you can rearrange or chop them up till you find something you like. It’s better to spend more time at this stage than end up with a final result with holes in the plot.
 * Let it sit for a bit. Once you’ve organised your ideas and you can see a path forward you’ll probably be eager to get straight to work but give yourself some space. Come back to it a few hours or a day or two later and review, you might discover something you’d missed earlier in the excitement.
-* And whenever you feel overwhelmed stop and breathe. It’s amazing how [focussing on your breath](https://www.rachelgoth.com/blog/5-quick-ways-to-relax-when-youre-stuck-at-home#711breathing) for a few moments can clear the brain fog.
+* And whenever you feel overwhelmed stop and breathe. It’s amazing how [focussing on your breath](/blog/5-quick-ways-to-relax-when-youre-stuck-at-home#711breathing) for a few moments can clear the brain fog.
 
 So that’s how I’m organising my ideas, what about you? Maybe try this out if you’re struggling and let me know how you get on. If you're still stuck and would like some help uncovering what the problem is get in touch [rachel@rachelgoth.com](mailto:rachel@rachelgoth.com)
