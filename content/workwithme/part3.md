@@ -3,7 +3,7 @@ filename: part3
 order: 3
 style: regular
 ---
-How awesome would that be?
+## How awesome would that be?
 
 You might wonder if that’s even possible, after all you’ve already learned all the business stuff but it still doesn’t work. Well unless you’re taking regular action using all that knowledge it’s not going to work. 
 
