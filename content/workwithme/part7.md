@@ -1,7 +1,7 @@
 ---
 filename: part7
 order: 7
-style: regular
+style: inverted
 ---
 ## How are we going to do it?
 
