@@ -52,7 +52,11 @@ h1 a:hover {
     color: rgb(231,96,66) !important;
 }
 
-h2, h3, h2 a, h3 a {
+h2, h3 {
+    color: rgb(229,79,120) ;
+}
+
+h2 a, h3 a {
     color: rgb(229,79,120) !important;
 }
 
@@ -103,6 +107,7 @@ h2 a:hover, h3 a:hover {
 
 .footer {
    background-color: #262E3D;
+    position: relative;
 }
 
 .footer .links {
@@ -497,6 +502,11 @@ a.cta:hover {
     color: white
 }
 
+div.inverted h2 {
+    color: white;
+}
+
 body.workwithme div.content:not(.content ~ .content) {
     padding-top: 3em;
 }
+
