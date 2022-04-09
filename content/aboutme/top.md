@@ -1,7 +1,18 @@
 ---
-title: About Me
-layout: aboutme
+filename: top
+order: 1
 ---
+
+<div class="header">
+  <h1>About Me</h1>
+</div>
+
+<div class="photobox">
+  <img class="photo" src="//d1nq4hyj0msl77.cloudfront.net/rachel.png"/>
+</div>
+
+<div class="text">
+
 Hi I’m Rachel Goth, I help artists and makers turn their hobby into a business by supporting them to become confident in their work and able to take the actions to build their business. 
 
 I can help you get out of the loop of procrastination and anxiety to start taking action towards your goals more consistently. Using a combination of coaching, mindfulness, visualisation and other mindset techniques I help you get over what’s holding you back and start implementing what you’ve learned on all those business courses rather than just learning more.
@@ -21,3 +32,5 @@ And slowly, as I worked with all these people, it dawned on me what I’d been m
 Because nobody prepares you for it. It probably wasn’t mentioned by your design teachers and only briefly referred to in those business courses you took. But it’s actually a huge part of having a business. And now I have the skills to share with other artists and makers too so they can overcome their worries, fear and anxieties to have the business they desire and feel that childhood joy in creating again.
 
 So that’s what I do. I help artists and makers turn their dream into a business by supporting them to become confident in their work and how to take the action to build their business.
+
+</div>

@@ -512,3 +512,6 @@ body.workwithme div.content:not(.content ~ .content) {
     padding-top: 2em;
 }
 
+.text {
+   padding-bottom: 2em;
+}
