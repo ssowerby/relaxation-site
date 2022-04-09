@@ -1,6 +1,7 @@
 ---
 filename: top
 order: 1
+style: regular
 ---
 
 <div class="header">
