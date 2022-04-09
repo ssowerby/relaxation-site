@@ -1,6 +1,7 @@
 ---
 filename: certificates
 order: 100
+style: regular
 ---
 
 <div class="image-strip">
