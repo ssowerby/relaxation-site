@@ -92,7 +92,7 @@ h2, h3 {
 
 .content {
    margin: 0 auto;
-   max-width: 60em;
+   max-width: 70em;
    box-sizing: border-box;
    background-color: rgba(255, 255, 255, 0.90);
    border-radius: 0.5em;
@@ -197,13 +197,7 @@ body.header-not-at-top #logo {
    }
 
    .aboutbar .header h1 {
-      font-size: 3.25vw;
-   }
-
-   .aboutbar .header h2 {
-      font-size: 150%;
-      padding-left: 1em;
-      padding-right: 1em;
+      font-size: 400%;
    }
 
    .aboutbar .header {
@@ -514,4 +508,12 @@ body.workwithme div.content:not(.content ~ .content) {
 
 .text {
    padding-bottom: 2em;
+}
+
+h1 {
+   padding-top: 1em;
+}
+
+.header {
+   line-height: 1.3;
 }
