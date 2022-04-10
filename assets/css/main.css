@@ -347,7 +347,7 @@ article:last-of-type {
       max-width: 10em;
     }
 
-    .content.aboutme .photobox {
+    body.aboutme .content .photobox {
         float: right;
     }
 }
@@ -516,4 +516,40 @@ h1 {
 
 img.circular {
    clip-path: circle();
+}
+
+@media (min-width: 800px) {
+
+    .content-box {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-gap: 0;
+        grid-auto-flow: row dense;
+        width: 100%;
+        align-items: center;
+    }
+
+}
+
+.content-box .content-pic img {
+    max-height: 20vh;
+}
+
+.content-box .content-pic {
+    justify-content: center;
+    padding: 0;
+}
+
+.content-box {
+    padding: 2em 0;
+}
+
+.content-box.content-image-left {
+    padding-left: 2em;
+    padding-right: 5vw;
+}
+
+.content-box.content-image-right {
+    padding-left: 5vw;
+    padding-right: 2em;
 }

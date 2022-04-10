@@ -2,6 +2,8 @@
 filename: Section6
 order: 6
 style: inverted
+imagestyle:  left
+image: /uploads/sidepics/pic3.jpg
 ---
 And slowly, as I worked with all these people, it dawned on me what I’d been missing back then when I was a designer. It wasn’t that I’d fallen out of love with being creative, it was all the other stuff around it which had sucked the joy out of it. 
 

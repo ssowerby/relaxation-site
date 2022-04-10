@@ -85,6 +85,8 @@ collections:
       - { label: "Name", name: "filename", widget: "string", required: true }
       - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100, required: true }
       - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted"], required: true }
+      - { label: "Image Placement", name: "imagestyle", default: "none", widget: "select", options: ["none", "left", "right"], required: true }
+      - { label: "Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown", required: true }
 
   - name: "pay"
