@@ -180,36 +180,56 @@ body.header-not-at-top #logo {
     transition: width 1s, height 1s
 }
 
+@media(orientation: landscape) {
 
+    .about {
+        position: relative;
+        background: url("/images/cover.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 80vh;
+    }
 
-.about .header h1 {
-    font-size: 300%;
+    .about .middle {
+        display: none;
+    }
+
+    .about .text {
+        position: absolute;
+        padding: 2em;
+        width: 25vw;
+        background-color: rgba(255, 255, 255, 0.7);
+        right: 2em;
+    }
+
+    .about .header {
+        position: absolute;
+        width: 25vw;
+        left: 3em;
+    }
+
+    .about .header h1 {
+        font-size: 300%;
+    }
+
 }
 
-.about {
-    position: relative;
-    background:
-            url("/images/cover.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    backdrop-filter: brightness(50%);
-    height: 80vh;
-}
+@media(orientation: portrait) {
 
-.about .text {
-    xdisplay: none;
-    position: absolute;
-    padding: 2em;
-    width: 25vw;
-    background-color: rgba(255, 255, 255, 0.5);
-    right: 2em;
-}
+    .about .middle {
+        background: url("/images/cover.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 30vh;
+    }
 
-.about .header {
-    position: absolute;
-    width: 25vw;
-    xbackground-color: rgba(255, 255, 255, 0.5);
-    left: 3em;
+    .about .header {
+        padding-bottom: 3em;
+    }
+
+    .about .header h1 {
+        font-size: 200%;
+    }
 }
 
 @media (max-width: 600px) {
@@ -547,4 +567,10 @@ img.circular {
 .content-box.content-image-right {
     padding-left: 5vw;
     padding-right: 2em;
+}
+
+.centred {
+    display: grid;
+    justify-items: center;
+    align-items: center;
 }
