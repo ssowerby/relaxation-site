@@ -1,9 +1,7 @@
 {{ define "main" }}
 
 {{ range (sort .Data.Pages "Params.order") }}
-<div class="content aboutme {{ .Params.style }}">
-   {{ .Content }}
-</div>
+{{ partial "contentbox" . }}
 {{ end }}
 
 {{end}}
