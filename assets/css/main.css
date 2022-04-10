@@ -189,7 +189,7 @@ body.header-not-at-top #logo {
 .about {
     position: relative;
     background:
-            url("/uploads/sidepics/pic2.png");
+            url("/images/cover.png");
     background-repeat: no-repeat;
     background-size: cover;
     backdrop-filter: brightness(50%);
