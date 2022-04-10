@@ -7,9 +7,11 @@ style: regular
   <h1>About Me</h1>
 </div>
 
+<!--
 <div class="photobox">
   <img class="photo" src="//d1nq4hyj0msl77.cloudfront.net/rachel.png"/>
 </div>
+-->
 
 <div class="text">
 
