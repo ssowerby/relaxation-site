@@ -770,3 +770,31 @@ img.circular {
 .content img {
     max-width: calc(100%);
 }
+
+.content.circled.quote .content-text::before {
+    content: "\201C";
+    color: white;
+    font-family: sans-serif, serif;
+    font-size: 1000%;
+    line-height: 1;
+    opacity: .9;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    z-index: 1;
+}
+
+.content.circled.quote .content-text::after {
+    content: "";
+    height: 7em;
+    width: 7em;
+    background-image: var(--quoter);
+    background-size: cover;
+    border-radius: 50%;
+    line-height: 1;
+    opacity: .9;
+    position: absolute;
+    bottom: 5%;
+    left: -7%;
+    z-index: 1;
+}

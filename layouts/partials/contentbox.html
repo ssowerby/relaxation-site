@@ -1,9 +1,10 @@
 
 {{ $bg := cond (and (isset .Params "background") (not (eq .Params.background ""))) (print `background-image: url('` .Params.background `');`) "" }}
 {{ $col := cond (and (isset .Params "colour") (not (eq .Params.colour ""))) (print `--colour: ` .Params.colour `;`) "" }}
+{{ $quoter := cond (and (isset .Params "quoter") (not (eq .Params.quoter ""))) (print `--quoter: url('` .Params.quoter `');`) "" }}
 
-{{ $attrs := print `style="` $bg $col ` --position:` (default 0 .Params.position) `"` }}
-
+{{ $attrs := print `style="` $bg $col $quoter ` --position:` (default 0 .Params.position) `"` }}
+xx
 <div class="content {{ .Params.style }}" {{ $attrs | safeHTMLAttr }}>
     <div class="content-wrapper">
         <div class="content-text">
