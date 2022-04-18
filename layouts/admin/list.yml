@@ -16,7 +16,7 @@ collections:
     create: true
     fields:
       - { label: "Author", name: "author", widget: "string" }
-      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100 }
+      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 9999 }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "blog"
@@ -44,7 +44,7 @@ collections:
     filter: {field: "visible", value: true}
     fields:
       - { label: "Name", name: "filename", widget: "string" }
-      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100 }
+      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 9999 }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Visible", name: "visible", widget: hidden, default: true }
 
@@ -57,7 +57,7 @@ collections:
     create: true
     fields:
       - { label: "Name", name: "filename", widget: "string", required: true }
-      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100, required: true }
+      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 9999, required: true }
       - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "half-circle left", "half-circle right"], required: true }
       - { label: "Background", name: "background", widget: "image", required: false }
       - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }
@@ -73,7 +73,7 @@ collections:
     create: true
     fields:
       - { label: "Name", name: "filename", widget: "string", required: true }
-      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100, required: true }
+      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 9999, required: true }
       - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted"], required: true }
       - { label: "Background", name: "background", widget: "image", required: false }
       - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }
@@ -89,7 +89,7 @@ collections:
     create: true
     fields:
       - { label: "Name", name: "filename", widget: "string", required: true }
-      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100, required: true }
+      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 9999, required: true }
       - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "half-circle left", "half-circle right"], required: true }
       - { label: "Background", name: "background", widget: "image", required: false }
       - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }
