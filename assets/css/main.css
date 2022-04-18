@@ -570,7 +570,7 @@ img.circular {
     text-align: justify;
     text-justify: inter-word;
     border-radius: calc(var(--circle-size) / 2);
-    background-color: #fa573e;
+    background-color: var(--colour,#fa573e);
     padding: 0;
     left: clamp(0vw, calc(var(--position,40)*1%), calc(100% - var(--circle-size)));
     top: 0;
