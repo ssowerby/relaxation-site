@@ -60,7 +60,7 @@ collections:
       - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100, required: true }
       - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "half-circle left", "half-circle right"], required: true }
       - { label: "Background", name: "background", widget: "image", required: false }
-      - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: true }
+      - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }
       - { label: "Colour", name: "colour", widget: "color", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: true }
 
@@ -76,7 +76,7 @@ collections:
       - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100, required: true }
       - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted"], required: true }
       - { label: "Background", name: "background", widget: "image", required: false }
-      - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: true }
+      - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }
       - { label: "Colour", name: "colour", widget: "color", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: true }
 
@@ -92,7 +92,7 @@ collections:
       - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100, required: true }
       - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "half-circle left", "half-circle right"], required: true }
       - { label: "Background", name: "background", widget: "image", required: false }
-      - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: true }
+      - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }
       - { label: "Colour", name: "colour", widget: "color", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: true }
 
