@@ -9,4 +9,5 @@ visible: true
 </header>
 
 Book a FREE Discovery Call
+
 <a class="cta" href="/booking">Yes, let's chat</a>

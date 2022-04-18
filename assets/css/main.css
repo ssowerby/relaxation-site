@@ -469,16 +469,7 @@ a.cta:hover {
     flex-direction: column;
     margin: 0.5em;
     padding: 0;
-}
-
-.sections > .section > ul {
-    flex-grow: 1;
-    padding: 0.25em;
-    margin: 0;
-}
-
-.sections .cta {
-    align-self: end;
+    justify-content: space-between;
 }
 
 @media (min-width: 50em) {
@@ -551,42 +542,6 @@ img.circular {
    clip-path: circle();
 }
 
-@media (min-width: 800px) {
-
-    .content-box {
-        display: grid;
-        grid-template-columns: auto auto auto;
-        grid-gap: 0;
-        grid-auto-flow: row dense;
-        width: 100%;
-        align-items: center;
-    }
-
-}
-
-.content-box .content-pic img {
-    max-height: 20vh;
-}
-
-.content-box .content-pic {
-    justify-content: center;
-    padding: 0;
-}
-
-.content-box {
-    padding: 2em 0;
-}
-
-.content-box.content-image-left {
-    padding-left: 2em;
-    padding-right: 5vw;
-}
-
-.content-box.content-image-right {
-    padding-left: 5vw;
-    padding-right: 2em;
-}
-
 .centred {
     display: grid;
     justify-items: center;
@@ -617,7 +572,7 @@ img.circular {
     border-radius: calc(var(--circle-size) / 2);
     background-color: #fa573e;
     padding: 0;
-    left: clamp(0vw, 40vw, calc(100% - var(--circle-size)));
+    left: clamp(0vw, calc(var(--position,40)*1%), calc(100% - var(--circle-size)));
     top: 0;
 }
 
@@ -793,13 +748,13 @@ img.circular {
 }
 
 .content.half-circle.left .content-text {
-    margin-left: 20%;
+    margin-left: calc(var(--position,20)*1%);
     border-radius: 100vh 0 0 100vh;
     padding-right: 2em;
 }
 
 .content.half-circle.right .content-text {
-    margin-right: 20%;
+    margin-right: calc((100 - var(--position,80))*1%);
     border-radius: 0 100vh 100vh 0;
     padding-left: 2em;
 }
@@ -810,4 +765,8 @@ img.circular {
 
 .content-text p:last-of-type {
     margin-bottom: 0;
+}
+
+.content img {
+    max-width: calc(100%);
 }

@@ -1,6 +1,6 @@
-{{ if eq (default "none" .Params.imagestyle) "none" }}
 
-{{ $attrs := cond (isset .Params "background") (print `style="background-image: url('` .Params.background `')"`) "" }}
+{{ $bg := cond (isset .Params "background") (print `background-image: url('` .Params.background `')`) "" }}
+{{ $attrs := print `style="` $bg `; --position:` (default 0 .Params.position) `"` }}
 
 <div class="content {{ .Params.style }}" {{ $attrs | safeHTMLAttr }}>
     <div class="content-wrapper">
@@ -11,18 +11,3 @@
         </div>
     </div>
 </div>
-{{ else }}
-<div class="content content-box {{ .Params.style }}  content-image-{{ .Params.imagestyle }}">
-    {{ if eq .Params.imagestyle "left" }}
-        <div class="content-pic">
-            <img class="circular" src="{{ .Params.image }}" />
-        </div>
-    {{ end }}
-    <div class="content-text" style="grid-column-end: span 2">{{ .Content }}</div>
-    {{ if eq .Params.imagestyle "right" }}
-        <div class="content-pic">
-            <img class="circular" src="{{ .Params.image }}" />
-        </div>
-    {{ end }}
-</div>
-{{ end }}

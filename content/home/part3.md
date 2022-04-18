@@ -4,6 +4,7 @@ order: 300
 visible: true
 style: half-circle right 
 background: /images/cover.jpg
+position: 50
 ---
 ## This is the work you were born to do
 

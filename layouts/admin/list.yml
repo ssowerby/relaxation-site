@@ -58,7 +58,7 @@ collections:
     fields:
       - { label: "Name", name: "filename", widget: "string", required: true }
       - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100, required: true }
-      - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted"], required: true }
+      - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "half-circle left", "half-circle right"], required: true }
       - { label: "Body", name: "body", widget: "markdown", required: true }
 
   - name: "workwithme"
@@ -72,6 +72,8 @@ collections:
       - { label: "Name", name: "filename", widget: "string", required: true }
       - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100, required: true }
       - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted"], required: true }
+      - { label: "Background", name: "background", widget: "image", required: false }
+      - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: true }
       - { label: "Body", name: "body", widget: "markdown", required: true }
 
   - name: "aboutme"
@@ -84,9 +86,9 @@ collections:
     fields:
       - { label: "Name", name: "filename", widget: "string", required: true }
       - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 100, required: true }
-      - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted"], required: true }
-      - { label: "Image Placement", name: "imagestyle", default: "none", widget: "select", options: ["none", "left", "right"], required: true }
-      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "half-circle left", "half-circle right"], required: true }
+      - { label: "Background", name: "background", widget: "image", required: false }
+      - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: true }
       - { label: "Body", name: "body", widget: "markdown", required: true }
 
   - name: "pay"
