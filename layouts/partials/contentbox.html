@@ -1,6 +1,6 @@
 
-{{ $bg := cond (isset .Params "background") (print `background-image: url('` .Params.background `');`) "" }}
-{{ $col := cond (isset .Params "colour") (print `--colour: ` .Params.colour `;`) "" }}
+{{ $bg := cond (and (isset .Params "background") (not (eq .Params.background ""))) (print `background-image: url('` .Params.background `');`) "" }}
+{{ $col := cond (and (isset .Params "colour") (not (eq .Params.colour ""))) (print `--colour: ` .Params.colour `;`) "" }}
 
 {{ $attrs := print `style="` $bg $col ` --position:` (default 0 .Params.position) `"` }}
 
