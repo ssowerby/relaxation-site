@@ -1,8 +1,9 @@
 ---
 filename: part3
-order: 3
+order: 300
 visible: true
-style: regular
+style: half-circle right 
+background: /images/cover.jpg
 ---
 ## This is the work you were born to do
 

@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ range (sort .Data.Pages "Params.order") }}
+{{ range (sort (where  .Data.Pages "Params.order" "ge" 0 ) "Params.order") }}
 {{ partial "contentbox" . }}
 {{ end }}
 

@@ -6,7 +6,7 @@
 <div class="content about">
 
     <div class="header">
-        <h1>Mindset mastery for artists and makers</h1>
+        <h1><span class="part1">Mindset Mastery for</span><span class="part2"> Artists &amp; Makers</span></h1>
     </div>
 
     <div class="middle"></div>
@@ -22,9 +22,7 @@
 </div>
 
 {{ range sort (where $matching "Params.filename" "!=" "intro") "Params.order" }}
-<div class="content {{ .Params.style }}">
-    {{ .Content }}
-</div>
+{{ partial "contentbox" . }}
 {{ end }}
 
  <div class="content">

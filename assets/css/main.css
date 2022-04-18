@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Sarala');
 
 
+:root {
+    --circle-size: min(calc(100vw - 4em), 30em);
+}
+
 body {
    font-family: "Open Sans", sans-serif;
 }
@@ -92,7 +96,6 @@ h2, h3 {
    box-sizing: border-box;
    background-color: rgba(255, 255, 255, 0.90);
    border-radius: 0.5em;
-   backdrop-filter: blur(10px) contrast(0.8);
    padding: 2em 5vw;
    margin-bottom: 3ch;
 }
@@ -180,14 +183,15 @@ body.header-not-at-top #logo {
     transition: width 1s, height 1s
 }
 
-@media(orientation: landscape) {
+@media (orientation: landscape) and (min-width: 960px) {
 
     .about {
         position: relative;
-        background: url("/images/cover.png");
+        background: url("/images/cover.jpg");
         background-repeat: no-repeat;
         background-size: cover;
-        height: 40em;
+        padding: 28%;
+        box-sizing: border-box;
     }
 
     .about .middle {
@@ -196,31 +200,45 @@ body.header-not-at-top #logo {
 
     .about .text {
         position: absolute;
-        padding: 2em;
-        width: 25%;
+        padding: 1em 1.5em;
+        width: 28%;
         background-color: rgba(255, 255, 255, 0.7);
+        border-radius: 0.5em;
         right: 2em;
+        top: 5em;
     }
 
     .about .header {
         position: absolute;
-        width: 25%;
-        left: 3em;
+        width: 30%;
+        left: 4em;
+        top: 5em;
+        padding: 0;
+        margin: 0;
     }
 
     .about .header h1 {
-        font-size: 300%;
+        padding: 0;
+    }
+
+    .about .header .part1 {
+        font-size: 100%;
+    }
+
+    .about .header .part2 {
+        font-size: 125%;
     }
 
 }
 
-@media(orientation: portrait) {
+@media (orientation: portrait), (max-width: 959px) {
 
     .about .middle {
-        background: url("/images/cover.png");
+        background: url("/images/cover.jpg");
         background-repeat: no-repeat;
         background-size: cover;
-        height: 40vmin;
+        padding: 28%;
+        box-sizing: border-box;
     }
 
     .about .header {
@@ -501,7 +519,7 @@ a.cta:hover {
 }
 
 .inverted {
-    background-color: #e56a78;
+    background-color: rgba(229,106,120,0.9);
     color: white
 }
 
@@ -573,4 +591,223 @@ img.circular {
     display: grid;
     justify-items: center;
     align-items: center;
+}
+
+.content.circled {
+    height: calc(var(--circle-size) - 2em);
+}
+
+.content.circled .content-wrapper {
+    position: absolute;
+    padding: 0;
+    top: -1em;
+    left: 0;
+    right: 0;
+    height: var(--circle-size);
+}
+
+.content.circled .content-text {
+    position: absolute;
+    box-sizing: content-box;
+    width: var(--circle-size);
+    height: var(--circle-size);
+    color: white;
+    text-align: justify;
+    text-justify: inter-word;
+    border-radius: calc(var(--circle-size) / 2);
+    background-color: #fa573e;
+    padding: 0;
+    left: clamp(0vw, 40vw, calc(100% - var(--circle-size)));
+    top: 0;
+}
+
+.content .content-outer {
+    display: inline;
+}
+
+.content .content-inner {
+    display: inline;
+}
+
+.content.circled .content-outer::before {
+    content: "";
+    float: left;
+    height: 100%;
+    width: 50%;
+    shape-outside: polygon(
+            0 0,
+            98% 0,
+            50% 6%,
+            23.4% 17.3%,
+            6% 32.6%,
+            0 50%,
+            6% 65.6%,
+            23.4% 82.7%,
+            50% 94%,
+            98% 100%,
+            0 100%
+    );
+    shape-margin: 2em;
+}
+
+.content.circled .content-inner::before {
+    content: "";
+    float: right;
+    height: 100%;
+    width: 50%;
+    shape-outside: polygon(
+            2% 0%,
+            100% 0%,
+            100% 100%,
+            2% 100%,
+            50% 94%,
+            76.6% 82.7%,
+            94% 65.6%,
+            100% 50%,
+            94% 32.6%,
+            76.6% 17.3%,
+            50% 6%
+    );
+    shape-margin: 2em;
+}
+
+.content {
+    position: relative;
+}
+
+.content.circled {
+    overflow: clip;
+    padding: 0;
+}
+
+.content, .content-wrapper, .content-text {
+    overflow: visible;
+}
+
+.content.half-circle {
+    overflow: clip;
+    padding: 0;
+    background: transparent;
+}
+
+.content.circled {
+    height: calc(var(--circle-size) - 2em);
+    background: rgba(255,255,255,0.5);
+}
+
+@media(min-width: 800px) {
+    .content.circled .content-inner {
+        font-size: 150%;
+    }
+
+    .content.half-circle .content-inner {
+        font-size: 120%;
+    }
+}
+
+.content.half-circle .content-wrapper {
+    top: -1em;
+    padding: 0;
+    left: 0;
+    width: 100%;
+    height: calc(100% + 2em);
+    box-sizing: border-box;
+}
+
+.content.half-circle .content-text {
+    color: white;
+    text-align: justify;
+    text-justify: inter-word;
+    height: calc(var(--circle-size));
+    background-color: rgb(79, 129, 219);
+}
+
+.content.half-circle .content-inner {
+    padding: 2em;
+}
+
+.content.half-circle.left .content-outer::before {
+    content: "";
+    float: left;
+    width: calc(var(--circle-size) / 2);
+    height: calc(var(--circle-size));
+    shape-outside: polygon(
+            0 0,
+            98% 0,
+            50% 6%,
+            23.4% 17.3%,
+            6% 32.6%,
+            0 50%,
+            6% 65.6%,
+            23.4% 82.7%,
+            50% 94%,
+            98% 100%,
+            0 100%
+    );
+    shape-margin: 2em;
+}
+
+.content.half-circle.right .content-outer::before {
+    content: "";
+    float: right;
+    width: calc(var(--circle-size) / 2);
+    height: calc(var(--circle-size));
+    shape-outside: polygon(
+            2% 0%,
+            100% 0%,
+            100% 100%,
+            2% 100%,
+            50% 94%,
+            76.6% 82.7%,
+            94% 65.6%,
+            100% 50%,
+            94% 32.6%,
+            76.6% 17.3%,
+            50% 6%
+    );
+    shape-margin: 2em;
+}
+
+.content .content-wrapper {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    border: none;
+}
+
+.content .content-text {
+    box-sizing: content-box;
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+.content.half-circle.left {
+    background-size: cover;
+    background-position: left
+}
+
+.content.half-circle.right {
+    background-size: cover;
+    background-position: right
+}
+
+.content.half-circle.left .content-text {
+    margin-left: 20%;
+    border-radius: 100vh 0 0 100vh;
+    padding-right: 2em;
+}
+
+.content.half-circle.right .content-text {
+    margin-right: 20%;
+    border-radius: 0 100vh 100vh 0;
+    padding-left: 2em;
+}
+
+.content-text p:first-of-type {
+    margin-top: 0;
+}
+
+.content-text p:last-of-type {
+    margin-bottom: 0;
 }
