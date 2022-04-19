@@ -3,7 +3,7 @@ filename: part2
 order: 200
 style: circled
 background: /uploads/img_20210905_144756.jpg
-position: 10
+position: 100
 colour: "#e76042"
 visible: true
 quoter: ""

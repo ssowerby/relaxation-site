@@ -190,6 +190,9 @@ body.header-not-at-top #logo {
         background: url("/images/cover.jpg");
         background-repeat: no-repeat;
         background-size: cover;
+        width: 100%;
+        min-height: 28vw;
+        aspect-ratio: 683/383;
         padding-bottom: 28%;
         box-sizing: border-box;
     }
@@ -237,6 +240,9 @@ body.header-not-at-top #logo {
         background: url("/images/cover.jpg");
         background-repeat: no-repeat;
         background-size: cover;
+        width: 100%;
+        min-height: 28vw;
+        aspect-ratio: 683/383;
         padding-bottom: 28%;
         box-sizing: border-box;
     }
@@ -436,7 +442,7 @@ a.cta {
    color: white;
    background-color: rgb(79,129,219);
    padding: 0.5em;
-   margin: 0.1em;
+   margin: 0.1em auto;
    width: 75%;
    max-width: 20em;
    text-align: center;
@@ -573,7 +579,6 @@ img.circular {
     background-color: var(--colour,#fa573e);
     padding: 0;
     left: clamp(0vw, calc(var(--position,40)*1%), calc(100% - var(--circle-size)));
-    top: 0;
 }
 
 .content .content-outer {
@@ -643,16 +648,18 @@ img.circular {
     overflow: clip;
     padding: 0;
     background: transparent;
+    background-size: cover;
 }
 
 .content.circled {
     height: calc(var(--circle-size) - 2em);
     background: rgba(255,255,255,0.5);
+    background-size: cover;
 }
 
 @media(min-width: 800px) {
     .content.circled .content-inner {
-        font-size: 150%;
+        font-size: 120%;
     }
 
     .content.half-circle .content-inner {
@@ -773,7 +780,7 @@ img.circular {
 
 .content.circled.quote .content-text::before {
     content: "\201C";
-    color: white;
+    color: rgb(229,106,120);
     font-family: sans-serif, serif;
     font-size: 1000%;
     line-height: 1;
@@ -797,4 +804,16 @@ img.circular {
     bottom: 5%;
     left: -7%;
     z-index: 1;
+}
+
+.content.circled h2 {
+    color: white;
+}
+
+.content.half-circle h2 {
+    color: white;
+}
+
+.content.inverted h2 {
+    color: white;
 }

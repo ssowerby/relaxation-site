@@ -3,7 +3,7 @@ filename: part5
 order: 500
 style: half-circle left
 background: /uploads/img_20210804_165611_hdr.jpg
-position: 0
+position: 20
 colour: "#4f81db"
 ---
 ## You’re skilled at what you do

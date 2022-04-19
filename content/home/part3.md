@@ -3,8 +3,6 @@ filename: part3
 order: 300
 visible: true
 style: inverted
-background: /images/cover.jpg
-position: 50
 ---
 ## This is the work you were born to do
 
