@@ -1,12 +1,11 @@
 ---
 filename: part2
 order: 200
-visible: true
-style: circled quote
-quoter: /uploads/screenshot-2022-04-15-at-16.47.04.png
+style: circled
+background: /uploads/img_20210905_144756.jpg
 position: 10
 colour: "#e76042"
+visible: true
+quoter: ""
 ---
-I feel a huge weight has been lifted from my shoulders and feel that I can really achieve all of my goals. Before I felt like I was floundering from the overwhelm and achieving nothing, but with a few simple easy to implement strategies I’ve already started achieving more than I have in the last few months.
-
-Kath
+When someone asks you ‘what do you do’ you want to confidently tell them you’re an artist and show them. Because you want to have a business that expresses who you are and gives you the freedom to express your creativity and feel free to experiment.
