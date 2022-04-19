@@ -190,7 +190,7 @@ body.header-not-at-top #logo {
         background: url("/images/cover.jpg");
         background-repeat: no-repeat;
         background-size: cover;
-        padding: 28%;
+        padding-bottom: 28%;
         box-sizing: border-box;
     }
 
@@ -237,7 +237,7 @@ body.header-not-at-top #logo {
         background: url("/images/cover.jpg");
         background-repeat: no-repeat;
         background-size: cover;
-        padding: 28%;
+        padding-bottom: 28%;
         box-sizing: border-box;
     }
 

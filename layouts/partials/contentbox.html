@@ -4,7 +4,7 @@
 {{ $quoter := cond (and (isset .Params "quoter") (not (eq .Params.quoter ""))) (print `--quoter: url('` .Params.quoter `');`) "" }}
 
 {{ $attrs := print `style="` $bg $col $quoter ` --position:` (default 0 .Params.position) `"` }}
-xx
+
 <div class="content {{ .Params.style }}" {{ $attrs | safeHTMLAttr }}>
     <div class="content-wrapper">
         <div class="content-text">
