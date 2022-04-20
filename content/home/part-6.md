@@ -1,9 +1,9 @@
 ---
 filename: part 6
 order: 600
-style: half-circle right
+style: half-circle left
 background: /uploads/img_20210804_165611_hdr.jpg
-position: 70
+position: 20
 colour: "#e76042"
 ---
 ## You’ve already got the business skills
