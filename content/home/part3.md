@@ -2,7 +2,8 @@
 filename: part3
 order: 300
 visible: true
-style: inverted
+style: half-circle left
+position: 20
 ---
 ## This is the work you were born to do
 
