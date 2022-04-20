@@ -2,7 +2,9 @@
 filename: part1
 order: 100
 visible: true
-style: regular
+style: half-circle right
+colour: "#E56A78"
+position: 80
 ---
 
 <span class="standout">

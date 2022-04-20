@@ -681,7 +681,7 @@ img.circular {
     text-align: justify;
     text-justify: inter-word;
     height: calc(var(--circle-size));
-    background-color: rgb(79, 129, 219);
+    background-color: var(--colour, rgb(79, 129, 219));
 }
 
 .content.half-circle .content-inner {
@@ -806,14 +806,10 @@ img.circular {
     z-index: 1;
 }
 
-.content.circled h2 {
-    color: white;
-}
-
-.content.half-circle h2 {
-    color: white;
-}
-
-.content.inverted h2 {
+.content.circled h2,
+.content.half-circle h2,
+.content.inverted h2,
+.content .standout
+{
     color: white;
 }
