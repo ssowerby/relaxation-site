@@ -578,6 +578,7 @@ img.circular {
     border-radius: calc(var(--circle-size) / 2);
     background-color: var(--colour,#fa573e);
     padding: 0;
+    transform: translateX(-50%);
     left: clamp(0vw, calc(var(--position,40)*1%), calc(100% - var(--circle-size)));
 }
 
@@ -647,14 +648,12 @@ img.circular {
 .content.half-circle {
     overflow: clip;
     padding: 0;
-    background: transparent;
-    background-size: cover;
+    background-image: none;
 }
 
 .content.circled {
     height: calc(var(--circle-size) - 2em);
-    background: rgba(255,255,255,0.5);
-    background-size: cover;
+    background-color: rgba(255,255,255,0.5);
 }
 
 @media(min-width: 800px) {
@@ -744,13 +743,11 @@ img.circular {
     border: none;
 }
 
-.content.half-circle.left {
-    background-size: cover;
+.content.left {
     background-position: left
 }
 
-.content.half-circle.right {
-    background-size: cover;
+.content.right {
     background-position: right
 }
 
@@ -780,7 +777,7 @@ img.circular {
 
 .content.circled.quote .content-text::before {
     content: "\201C";
-    color: rgb(229,106,120);
+    color: rgb(79, 129, 219);
     font-family: sans-serif, serif;
     font-size: 1000%;
     line-height: 1;
@@ -809,7 +806,62 @@ img.circular {
 .content.circled h2,
 .content.half-circle h2,
 .content.inverted h2,
-.content .standout
+.content.bullet h1,
+.content.bullet h2,
+.content.circled .standout,
+.content.half-circle .standout,
+.content.inverted .standout,
+.content.bullet .standout
 {
     color: white;
+}
+
+.content.curvy {
+    border-radius: 0.5em 0.5em 5em 5em
+}
+
+.content.bullet .content-wrapper {
+    position: relative;
+    padding: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.content.bullet.left .content-wrapper {
+    padding-left: clamp(0vw, calc(var(--position,40)*1%), 100%);
+}
+
+.content.bullet.right .content-wrapper {
+    padding-right: clamp(0vw, calc(var(--position,40)*1%), 100%);
+}
+
+.content.bullet .content-text {
+    background-color: var(--colour, rgb(79, 129, 219));
+    color: white;
+    width: 100%;
+    padding: 2em;
+    overflow: clip;
+    box-sizing: border-box;
+}
+
+.content.bullet.left .content-text {
+    border-radius: 10em 0.5em 0.5em 10em;
+    padding-left: 7em;
+}
+
+.content.bullet.right .content-text {
+    border-radius: 0.5em 10em 10em 0.5em;
+    padding-right: 7em;
+}
+
+.content {
+    background-size: var(--bgsize,cover);
+}
+
+.content.bullet {
+    padding: 0;
+    background-image: none;
+    background-color: rgba(255, 255, 255, 0.5);
 }

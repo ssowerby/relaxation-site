@@ -1,7 +1,7 @@
 ---
 filename: part 6
 order: 600
-style: half-circle left
+style: bullet left
 background: /uploads/img_20210804_165611_hdr.jpg
 position: 20
 colour: "#e76042"

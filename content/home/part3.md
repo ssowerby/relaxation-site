@@ -2,8 +2,9 @@
 filename: part3
 order: 300
 visible: true
-style: half-circle left
+style: bullet left
 position: 20
+background: /uploads/IMG_20210731_094749_HDR.jpg
 ---
 ## This is the work you were born to do
 

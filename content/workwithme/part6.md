@@ -1,7 +1,10 @@
 ---
 filename: part6
 order: 6
-style: regular
+style: bullet right
+position: 20
+background: /uploads/IMG_20210731_094749_HDR.jpg
+colour: "#FA573E"
 ---
 ## By the end of your personalised programme you’ll be able to - 
 

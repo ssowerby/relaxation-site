@@ -2,7 +2,7 @@
 filename: part1
 order: 100
 visible: true
-style: half-circle right
+style: curvy inverted
 colour: "#E56A78"
 position: 80
 ---

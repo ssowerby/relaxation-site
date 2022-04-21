@@ -1,7 +1,9 @@
 ---
 filename: part7
 order: 7
-style: inverted
+style: bullet left
+position: 20
+
 ---
 ## How are we going to do it?
 

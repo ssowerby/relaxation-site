@@ -1,7 +1,10 @@
 ---
 filename: part3
 order: 3
-style: regular
+style: bullet left
+background: /uploads/img_20210804_165611_hdr.jpg
+position: 20
+
 ---
 ## How awesome would that be?
 

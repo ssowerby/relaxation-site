@@ -1,7 +1,9 @@
 ---
 filename: part5
 order: 5
-style: inverted
+style: bullet left
+position: 20
+
 ---
 ## So how does it work?
 

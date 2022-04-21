@@ -2,8 +2,8 @@
 filename: part2
 order: 200
 style: circled
-background: /uploads/img_20210905_144756.jpg
-position: 20
+Xbackground: /uploads/IMG_20210422_135246_1.jpg
+position: 50
 colour: "#e76042"
 visible: true
 quoter: ""
