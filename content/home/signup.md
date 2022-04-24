@@ -5,7 +5,7 @@ visible: true
 style: bullet right
 background: /uploads/IMG_20210731_094749_HDR.jpg
 position: 50
-colour: "#e76042"
+colour: "#E56A78"
 ---
 ## 6 Steps to Stop Negative Comments Holding You Back! 
 
