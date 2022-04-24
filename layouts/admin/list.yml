@@ -34,22 +34,8 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Visible", name: "visible", widget: hidden, default: true }
 
-  - name: "section"
-    label: "Home Section"
-    folder: "content/section"
-    identifier_field: "filename"
-    summary: "{{ string "{{slug}}" }}"
-    slug: "{{ string "{{filename}}" }}"
-    create: true
-    filter: {field: "visible", value: true}
-    fields:
-      - { label: "Name", name: "filename", widget: "string" }
-      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 9999 }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Visible", name: "visible", widget: hidden, default: true }
-
   - name: "text"
-    label: "Home Text"
+    label: "Home Section"
     folder: "content/home"
     identifier_field: "filename"
     summary: "{{ string "{{slug}}" }}"

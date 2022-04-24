@@ -1,7 +1,9 @@
 {{ define "main" }}
 
 <div class="content signup">
-   <script async data-uid="{{ .Params.form }}" src="https://rachelgoth.ck.page/{{ .Params.form }}/index.js"></script>
+   <div class="form">
+      <script async data-uid="{{ .Params.form }}" src="https://rachelgoth.ck.page/{{ .Params.form }}/index.js"></script>
+   </div>
 </div>
 
 {{ end }}
