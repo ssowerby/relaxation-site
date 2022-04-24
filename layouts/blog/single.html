@@ -19,8 +19,8 @@
 
 <div class="content sections rtl">
 
-   {{ $sections := .Site.GetPage "/section" }}
-   {{ $matching := $sections.Resources.Match "signup*" }}
+   {{ $homeDir := .Site.GetPage "/home" }}
+   {{ $matching := $homeDir.Resources.Match "signup*" }}
 
    {{ range $matching }}
       <div class="section">
