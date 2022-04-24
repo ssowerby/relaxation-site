@@ -9,7 +9,8 @@ colour: "#e76042"
 ---
 ## 6 Steps to Stop Negative Comments Holding You Back! 
 
-\
+<div class="centred">
 Get your free MP3
+</div>
 
 <a class="cta" href="/signup/negativefeedback">Yes, let me have it</a>
