@@ -1,21 +1,17 @@
-{{ if eq (default "none" .Params.imagestylexxx) "none" }}
-<div class="content {{ .Params.style }}">
-    {{ .Content }}
-</div>
-{{ else }}
-<div class="content content-box {{ .Params.style }}  content-image-{{ .Params.imagestyle }}">
-    {{ if eq .Params.imagestyle "left" }}
-        <div class="content-pic">
-            <img class="circular" src="{{ .Params.image }}" />
+
+{{ $bg := cond (and (isset .Params "background") (not (eq .Params.background ""))) (print `background-image: url('` .Params.background `');`) "" }}
+{{ $bgs := cond (and (isset .Params "bgsize") (not (eq .Params.bgsize ""))) (print `--bgsize: ` .Params.bgsize `;`) "" }}
+{{ $col := cond (and (isset .Params "colour") (not (eq .Params.colour ""))) (print `--colour: ` .Params.colour `;`) "" }}
+{{ $quoter := cond (and (isset .Params "quoter") (not (eq .Params.quoter ""))) (print `--quoter: url('` .Params.quoter `');`) "" }}
+
+{{ $attrs := print `style="` $bg $bgs $col $quoter ` --position:` (default 0 .Params.position) `"` }}
+
+<div class="content {{ .Params.style }}" {{ $attrs | safeHTMLAttr }}>
+    <div class="content-wrapper">
+        <div class="content-text">
+            <div class="content-outer">
+                <div class="content-inner">{{ .Content }}</div>
+            </div>
         </div>
-    {{ end }}
-    <div class="content-text" style="grid-column-end: span 2">
-        {{ .Content }}
     </div>
-    {{ if eq .Params.imagestyle "right" }}
-        <div class="content-pic">
-            <img class="circular" src="{{ .Params.image }}" />
-        </div>
-    {{ end }}
 </div>
-{{ end }}

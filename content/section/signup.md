@@ -9,4 +9,5 @@ visible: true
 </header>
 
 Get my FREE How to Become More Creative MP3
+
 <a class="cta" href="/signup/main">Yes, let me have it</a>

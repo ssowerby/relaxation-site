@@ -10,4 +10,4 @@ If you’re fed up with getting in your own way when it comes to turning your pa
 
 You love your art and you know what you should be doing to sell it but it’s one step forwards two steps back. I can help you align your mindset with your business dreams so you stop tripping yourself up and start moving towards your goals.
 
-<div class="centred"><a class="cta" href="/booking">Book your free Discovery Session</a></div>
+<div class="centred"><a class="cta" href="/workwithme">Work with me</a></div>

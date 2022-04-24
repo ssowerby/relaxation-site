@@ -1,0 +1,16 @@
+<div class="content latest-blog">
+    <h2><a href="/blog/">Latest Blog</a></h2>
+
+    {{ $lastBlog := index (where .Site.RegularPages "Section" "==" "blog").ByDate.Reverse 0 }}
+
+    {{ with $lastBlog }}
+    {{ dateFormat "2 January 2006" .PublishDate }}
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <div class="blog-summary-text">{{ .Summary }}</div>
+
+    <a class="read-more" href="{{ .Permalink }}">Continue Reading</a>
+    <a class="read-more" href="/blog/">All Blogs</a>
+
+    {{end}}
+
+</div>

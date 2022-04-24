@@ -2,7 +2,10 @@
 filename: part1
 order: 1
 visible: true
-style: regular
+style: bullet left
+background: /uploads/img_20210905_144756.jpg
+bgsize: contain
+position: 40
 ---
 
 # Work With Me

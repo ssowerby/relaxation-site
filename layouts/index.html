@@ -6,55 +6,21 @@
 <div class="content about">
 
     <div class="header">
-        <h1>Mindset mastery for artists and makers</h1>
+        <h1><span class="part1">Mindset Mastery for</span><span class="part2"> Artists &amp; Makers</span></h1>
     </div>
 
     <div class="middle"></div>
 
     <div class="text">
-
         {{ range where $matching "Params.filename" "intro" }}
             {{ .Content }}
         {{ end }}
-
     </div>
 
 </div>
 
 {{ range sort (where $matching "Params.filename" "!=" "intro") "Params.order" }}
-<div class="content {{ .Params.style }}">
-    {{ .Content }}
-</div>
+{{ partial "contentbox" . }}
 {{ end }}
-
- <div class="content">
-     {{ $sections := .Site.GetPage "/section" }}
-     {{ $matching := $sections.Resources.Match "*" }}
-     <div class="sections">
-
-         {{ range sort $matching ".Params.order" }}
-         <div class="section">
-             {{ .Content }}
-         </div>
-         {{ end }}
-     </div>
- </div>
-
- <div class="content latest-blog">
-     <h2><a href="/blog/">Latest Blog</a></h2>
-
-     {{ $lastBlog := index (where .Site.RegularPages "Section" "==" "blog").ByDate.Reverse 0 }}
-
-     {{ with $lastBlog }}
-     {{ dateFormat "2 January 2006" .PublishDate }}
-     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-     <div class="blog-summary-text">{{ .Summary }}</div>
-
-     <a class="read-more" href="{{ .Permalink }}">Continue Reading</a>
-     <a class="read-more" href="/blog/">All Blogs</a>
-
-     {{end}}
-
- </div>
 
 {{ end }}

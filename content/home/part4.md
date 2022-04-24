@@ -1,13 +1,13 @@
 ---
 filename: part4
-order: 4
+order: 400
 visible: true
-style: inverted
+style: circled quote
+quoter: /uploads/screenshot-2022-04-15-at-16.47.04.png
+position: 50
+colour: "#E56A78"
 ---
-## You’re skilled at what you do
+I feel a huge weight has been lifted from my shoulders and feel that I can really achieve all of my goals. Before I felt like I was floundering from the overwhelm and achieving nothing, but with a few simple easy to implement strategies I’ve already started achieving more than I have in the last few months.
 
-You take this seriously and you’ve learned all the business stuff. But most probably none of those courses or webinars prepared you for the mindset side. So no wonder it’s tripping you up. It was the same for me back when I was a designer. Being stunned by the blows of negative feedback. Crumbling when it came to talking to clients and stockists. Doubting what I made was any good and expecting someone to realise I was rubbish at any moment.
 
-It’s okay I get it, nobody taught you the mindset skills you were going to need to make your business a success. But just like your art skills and business know-how, you can learn this part  too. You can learn to manage your emotions, deal with negative feedback and the anxieties frustrating your progress. You can become aware of the blocks which keep getting in your way so they don’t stop you any more.
-
-And all that energy and time you spent fretting and beating yourself up for not being dynamic enough, that can all go to better use. Imagine spending your days doing the art you love without feeling like you should be doing something else or feeling guilty?  Imagine spending less time on the business part because you’re not procrastinating any more and every step is taking you forward not just one in three?
+Kath

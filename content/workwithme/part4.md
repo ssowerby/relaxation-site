@@ -1,7 +1,10 @@
 ---
 filename: part4
 order: 4
-style: regular
+style: bullet right
+position: 20
+background: /uploads/img_20210804_165611_hdr.jpg
+colour: "#FA573E"
 ---
 ## But could it really work for you? Is it going to be hard? 
 

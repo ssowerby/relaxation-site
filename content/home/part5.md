@@ -1,12 +1,14 @@
 ---
 filename: part5
-order: 5
+order: 500
 visible: true
-style: regular
+style: bullet right
+background: /uploads/img_20210804_165611_hdr.jpg
+position: 20
+colour: "#4f81db"
 ---
+## You’re skilled at what you do
 
-You’ve already got the business skills. What I do is help you recognise what’s holding you back inside yourself and give you the support and techniques to deal with it so it doesn’t get in your way. Then you’re free to implement everything you’ve already learned and put all those courses to good use.
+You take this seriously and you’ve learned all the business stuff. But most probably none of those courses or webinars prepared you for the mindset side. So no wonder it’s tripping you up. It was the same for me back when I was a designer. Being stunned by the blows of negative feedback. Crumbling when it came to talking to clients and stockists. Doubting what I made was any good and expecting someone to realise I was rubbish at any moment.
 
-I know what it’s like to have your own mind and emotions getting in your way and I don’t want you to spend the years I did figuring it out.  If you’re ready to start moving towards your business goals more consistently, book in for a free Discovery Call and let’s see if we’re a good fit for each other.
-
-<a class="cta" href="/booking">Book your free Discovery Session</a>
+It’s okay I get it, nobody taught you the mindset skills you were going to need to make your business a success either. But just like your art skills and business know-how, you can master this part too. You can learn to manage your emotions, deal with negative feedback and the anxieties frustrating your progress. You can become aware of the blocks which keep getting in your way so they don’t stop you any more.

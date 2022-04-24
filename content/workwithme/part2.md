@@ -1,7 +1,9 @@
 ---
 filename: part2
 order: 2
-style: inverted
+style: bullet right
+position: 20
+colour: "#E56A78"
 ---
 ## I know the feeling. Wouldn’t it be better if -
 

@@ -1,8 +1,10 @@
 ---
 filename: part1
-order: 1
+order: 100
 visible: true
-style: regular
+style: curvy inverted
+colour: "#E56A78"
+position: 80
 ---
 
 <span class="standout">
