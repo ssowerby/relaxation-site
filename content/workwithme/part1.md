@@ -4,7 +4,7 @@ order: 1
 visible: true
 style: bullet left
 background: /uploads/img_20210905_144756.jpg
-bgsize: contain
+bgsize: cover
 position: 40
 ---
 
