@@ -1,6 +1,7 @@
 ---
-filename: part 6
+filename: part6
 order: 600
+visible: true
 style: bullet left
 background: /uploads/img_20210804_165611_hdr.jpg
 position: 20

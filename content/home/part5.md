@@ -1,6 +1,7 @@
 ---
 filename: part5
 order: 500
+visible: true
 style: bullet right
 background: /uploads/img_20210804_165611_hdr.jpg
 position: 20

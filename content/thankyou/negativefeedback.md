@@ -1,6 +1,9 @@
 ---
 title: 6 Steps to Stop Negative Comments Holding You Back
 ---
+
+# Thank You
+
 I’m really pleased you’ve signed up for my MP3, **6 Steps to Stop Negative Comments Holding You Back**! 
 
 You’re going to learn how to -
