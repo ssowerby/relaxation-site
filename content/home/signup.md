@@ -7,7 +7,7 @@ background: /uploads/IMG_20210731_094749_HDR.jpg
 position: 50
 colour: "#E56A78"
 ---
-## But nothing has worked for you before, why will is this any different?
+## But nothing has worked for you before, why will this be any different?
 
 I get that it feels impossible when you’ve tried before but you can do this. My clients have tried brute forcing it with will power or doing other courses and none of it worked for them. 
 
