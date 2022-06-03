@@ -3,10 +3,9 @@ filename: part7
 order: 7
 style: bullet left
 position: 20
-
 ---
 ## How are we going to do it?
 
-We do this through a combination of mindset coaching and visualisation techniques, removing any blocks which have been holding you back and boosting your confidence. You’ll come away with the tools to manage your emotions so you’re more resilient as you move towards your goals and the business of your dreams.
+We’re going to do this through a combination of mindset coaching and practical exercises. In our sessions together we’ll remove any blocks which have been holding you back and boost your confidence in your voice. And between sessions there will be practical exercises to get you into taking regular action towards your goals. You will also get extra support via Messenger 5 days a week. 
 
-And it will only take you up to an hour a day of focus to get you on track. Less time than you’ve been wasting self-sabotaging.
+And it will only take you up to 20 minutes a day between sessions to get you into momentum. Less time than you’ve been wasting feeling anxious and procrastinating.
