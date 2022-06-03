@@ -2,17 +2,13 @@
 filename: part6
 order: 6
 style: bullet right
-position: 20
 background: /uploads/IMG_20210731_094749_HDR.jpg
+position: 20
 colour: "#FA573E"
 ---
-## By the end of your personalised programme you’ll be able to - 
+## By the end of your personalised programme you’ll be - 
 
-* Identify when you’re stuck in a loop and get moving forward again.
-* Get back into your flow more easily.
-* Manage your fears if they pop up so they don’t stop you taking action.
-* Have more clarity about the steps to take to achieve your business goals.
-* Spend your time taking those steps rather than getting lost in busy work.
-* Finally feel capable and know you can do this.
-* Enjoy your art again knowing you’re taking care of business.
-* Feel proud to answer the question ‘what do you do?’
+* More comfortable and confident with your voice.
+* Confident and more relaxed being on video or audio.
+* Sharing your message with more ease and flow.
+* Creating your videos and audios faster and easier without the faff and procrastination.
