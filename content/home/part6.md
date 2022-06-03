@@ -15,4 +15,6 @@ One, because we are all nosey. Who didn't want to to know what the Wizard of Oz 
 
 When they get to hear your voice regularly it's a way of potential customers to start to build a relationship with you. There’s nothing so engaging as learning something from someone directly who has a passion for that topic. 
 
-At school what was your favourite subject? I bet it was the one with the most engaging teacher wasn't it? Would have you have been so excited by it if you'd only learned from a book?
+## Voice matters
+
+At school what was your favourite subject? I bet it was the one with the most engaging teacher wasn't it? Would have you have been so excited by it if you'd only learned about it from a book? Voice matters.
