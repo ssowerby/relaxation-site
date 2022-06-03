@@ -4,10 +4,9 @@ order: 3
 style: bullet left
 background: /uploads/img_20210804_165611_hdr.jpg
 position: 20
-
 ---
-## How awesome would that be?
+## How awesome will that be?
 
-You might wonder if that’s even possible, after all you’ve already learned all the business stuff but it still doesn’t work. Well unless you’re taking regular action using all that knowledge it’s not going to work. 
+It might sound like a dream right now but my clients have been where you are and within a couple of weeks of starting to work with me  they’re already recording their videos and audios with more confidence and ease.
 
-You’ve done the learning around the business part. What I’m going to help you with is creating the mindset you need to make those business tools you already have work for you. Mindset is the piece of the puzzle which is often missing. When it comes together with your art skills and business knowledge it can help you get moving towards your goals.
+You’ve done your  training and gained experience. You have something which is important for you to share with others. And you know it’s important for you to speak directly to those people you want to help., That’s why you’re here. This, is the final piece of the puzzle and just like the other pieces this one can fall into place too.
