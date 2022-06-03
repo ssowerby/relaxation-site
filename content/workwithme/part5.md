@@ -8,7 +8,7 @@ position: 20
 
 Cringe to Confidence is a 4 week 1:1 programme in which you’ll - 
 
-* Become more comfortable with your voice and learn to appreciate it.
-* Gain confidence and relax more  being on video or audio.
-* Start sharing your message with more ease and flow.
-* Create your videos and audios faster and easier without the faff and procrastination.
+* Get your message out into the world and feel good about it.
+* Let go of negative ideas about your voice and get into easy action.
+* Establish your new positive belief in your voice and get comfortable with your sound.
+* Focus on using your voice to deliver your message in a way that suits you.
