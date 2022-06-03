@@ -1,13 +1,9 @@
 ---
 filename: intro
 visible: true
+order: 1
 style: regular
 ---
-
-Hi I’m Rachel, a mindset coach for artists and makers who want to turn their hobby into a business.
-
-If you’re fed up with getting in your own way when it comes to turning your passion into a business you’re in the right place.
-
-You love your art and you know what you should be doing to sell it but it’s one step forwards two steps back. I can help you align your mindset with your business dreams so you stop tripping yourself up and start moving towards your goals.
+**Hi I’m Rachel, the voice confidence coach. I help coaches, therapists and teachers learn to love their voice so they can share their message without having to change the way they speak.**
 
 <div class="centred"><a class="cta" href="/workwithme">Work with me</a></div>
