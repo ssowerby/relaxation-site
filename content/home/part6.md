@@ -7,8 +7,10 @@ background: /uploads/img_20210804_165611_hdr.jpg
 position: 20
 colour: "#e76042"
 ---
-## You’ve already got the business skills
+## Do you really need to speak?
 
-What I do is help you recognise what’s holding you back inside yourself and give you the support and techniques to deal with it so it doesn’t get in your way. Then you’re free to implement everything you’ve already learned and put all those courses to good use.
+You may have gotten away up to this point with images, slides, voice over and lip syncing but you’re here because you know that’s not enough. 
 
-And all that energy and time you spent fretting and beating yourself up for not being dynamic enough, that can all go to better use. Imagine spending your days doing the art you love without feeling like you should be doing something else or feeling guilty?  Imagine spending less time on the business part because you’re not procrastinating any more and every step is taking you forward not just one in three?
+People want to here your message directly from you. There’s nothing so engaging as learning something from someone directly who has a passion for that topic. 
+
+At school what was your favourite subject? I bet it was the one with the most engaging teacher wasn't it? Would have you have been so excited by it if you'd only learned from a book?
