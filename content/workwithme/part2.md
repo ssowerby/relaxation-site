@@ -5,14 +5,13 @@ style: bullet right
 position: 20
 colour: "#E56A78"
 ---
-## I know the feeling. Wouldn’t it be better if -
+## **Won’t it be better when** -
 
-* You had clarity about what you needed to do next.
-* At the end of the day you looked back and felt satisfied with what you achieved.
-* You can see the steps to take towards your dreams.
-* You can get into your flow whenever you need to.
-* You know you’re good enough to be doing this and you actually feel it.
-* It’s easier to manage your emotions around being seen and stepping out of your comfort zone. 
-* You can see your business developing and feel proud to tell people what you do.
-* This finally feels like the business you wanted.
-* You’re enjoying being in your flow doing your art, knowing you’re taking care of business too.
+* You feel okay with your voice, even like it
+* You’re comfortable sharing as you, just as you are
+* You are confident in how you sounded so you didn’t need to think about it so much
+* You feel at ease being on video and audio
+* The words flow from you naturally
+* Editing is much quicker because you’re now you’re okay with your sound
+* You know there are people who will listen and benefit from what you have to say
+* You’re in your flow, doing your thing, spreading your message
