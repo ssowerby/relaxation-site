@@ -228,6 +228,11 @@ body.header-not-at-top #logo {
         font-size: 100%;
     }
 
+    .about .header .part2::before {
+        content: '\a';
+        white-space: pre;
+    }
+
     .about .header .part2 {
         font-size: 125%;
     }
