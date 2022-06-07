@@ -5,6 +5,8 @@ style: bullet right
 position: 20
 colour: "#FA573E"
 ---
-And I was so excited, doodling designs on the train to work, researching materials in my lunch breaks, using every spare moment I had until I made it a reality. I felt alive again and in my flow. And it was great, my favourite shop bought my designs, I got to see my necklaces on the catwalk, even in a magazine. However soon enough that joy ebbed away again. I was back in that quagmire of self doubt. Feeling like I wasn’t good enough. Dreading every email or communication with a customer. Wanting to hide away. 
+### I’m passionate about helping people feel confident and at ease with their voice. 
 
-So I left design behind and spent the following years trying out different jobs, trying to find what was missing. But it never felt right. I could get into my flow but I couldn’t stay there for long without the self doubt, criticism and sense of dread taking over.
+* **There’s no such thing as a perfect voice**. 
+* There’s no accent better or worse than another. 
+* **Nobody needs to speak like an old BBC TV presenter** from the 1940s to be accepted and listened to.
