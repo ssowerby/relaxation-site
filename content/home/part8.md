@@ -1,7 +1,7 @@
 ---
 filename: part8
 order: 800
-style: regular
+style: bullet left
 bgsize: cover
 position: 0
 ---
