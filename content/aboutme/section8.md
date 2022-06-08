@@ -1,7 +1,7 @@
 ---
 filename: Section8
 order: 8
-style: regular
+style: bullet left
 bgsize: cover
 position: 0
 ---
