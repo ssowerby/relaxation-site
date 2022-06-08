@@ -7,18 +7,17 @@ background: /uploads/img_20210905_144756.jpg
 bgsize: cover
 position: 40
 ---
-
 # Work With Me
 
 ## Is this you?
 
-* You’ve invested in all the business courses and know what you should be doing but you still feel stuck.
-* You’ve been busy all day but at the end of it you’re not sure what you achieved.
-* You have lots of ideas but can’t seem to follow through on them.
-* You know exactly what you’re supposed to be doing but don’t know where to start.
-* You’re finding it difficult to get into your flow. 
-* That little voice in your head keeps saying ‘Who am I to be selling my work?’
-* The thought of showing people what you do makes you feel sick.
-* Sometimes you take steps in your business but not often enough of them or often enough.
-* You really want your business to work, your art is your passion but right now it feels more like a hobby.
-* You feel guilty taking time to do your art because you know there are so many other parts of your business which aren’t progressing.
+* You don’t like your voice
+* You’ve tried to change your voice with courses or by yourself and it doesn’t work
+* It feels so uncomfortable to talk on video or audio that it all comes out wrong
+* You don’t think anyone will listen to you
+* You feel like your voice is wrong somehow or alien
+* When you try to talk differently though it feels fake and uncomfortable
+* When you do try to record you find yourself procrastinating and putting it off
+* Finally when you make the recording you stumble over your words, talk too fast or freeze with nerves
+* You spend forever editing your videos and audios  in an attempt to make your voice sound betterYet in your heart of hearts you know you have a message you need to share with people
+* Yet in your heart of hearts you know you have a message you need to share with people

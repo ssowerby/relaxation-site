@@ -2,7 +2,7 @@
 filename: Section5
 order: 5
 style: bullet left
-position: 20
 background: /uploads/img_20210804_165611_hdr.jpg
+position: 20
 ---
-Eventually I felt so disheartened I started looking for something to fix that feeling inside and gravitated towards learning hypnotherapy and other healing techniques. These were a revelation for me. By practicing them I began to heal that hole inside. Not only did I get the benefit myself of feeling calmer and more relaxed, I was also using my creativity again, this time to help people relax with their imperfections and let go of their anxiety and stress to feel more joy in their lives. I felt alive with purpose again and in that sweet spot of my flow.
+I’m a Scouser myself and as a child my mum wanted me to have elocution lessons. I refused but still it left me thinking there must be something wrong with my voice or why would she want me to change it. It took me a good few years to realise it was her own voice my mum didn’t like and **she was projecting her anxieties on to me**.

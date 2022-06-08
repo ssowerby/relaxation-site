@@ -6,7 +6,7 @@
 
 {{ $attrs := print `style="` $bg $bgs $col $quoter ` --position:` (default 0 .Params.position) `"` }}
 
-<div class="content {{ .Params.style }}" {{ $attrs | safeHTMLAttr }}>
+<div id="{{ .Params.filename }}" class="content {{ .Params.style }}" {{ $attrs | safeHTMLAttr }}>
     <div class="content-wrapper">
         <div class="content-text">
             <div class="content-outer">
