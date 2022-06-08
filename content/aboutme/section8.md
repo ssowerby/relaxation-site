@@ -1,9 +1,10 @@
 ---
 filename: Section8
 order: 8
-style: bullet left
+style: bullet right
 bgsize: cover
 position: 0
+colour: "#E56A78"
 ---
 Being able to speak freely opens up so many opportunities professionally and personally. My clients are 
 
