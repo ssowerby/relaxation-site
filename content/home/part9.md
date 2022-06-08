@@ -1,7 +1,7 @@
 ---
 filename: part9
 order: 900
-style: regular
+style: bullet right
 bgsize: cover
 position: 0
 ---
