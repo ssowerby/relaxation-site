@@ -8,4 +8,10 @@ colour: "#e76042"
 visible: true
 quoter: ""
 ---
-Need content for the circle - maybe a quote
+## Discover Why You’re Uncomfortable With Your Voice
+
+Join me for a FREE session were we’ll make sense of what’s been holding you back when it comes to your voice so you can discover the solution which will work for you.
+
+You may have tried talking differently or taken multiple courses but nothing has worked. Because until you know what’s really holding you back you can’t begin to know how to release it.
+
+In this one hour FREE session together, using a combination of coaching and visualisation techniques, we’ll gently uncover what’s been keeping you stuck so we can personalise a solution for you.
