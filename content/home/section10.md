@@ -1,5 +1,5 @@
 ---
-filename: Part10
+filename: part10
 order: 1100
 style: bullet left
 bgsize: cover
