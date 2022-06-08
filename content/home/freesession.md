@@ -1,13 +1,14 @@
 ---
 Xbackground: /uploads/IMG_20210422_135246_1.jpg
-filename: part2
+filename: freesession
 order: 200
-style: circled
-position: 50
+style: bullet right
+position: 20
 colour: "#e76042"
 visible: true
 quoter: ""
 ---
+
 ## Discover Why You’re Uncomfortable With Your Voice
 
 Join me for a FREE session were we’ll make sense of what’s been holding you back when it comes to your voice so you can discover the solution which will work for you.

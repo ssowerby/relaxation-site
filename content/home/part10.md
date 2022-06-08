@@ -3,7 +3,8 @@ filename: part10
 order: 1100
 style: bullet left
 bgsize: cover
-position: 0
+position: 10
+colour: "#e76042"
 ---
 ## **Discover Why You’re Uncomfortable With Your Voice** 
 

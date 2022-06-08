@@ -4,6 +4,7 @@ order: 900
 style: bullet right
 bgsize: cover
 position: 0
+colour: "#E56A78"
 ---
 ## How is this different?
 
