@@ -13,8 +13,4 @@ Well if you're making meditations and audios it's a given. For everything else t
 
 One, because we are all nosey. Who didn't want to to know what the Wizard of Oz was like behind the curtain? And two, and more importantly, it builds trust. If you're offering a 1:1 service like coaching or therapy it takes a lot for someone to reach out and ask to work with you. There's a huge element of trust required when someone shares their issues with you. 
 
-When they get to hear your voice regularly it's a way of potential customers to start to build a relationship with you. There’s nothing so engaging as learning something from someone directly who has a passion for that topic. 
-
-## Voice matters
-
-At school what was your favourite subject? I bet it was the one with the most engaging teacher wasn't it? Would have you have been so excited by it if you'd only learned about it from a book? Voice matters.
+When they get to hear your voice regularly it's a way of potential customers to start to build a relationship with you. There’s nothing so engaging as learning something from someone directly who has a passion for that topic.
