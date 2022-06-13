@@ -12,4 +12,4 @@ And it will only take you up to 20 minutes a day between sessions to get you int
 
 Interested?
 
-Button >Book a free Discovery Call<
+<a class="cta" href="https://calendly.com/rachelgoth/sessionpackage">Book a call</a>
