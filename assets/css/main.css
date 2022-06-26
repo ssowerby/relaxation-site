@@ -902,3 +902,13 @@ img.circular {
     margin: 0 auto;
     width: fit-content;
 }
+
+.testimonial img {
+    position: relative;
+    overflow: hidden;
+    max-width: 600px;
+    aspect-ratio: initial;
+    width: 100%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
