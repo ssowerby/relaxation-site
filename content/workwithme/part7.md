@@ -3,6 +3,7 @@ filename: part7
 order: 7
 style: bullet left
 position: 20
+colour: "#e56a78"
 ---
 ## How are we going to do it?
 
