@@ -19,5 +19,5 @@ position: 40
 * When you try to talk differently though it feels fake and uncomfortable
 * When you do try to record you find yourself procrastinating and putting it off
 * Finally when you make the recording you stumble over your words, talk too fast or freeze with nerves
-* You spend forever editing your videos and audios  in an attempt to make your voice sound betterYet in your heart of hearts you know you have a message you need to share with people
+* You spend forever editing your videos and audios  in an attempt to make your voice sound better
 * Yet in your heart of hearts you know you have a message you need to share with people
