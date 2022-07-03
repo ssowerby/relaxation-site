@@ -11,7 +11,7 @@ We’re going to do this through a combination of mindset coaching and practical
 
 And it will only take you up to 20 minutes a day between sessions to get you into momentum. Less time than you’ve been wasting feeling anxious and procrastinating.
 
-### The Cringe to Confidence Programme in a nutshell:
+## The Cringe to Confidence Voice Programme in a nutshell:
 
 * 4 x 1:1 coaching calls on Zoom, bespoke to you and your voice goals.
 * Mini exercises of less than 20 minutes a day to get you moving forward.
