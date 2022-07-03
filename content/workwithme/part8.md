@@ -4,6 +4,7 @@ order: 8
 style: bullet right
 bgsize: cover
 position: 0
+colour: "#fa573e"
 ---
 ## Discover Why You’re Uncomfortable With Your Voice
 
