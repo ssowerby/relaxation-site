@@ -2,7 +2,12 @@
 author: Gary
 order: 1
 ---
+
+<div class="headshot">
+
 ![Gary](/uploads/gary-i.jpg "Gary")
+
+</div>
 
 <div class="centred">
 

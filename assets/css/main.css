@@ -912,3 +912,8 @@ img.circular {
     left: 50%;
     transform: translate(-50%, 0%);
 }
+
+.headshot img {
+   max-height: 25vh;
+   object-fit: contain;
+}
