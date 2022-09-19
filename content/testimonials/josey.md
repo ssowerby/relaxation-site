@@ -1,6 +1,6 @@
 ---
 author: Josey
-order: 1
+order: 4
 ---
 
 <div class="headshot">
