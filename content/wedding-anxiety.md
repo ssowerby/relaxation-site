@@ -1,6 +1,8 @@
 ---
 title: Wedding Anxiety
 ---
+![](/uploads/rachel-goth-headshot.jpg)
+
 Weddings should be a special time of celebration for families and friends but all too often they can be stressful affairs which rush by in an anxious blur. 
 
 * Managing who sits next to who so there are no arguments.
