@@ -1,7 +1,14 @@
 ---
 title: Wedding Anxiety
 ---
-![](/uploads/rachel-goth-headshot.jpg)
+
+<div class="wedding-anxiety clearfix">
+
+<div class="headshot">
+<img src="/uploads/rachel-goth-headshot.jpg">
+</div>
+
+<div class="wedding-intro">
 
 Weddings should be a special time of celebration for families and friends but all too often they can be stressful affairs which rush by in an anxious blur. 
 
@@ -15,7 +22,10 @@ Let’s get rid of that anxiety together so you can get back to enjoying this ha
 * Feel present on the day itself so you can savour every precious moment
 * Be confident giving that speech or saying your vows so you can relax on your special day
 
-**Anxiety Relief Wedding Package £199**
+</div>
+
+<div class="wedding-package">
+<h3>Anxiety Relief Wedding Package £199</h3>
 
 I will gently coach you through whatever is causing you anxiety and give you the techniques to feel calm and relaxed instead. 
 
@@ -25,4 +35,8 @@ The package includes -
 * Anxiety relief techniques tailored to you which you can use any time.
 * A follow up session to answer any questions you have and to cement your new inner calm.
 
-To find out more please **[book in for a complementary](https://outlook.office.com/bookwithme/user/850c9bd35f4d427da3e158953ed9bbf5%40prioritymindmanagement.com/meetingtype/slauDavRXUi3dvW0VQ3Fiw2?anonymous)** chat or email me at r**[achel@rachelgoth.com](mailto:Rachel@rachelgoth.com)**
+To find out more please <a href="
+https://outlook.office.com/bookwithme/user/850c9bd35f4d427da3e158953ed9bbf5@prioritymindmanagement.com/meetingtype/slauDavRXUi3dvW0VQ3Fiw2?anonymous" target="_blank">book in for a complementary</a> chat or email me at [rachel@rachelgoth.com](mailto:rachel@rachelgoth.com)
+
+</div>
+</div>
