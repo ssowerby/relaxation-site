@@ -1,7 +1,6 @@
 ---
 title: Wedding Anxiety
 ---
-
 <div class="wedding-anxiety clearfix">
 
 <div class="headshot">
@@ -35,7 +34,7 @@ The package includes -
 * Anxiety relief techniques tailored to you which you can use any time.
 * A follow up session to answer any questions you have and to cement your new inner calm.
 
-To find out more please <a href="https://outlook.office.com/bookwithme/user/850c9bd35f4d427da3e158953ed9bbf5@prioritymindmanagement.com/meetingtype/slauDavRXUi3dvW0VQ3Fiw2?anonymous" target="_blank">book in for a complementary chat</a> or email me at [rachel@rachelgoth.com](mailto:rachel@rachelgoth.com)
+To find out more please <a href="[https://outlook.office.com/​bookwithme/user/​850c9bd35f4d427da3e158953ed9bb​f5@prioritymindmanagement.com?​anonymous&ep=plink](https://outlook.office.com/bookwithme/user/850c9bd35f4d427da3e158953ed9bbf5@prioritymindmanagement.com?anonymous&ep=plink)" target="_blank">book in for a complementary chat</a> or email me at [rachel@rachelgoth.com](mailto:rachel@rachelgoth.com)
 
 </div>
 </div>
