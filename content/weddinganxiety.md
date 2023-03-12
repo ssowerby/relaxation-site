@@ -34,7 +34,7 @@ The package includes -
 * Anxiety relief techniques tailored to you which you can use any time.
 * A follow up session to answer any questions you have and to cement your new inner calm.
 
-To find out more please <a href="[https://outlook.office.com/​bookwithme/user/​850c9bd35f4d427da3e158953ed9bb​f5@prioritymindmanagement.com?​anonymous&ep=plink](https://outlook.office.com/bookwithme/user/850c9bd35f4d427da3e158953ed9bbf5@prioritymindmanagement.com?anonymous&ep=plink)" target="_blank">book in for a complementary chat</a> or email me at [rachel@rachelgoth.com](mailto:rachel@rachelgoth.com)
+To find out more please <a href="https://outlook.office.com/bookwithme/user/850c9bd35f4d427da3e158953ed9bbf5%40prioritymindmanagement.com/meetingtype/Ns8qBYjjKkaF9s1n0RdjQA2?anonymous&isanonymous=true" target="_blank">book in for a complementary chat</a> or email me at [rachel@rachelgoth.com](mailto:rachel@rachelgoth.com)
 
 </div>
 </div>
