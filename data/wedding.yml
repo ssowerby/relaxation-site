@@ -1,5 +1,7 @@
 title: Test
 intro: Some stuff
 section:
-  - content: Some more content
-  - content: Some content
+  - body: "Some content"
+    style: "bullet left"
+  - body: "Some more content"
+    style: "bullet right"

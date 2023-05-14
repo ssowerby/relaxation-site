@@ -142,4 +142,10 @@ collections:
             name: section
             widget: list
             fields:
-              - {label: "Content", name: "content", widget: "markdown" }
+              - { label: "Content", name: "body", widget: "markdown" }
+              - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "circled quote", "bullet left", "bullet right"], required: true }
+              - { label: "Background", name: "background", widget: "image", required: false }
+              - { label: "Background size", name: "bgsize", default: "cover", widget: "select", options: ["cover", "contain"], required: false }
+              - { label: "Quoter", name: "quoter", widget: "image", required: false }
+              - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }
+              - { label: "Colour", name: "colour", widget: "color", required: false }

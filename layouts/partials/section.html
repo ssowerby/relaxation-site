@@ -1,0 +1,16 @@
+{{ $bg := cond (and (isset . "background") (not (eq .background ""))) (print `background-image: url('` .background `');`) "" }}
+{{ $bgs := cond (and (isset . "bgsize") (not (eq .bgsize ""))) (print `--bgsize: ` .bgsize `;`) "" }}
+{{ $col := cond (and (isset . "colour") (not (eq .colour ""))) (print `--colour: ` .colour `;`) "" }}
+{{ $quoter := cond (and (isset . "quoter") (not (eq .quoter ""))) (print `--quoter: url('` .quoter `');`) "" }}
+
+{{ $attrs := print `style="` $bg $bgs $col $quoter ` --position:` (default 0 .position) `"` }}
+
+<div class="content {{ .style }}" {{ $attrs | safeHTMLAttr }}>
+   <div class="content-wrapper">
+      <div class="content-text">
+         <div class="content-outer">
+            <div class="content-inner">{{ .body }}</div>
+         </div>
+      </div>
+   </div>
+</div>

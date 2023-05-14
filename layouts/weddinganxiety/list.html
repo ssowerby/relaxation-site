@@ -1,18 +1,12 @@
 {{define "main"}}
-<div class="content">
 {{ with $.Site.Data.wedding }}
-
-<div class="intro">
+<div class="content intro">
    {{ .intro }}
 </div>
 
 {{ range .section }}
-<div>
-   {{ .content }}
-</div>
+   {{ partial "section" . }}
 {{end}}
-
-</div>
 
 {{end}}
 {{end}}
