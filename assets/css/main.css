@@ -183,60 +183,80 @@ body.header-not-at-top #logo {
     transition: width 1s, height 1s
 }
 
+
+.wedding .image {
+   background: url("/images/headshot.jpeg");
+   background-size: cover;
+   aspect-ratio: 2488/3284;
+}
+
 @media (orientation: landscape) and (min-width: 960px) {
 
-    .about {
-        position: relative;
-        background: url("/images/cover.jpg");
-        background-repeat: no-repeat;
-        background-size: cover;
-        width: 100%;
-        min-height: 28vw;
-        aspect-ratio: 683/383;
-        padding-bottom: 28%;
-        box-sizing: border-box;
-    }
+   .about {
+      position: relative;
+      background: url("/images/cover.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 100%;
+      min-height: 28vw;
+      aspect-ratio: 683/383;
+      padding-bottom: 28%;
+      box-sizing: border-box;
+   }
 
-    .about .middle {
-        display: none;
-    }
+   .about .middle {
+      display: none;
+   }
 
-    .about .text {
-        position: absolute;
-        padding: 1em 1.5em;
-        width: 28%;
-        background-color: rgba(255, 255, 255, 0.7);
-        border-radius: 0.5em;
-        right: 2em;
-        top: 5em;
-    }
+   .about .text {
+      position: absolute;
+      padding: 1em 1.5em;
+      width: 28%;
+      background-color: rgba(255, 255, 255, 0.7);
+      border-radius: 0.5em;
+      right: 2em;
+      top: 5em;
+   }
 
-    .about .header {
-        position: absolute;
-        width: 30%;
-        left: 4em;
-        top: 5em;
-        padding: 0;
-        margin: 0;
-    }
+   .about .header {
+      position: absolute;
+      width: 30%;
+      left: 4em;
+      top: 5em;
+      padding: 0;
+      margin: 0;
+   }
 
-    .about .header h1 {
-        padding: 0;
-    }
+   .about .header h1 {
+      padding: 0;
+   }
 
-    .about .header .part1 {
-        font-size: 100%;
-    }
+   .about .header .part1 {
+      font-size: 100%;
+   }
 
-    .about .header .part2::before {
-        content: '\a';
-        white-space: pre;
-    }
+   .about .header .part2::before {
+      content: '\a';
+      white-space: pre;
+   }
 
-    .about .header .part2 {
-        font-size: 125%;
-    }
+   .about .header .part2 {
+      font-size: 125%;
+   }
 
+   .wedding {
+      display: flex;
+      width: 100%;
+   }
+
+   .wedding .image {
+      width: 35%;
+   }
+
+   .wedding .text {
+      padding-left: 2em;
+      flex-grow: 5;
+   }
 }
 
 @media (orientation: portrait), (max-width: 959px) {
@@ -259,6 +279,11 @@ body.header-not-at-top #logo {
     .about .header h1 {
         font-size: 200%;
     }
+
+   .wedding .text {
+      padding-top: 2em;
+   }
+
 }
 
 @media (max-width: 600px) {
@@ -911,33 +936,6 @@ img.circular {
     width: 100%;
     left: 50%;
     transform: translate(-50%, 0%);
-}
-
-.headshot img {
-   max-height: 25vh;
-   object-fit: contain;
-}
-
-.wedding-anxiety {
-   display: grid;
-   grid-auto-columns: 30% 70%;
-}
-
-.wedding-anxiety .headshot {
-   padding-right: 2em;
-}
-
-.wedding-anxiety .wedding-intro {
-   grid-column: 2/2;
-}
-
-.wedding-anxiety .wedding-package {
-   grid-column: 1/3;
-}
-
-.wedding-anxiety img {
-   max-height: 30vh;
-   object-fit: contain;
 }
 
 .clearfix {

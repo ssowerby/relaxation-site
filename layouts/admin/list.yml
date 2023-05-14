@@ -128,3 +128,18 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "section"
+    label: "Page section"
+    files:
+      - label: "Wedding section"
+        name: "wedding"
+        file: "data/wedding.yml"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Intro", name: "intro", widget: "markdown" }
+          - label: Sections
+            name: section
+            widget: list
+            fields:
+              - {label: "Content", name: "content", widget: "markdown" }

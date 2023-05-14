@@ -1,0 +1,5 @@
+title: Test
+intro: "Some stuff"
+section:
+  - { content: "Some content" }
+  - { content: "Some more content" }
