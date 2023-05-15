@@ -9,7 +9,12 @@
    <div class="content-wrapper">
       <div class="content-text">
          <div class="content-outer">
-            <div class="content-inner">{{ .body }}</div>
+            <div class="content-inner">
+               {{ if .heading }}
+               <div class="content-heading"><h3>{{ .heading }}</h3></div>
+               {{ end }}
+               <div class="content-body">{{ .body | markdownify }}</div>
+            </div>
          </div>
       </div>
    </div>

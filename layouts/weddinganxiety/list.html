@@ -1,12 +1,5 @@
 {{define "main"}}
 {{ with $.Site.Data.wedding }}
-<div class="content intro">
-   {{ .intro }}
-</div>
-
-{{ range .section }}
-   {{ partial "section" . }}
-{{end}}
-
+{{ partial "multi-section" . }}
 {{end}}
 {{end}}
