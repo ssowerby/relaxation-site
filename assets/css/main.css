@@ -237,18 +237,27 @@ body.header-not-at-top #logo {
       font-size: 125%;
    }
 
+   .intro.content {
+      padding: 0;
+   }
+
    .intro-content {
       display: flex;
       width: 100%;
+      gap: 2em;
    }
 
    .intro-image {
       width: 35%;
    }
 
+   .intro-image img {
+      display: block;
+   }
+
    .intro-body {
-      padding-left: 2em;
       flex-grow: 5;
+      padding: 3em;
    }
 }
 

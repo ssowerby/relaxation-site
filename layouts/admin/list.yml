@@ -138,9 +138,10 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string", required: true }
           - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Image Position", name: "imgpos", widget: "select", options: ["left", "right"], required: "true", default: "left" }
           - { label: "Intro", name: "intro", widget: "markdown", required: true }
           - label: Sections
-            name: section
+            name: sections
             widget: list
             fields:
               - { label: "Content", name: "body", widget: "markdown", required: true }

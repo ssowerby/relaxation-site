@@ -14,4 +14,4 @@ You may have tried talking differently or taken multiple courses but nothing has
 
 In this one hour FREE session together, using a combination of coaching and visualisation techniques, we’ll gently uncover what’s been keeping you stuck so we can personalise a solution for you.
 
-<a class="cta" href="https://calendly.com/rachelgoth/sessionpackage">Yes, I want to book</a>
+{{< discoverycall "Yes, I want to book">}}
