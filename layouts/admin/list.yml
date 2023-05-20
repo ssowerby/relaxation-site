@@ -136,13 +136,14 @@ collections:
         name: "wedding"
         file: "data/wedding.yml"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Intro", name: "intro", widget: "markdown" }
+          - { label: "Title", name: "title", widget: "string", required: true }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Intro", name: "intro", widget: "markdown", required: true }
           - label: Sections
             name: section
             widget: list
             fields:
-              - { label: "Content", name: "body", widget: "markdown" }
+              - { label: "Content", name: "body", widget: "markdown", required: true }
               - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "circled quote", "bullet left", "bullet right"], required: true }
               - { label: "Background", name: "background", widget: "image", required: false }
               - { label: "Background size", name: "bgsize", default: "cover", widget: "select", options: ["cover", "contain"], required: false }
