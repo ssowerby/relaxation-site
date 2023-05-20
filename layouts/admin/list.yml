@@ -130,9 +130,9 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "section"
-    label: "Page section"
+    label: "Multi-section Pages"
     files:
-      - label: "Wedding section"
+      - label: "Wedding Anxiety"
         name: "wedding"
         file: "data/wedding.yml"
         fields:
