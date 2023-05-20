@@ -1,6 +1,13 @@
 <div class="content intro">
    <h2>{{ .title }}</h2>
-   <div class="intro-body">{{ .intro | markdownify }}</div>
+   <div class="intro-content">
+      {{ if .image }}
+      <div class="intro-image">
+         <img src="{{ .image }}">
+      </div>
+      {{ end }}
+      <div class="intro-body">{{ .intro | markdownify }}</div>
+   </div>
 </div>
 
 {{ range .section }}

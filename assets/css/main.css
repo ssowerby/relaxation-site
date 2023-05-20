@@ -183,13 +183,6 @@ body.header-not-at-top #logo {
     transition: width 1s, height 1s
 }
 
-
-.wedding .image {
-   background: url("/images/headshot.jpeg");
-   background-size: cover;
-   aspect-ratio: 2488/3284;
-}
-
 @media (orientation: landscape) and (min-width: 960px) {
 
    .about {
@@ -244,16 +237,16 @@ body.header-not-at-top #logo {
       font-size: 125%;
    }
 
-   .wedding {
+   .intro-content {
       display: flex;
       width: 100%;
    }
 
-   .wedding .image {
+   .intro-image {
       width: 35%;
    }
 
-   .wedding .text {
+   .intro-body {
       padding-left: 2em;
       flex-grow: 5;
    }
@@ -280,7 +273,7 @@ body.header-not-at-top #logo {
         font-size: 200%;
     }
 
-   .wedding .text {
+   .intro-body {
       padding-top: 2em;
    }
 
