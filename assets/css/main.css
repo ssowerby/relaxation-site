@@ -273,6 +273,14 @@ body.header-not-at-top #logo {
         font-size: 200%;
     }
 
+   .intro-image {
+      text-align: center;
+   }
+
+   .intro-image img {
+      width: 35%;
+   }
+
    .intro-body {
       padding-top: 2em;
    }
