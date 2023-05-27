@@ -1,7 +1,0 @@
-{{ define "main" }}
-
-{{ range (sort (where  .Data.Pages "Params.order" "ge" 0 ) "Params.order") }}
-{{ partial "contentbox" . }}
-{{ end }}
-
-{{end}}

@@ -134,20 +134,24 @@ collections:
     files:
       - label: "Wedding Anxiety"
         name: "wedding"
-        file: "data/wedding.yml"
+        file: "data/weddinganxiety.yml"
         fields:
-          - { label: "Title", name: "title", widget: "string", required: true }
-          - { label: "Image", name: "image", widget: "image", required: false }
-          - { label: "Image Position", name: "imgpos", widget: "select", options: ["left", "right"], required: "true", default: "left" }
-          - { label: "Intro", name: "intro", widget: "markdown", required: true }
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string", required: true }
+              - { label: "Image", name: "image", widget: "image", required: false }
+              - { label: "Image Position", name: "imgpos", widget: "select", options: ["left", "right"], required: "true", default: "left" }
+              - { label: "Content", name: "body", widget: "markdown", required: true }
           - label: Sections
             name: sections
             widget: list
             fields:
               - { label: "Content", name: "body", widget: "markdown", required: true }
               - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "circled quote", "bullet left", "bullet right"], required: true }
+              - { label: "Colour", name: "colour", widget: "select", required: true, options: ["red", "blue", "pink"] }
               - { label: "Background", name: "background", widget: "image", required: false }
               - { label: "Background size", name: "bgsize", default: "cover", widget: "select", options: ["cover", "contain"], required: false }
               - { label: "Quoter", name: "quoter", widget: "image", required: false }
               - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }
-              - { label: "Colour", name: "colour", widget: "color", required: false }

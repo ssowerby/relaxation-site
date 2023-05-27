@@ -1,16 +1,17 @@
-title: Anxiety Relief Coaching for Weddings
-image: /uploads/meclearbackground2.png
-imgpos: right
-intro: >
-  Weddings should be a special time of celebration for families and friends but
-  all too often they can be stressful affairs which rush by in an anxious blur. 
-
-
-  * Managing who sits next to who so there are no arguments.
-
-  * Contemplating standing up to give your speech and sweating just at the thought of it.
-
-  * Feeling a rising sense of panic as you get closer to the day when you’ll stand up in front of friends and family.
+intro:
+  title: Anxiety Relief Coaching for Weddings
+  image: /uploads/meclearbackground2.png
+  imgpos: right
+  body: >
+    Weddings should be a special time of celebration for families and friends but
+    all too often they can be stressful affairs which rush by in an anxious blur. 
+  
+  
+    * Managing who sits next to who so there are no arguments.
+  
+    * Contemplating standing up to give your speech and sweating just at the thought of it.
+  
+    * Feeling a rising sense of panic as you get closer to the day when you’ll stand up in front of friends and family.
 sections:
   - body: >
       Let’s get rid of that anxiety together so you can get back to enjoying
@@ -23,7 +24,7 @@ sections:
 
       * Be confident giving that speech or saying your vows so you can relax on your special day
     style: bullet left
-    colour: "#4f81db"
+    colour: "blue"
     position: 30
     background: /uploads/IMG_20210422_135246_1.jpg
   - body: >-
@@ -45,6 +46,6 @@ sections:
       or email me at [rachel@rachelgoth.com](mailto:rachel@rachelgoth.com)
     heading: Anxiety Relief Wedding Package £199
     style: wedding-package bullet right
-    colour: "#E56A78"
+    colour: pink
     background: /uploads/IMG_20210422_135246_1.jpg
     position: 20

@@ -1,18 +1,3 @@
-{{ $flow := cond (and (isset . "imgpos") (not (eq .imgpos "left"))) (print `flex-direction: row-reverse;`) "" }}
-{{ $attrs := print `style="` $flow `"` }}
-
-<div class="content intro">
-
-   <div class="intro-content"  {{ $attrs | safeHTMLAttr }}>
-      {{ if .image }}
-      <div class="intro-image"><img src="{{ .image }}"></div>
-      {{ end }}
-      <div class="intro-body">
-         <h2>{{ .title }}</h2>
-         {{ .intro | markdownify }}</div>
-   </div>
-</div>
-
 {{ range .sections }}
 {{ partial "section" . }}
 {{end}}

@@ -1,7 +1,0 @@
-{{ define "main" }}
-
-{{ range (sort .Data.Pages "Params.order") }}
-{{ partial "contentbox" . }}
-{{ end }}
-
-{{end}}

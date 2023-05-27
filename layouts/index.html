@@ -1,9 +1,10 @@
 {{ define "main" }}
+{{ with $.Site.Data.home }}
 
 {{ $homeDir := .Site.GetPage "/home" }}
 {{ $matching := $homeDir.Resources.Match "*" }}
 
-<div class="content about">
+<div class="content about" style="--background:url(/images/cover.jpg)">
 
     <div class="header">
         <h1>
@@ -15,15 +16,12 @@
     <div class="middle"></div>
 
     <div class="text">
-        {{ range where $matching "Params.filename" "intro" }}
-            {{ .Content }}
-        {{ end }}
+       {{ .intro.body | markdownify }}
     </div>
 
 </div>
 
-{{ range sort (where $matching "Params.filename" "!=" "intro") "Params.order" }}
-{{ partial "contentbox" . }}
-{{ end }}
+{{ partial "multi-section" . }}
 
+{{ end }}
 {{ end }}
