@@ -24,7 +24,6 @@ collections:
     folder: "content/blog"
     create: true
     summary: "{{ string "&lbrace;&lbrace;title&rbrace;&rbrace; &lbrace;&lbrace;publishDate&rbrace;&rbrace;" | htmlUnescape }}"
-    filter: {field: "visible", value: true}
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
@@ -94,7 +93,7 @@ collections:
         fields:
           - { label: "Content", name: "body", widget: "markdown", required: true }
           - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "circled quote", "bullet left", "bullet right"], required: true }
-          - { label: "Colour", name: "colour", widget: "select", required: true, options: ["red", "blue", "pink"] }
+          - { label: "Colour", name: "colour", widget: "select", required: true, options: ["orange", "blue", "pink"] }
           - { label: "Background", name: "background", widget: "image", required: false }
           - { label: "Background size", name: "bgsize", default: "cover", widget: "select", options: ["cover", "contain"], required: false }
           - { label: "Quoter", name: "quoter", widget: "image", required: false }
