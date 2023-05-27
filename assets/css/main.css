@@ -259,8 +259,11 @@ body.header-not-at-top #logo {
 }
 
 .content {
-   background-size: contain;
    background-repeat: no-repeat;
+}
+
+.content.intro {
+   background-size: contain;
 }
 
 @media (orientation: portrait), (max-width: 959px) {
@@ -890,7 +893,6 @@ img.circular {
         border-radius: 0.5em 5em 5em 0.5em;
     }
 }
-
 
 .content {
     background-size: var(--bgsize,cover);
