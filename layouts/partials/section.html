@@ -4,13 +4,15 @@
 
 {{ $attrs := print `style="` $bg $bgs $quoter ` --position:` (default 0 .position) `"` }}
 
-<div class="content {{ .style }} bg-{{ .colour}}" {{ $attrs | safeHTMLAttr }}>
+{{ $idlink := cond (isset . "name") (print `id="` .name `"`) "" }}
+
+<div {{ $idlink | safeHTMLAttr }} class="content {{ .style }} bg-{{ .colour }}" {{ $attrs | safeHTMLAttr }}>
    <div class="content-wrapper">
       <div class="content-text">
          <div class="content-outer">
             <div class="content-inner">
                {{ if .heading }}
-               <div class="content-heading"><h2>{{ .heading }}</h2></div>
+               <div class="content-heading"><h1>{{ .heading }}</h1></div>
                {{ end }}
                <div class="content-body">{{ .body | markdownify }}</div>
             </div>
