@@ -34,60 +34,6 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Visible", name: "visible", widget: hidden, default: true }
 
-  - name: "text"
-    label: "Home Section"
-    folder: "content/home"
-    identifier_field: "filename"
-    summary: "{{ string "{{slug}}" }}"
-    slug: "{{ string "{{filename}}" }}"
-    create: true
-    fields:
-      - { label: "Name", name: "filename", widget: "string", required: true }
-      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 9999, required: true }
-      - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "circled quote", "bullet left", "bullet right"], required: true }
-      - { label: "Background", name: "background", widget: "image", required: false }
-      - { label: "Background size", name: "bgsize", default: "cover", widget: "select", options: ["cover", "contain"], required: false }
-      - { label: "Quoter", name: "quoter", widget: "image", required: false }
-      - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }
-      - { label: "Colour", name: "colour", widget: "color", required: false }
-      - { label: "Body", name: "body", widget: "markdown", required: true }
-
-  - name: "workwithme"
-    label: "Work With Me"
-    folder: "content/workwithme"
-    identifier_field: "filename"
-    summary: "{{ string "{{slug}}" }}"
-    slug: "{{ string "{{filename}}" }}"
-    create: true
-    fields:
-      - { label: "Name", name: "filename", widget: "string", required: true }
-      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 9999, required: true }
-      - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "circled quote", "bullet left", "bullet right"], required: true }
-      - { label: "Background", name: "background", widget: "image", required: false }
-      - { label: "Background size", name: "bgsize", default: "cover", widget: "select", options: ["cover", "contain"], required: false }
-      - { label: "Quoter", name: "quoter", widget: "image", required: false }
-      - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }
-      - { label: "Colour", name: "colour", widget: "color", required: false }
-      - { label: "Body", name: "body", widget: "markdown", required: true }
-
-  - name: "aboutme"
-    label: "About Me"
-    folder: "content/aboutme"
-    identifier_field: "filename"
-    summary: "{{ string "{{slug}}" }}"
-    slug: "{{ string "{{filename}}" }}"
-    create: true
-    fields:
-      - { label: "Name", name: "filename", widget: "string", required: true }
-      - { label: "Order", name: "order", widget: "number", valueType: "int", min: 1, max: 9999, required: true }
-      - { label: "Style", name: "style", default: "regular", widget: "select", options: ["regular", "inverted", "circled", "circled quote", "bullet left", "bullet right"], required: true }
-      - { label: "Background", name: "background", widget: "image", required: false }
-      - { label: "Background size", name: "bgsize", default: "cover", widget: "select", options: ["cover", "contain"], required: false }
-      - { label: "Quoter", name: "quoter", widget: "image", required: false }
-      - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }
-      - { label: "Colour", name: "colour", widget: "color", required: false }
-      - { label: "Body", name: "body", widget: "markdown", required: true }
-
   - name: "pay"
     label: "Payment"
     folder: "content/pay"
@@ -132,6 +78,7 @@ collections:
   - name: "section"
     label: "Multi-section Pages"
     folder: "data"
+    format: "yml"
     fields:
       - label: "Intro"
         name: "intro"
