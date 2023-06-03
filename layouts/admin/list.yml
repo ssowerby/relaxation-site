@@ -96,5 +96,6 @@ collections:
           - { label: "Colour", name: "colour", widget: "select", required: true, options: ["orange", "blue", "pink"] }
           - { label: "Background", name: "background", widget: "image", required: false }
           - { label: "Background size", name: "bgsize", default: "cover", widget: "select", options: ["cover", "contain"], required: false }
+          - { label: "Sidebar Image", name: "sidebar", widget: "image", required: false }
           - { label: "Quoter", name: "quoter", widget: "image", required: false }
           - { label: "Position", name: "position", widget: "number", valueType: "int", min: 0, max: 100, default: 0, required: false }

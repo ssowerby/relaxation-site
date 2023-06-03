@@ -256,6 +256,31 @@ body.header-not-at-top #logo {
    .content.intro.flow-right {
       background-position-x: right;
    }
+
+   .content-wrapper {
+      display: flex;
+   }
+
+   .content-wrapper div {
+      padding: 0;
+      margin: 0;
+   }
+
+   .content-wrapper .content-sidebar.landscape {
+      width: 25vw;
+      text-align: center;
+   }
+
+   .content-wrapper .content-sidebar.portrait {
+      display: none;
+   }
+
+   .content-sidebar img {
+      object-fit: cover;
+      padding: 0;
+      margin: 0;
+      height: 100%;
+   }
 }
 
 .content {
@@ -296,6 +321,18 @@ body.header-not-at-top #logo {
 
    .intro-body {
       padding-top: 2em;
+   }
+
+   .content-wrapper .content-sidebar.landscape {
+      display: none;
+   }
+
+   .content-wrapper .content-sidebar.portrait {
+      text-align: center;
+   }
+
+   .content-sidebar img {
+      max-height: 50vh;
    }
 
 }
@@ -686,6 +723,7 @@ img.circular {
 }
 
 @media(min-width: 800px) {
+
     .content.circled .content-inner {
         font-size: 120%;
     }
@@ -780,11 +818,13 @@ img.circular {
 
 .content.half-circle.left .content-text {
     margin-left: calc(var(--position,20)*1%);
+    margin-right: calc(var(--padding)*1%);
     border-radius: 100vh 0 0 100vh;
     padding-right: 2em;
 }
 
 .content.half-circle.right .content-text {
+    margin-left: calc(var(--padding)*1%);
     margin-right: calc((100 - var(--position,80))*1%);
     border-radius: 0 100vh 100vh 0;
     padding-left: 2em;
@@ -847,10 +887,12 @@ img.circular {
 
     .content.bullet.left .content-wrapper {
         padding-left: clamp(0vw, calc(var(--position, 40) * 1%), 100%);
+        padding-right: calc(var(--padding)*1%);
     }
 
     .content.bullet.right .content-wrapper {
         padding-right: clamp(0vw, calc(var(--position, 40) * 1%), 100%);
+        padding-left: calc(var(--padding)*1%);
     }
 }
 
@@ -892,10 +934,6 @@ img.circular {
     .content.bullet.right .content-text {
         border-radius: 0.5em 5em 5em 0.5em;
     }
-}
-
-.content {
-    background-size: var(--bgsize,cover);
 }
 
 .content.bullet {
@@ -952,3 +990,4 @@ img.circular {
 .bg-pink .content-text a:link {
    color: black;
 }
+
