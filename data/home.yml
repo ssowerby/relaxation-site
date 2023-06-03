@@ -1,0 +1,132 @@
+title: Home Page
+intro:
+  body: |
+    **Hi I’m Rachel, the voice confidence coach. I help coaches, therapists and teachers learn to love their voice so they can share their message without having to change the way they speak.**
+
+    <div class="centred"><a class="cta" href="/workwithme">Work with me</a></div>
+
+sections:
+  - style: curvy
+    position: 80
+    colour: pink
+    body: |
+      <span class="standout">
+      I can help you to share your message more widely, confidently and with greater ease by learning to love your voice, just as it is.
+      </span>
+  
+      I’m guessing you’re here because you have a burning desire to share what you know with the world and you’re motivated to get past the issue you’re having with your voice and get on with it.
+  
+      You have knowledge and expertise, you know you can help people and the thought of doing so lights you up.
+  
+      You’ve done your training, you know what you want to say, you may even have started sharing your message but it’s in fits and starts. Now it’s time for the final piece of the puzzle - your voice.
+
+  - Xbackground: /uploads/IMG_20210422_135246_1.jpg
+    style: bullet right
+    position: 20
+    colour: orange
+    body: |
+      ## **Discover How To Be Confident In Your Voice**
+    
+      Join me for a FREE session where we’ll make sense of what’s been holding you back when it comes to your voice so you can discover the solution which will work for you.
+    
+      You may have tried talking differently or taken multiple courses but nothing has worked. Because until you know what’s really holding you back you can’t begin to know how to release it.
+    
+      In this 30 minute FREE session together, using a combination of coaching and visualisation techniques, we’ll gently uncover what’s been keeping you stuck so we can personalise a solution for you.
+    
+      {{< discoverycall "Yes, I want to book">}}
+
+  - style: bullet left
+    background: /uploads/IMG_20210731_094749_HDR.jpg
+    colour: blue
+    position: 20
+    body: |
+      ## This is the work you were born to do
+      
+      You’re committed to this path so I’m guessing you’ve probably already tried white knuckling it when it comes to speaking on social media and creating your own videos and audios. You may well have tried to change how you speak yourself or taken courses.
+      
+      It’s nerve racking being recorded when you feel there’s something wrong with your voice. it’s exhausting trying to keep up a fake voice too and it feels even more wrong. 
+      
+      So where does that leave you? In exactly the right place, here.
+
+  - style: circled quote
+    quoter: /uploads/krystle.png
+    position: 50
+    colour: pink
+    body: |
+      ### I became more confident in myself, I became more confident in the power of my voice and I became more confident in really and truly putting myself out there. 
+
+      Krystle
+      
+  - style: bullet right
+    background: /uploads/img_20210804_165611_hdr.jpg
+    position: 20
+    colour: blue
+    body: |
+      ## Changing your voice doesn't work
+
+      You know changing your voice doesn’t work and you know feeling the fear and doing it anyway isn’t a way you want to live. So instead I can help you learn to love your voice as it is right now so you can 
+
+      * Be confident showing up as you
+      * Ad lib with ease
+      * Create recordings in a state of flow
+      * Make your own courses in your natural voice
+
+      These are things my clients are doing within a couple of weeks of working with me.
+
+  - style: bullet left
+    background: /uploads/img_20210804_165611_hdr.jpg
+    position: 20
+    colour: orange
+    body: |
+      ## Do you really need to speak?
+      
+      Well if you're making meditations and audios it's a given. For everything else there's so much choice out there now when in comes to communicating what you have to say. You could write a blog, use images and slides on your social media and trainings. Voice over and lip sync on your videos. But you know if you really want your message to hit home it needs to come from you, directly.
+      
+      One, because we are all nosey. Who didn't want to to know what the Wizard of Oz was like behind the curtain? And two, and more importantly, it builds trust. If you're offering a 1:1 service like coaching or therapy it takes a lot for someone to reach out and ask to work with you. There's a huge element of trust required when someone shares their issues with you.
+      
+      When they get to hear your voice regularly it's a way of potential customers to start to build a relationship with you. There’s nothing so engaging as learning something from someone directly who has a passion for that topic.
+
+  - style: bullet right
+    background: /uploads/IMG_20210731_094749_HDR.jpg
+    position: 50
+    colour: pink
+    body: |
+      ## Voice matters
+      
+      At school what was your favourite subject? I bet it was the one with the most engaging teacher wasn't it? Would have you have been so excited by it if you'd only learned about it from a book? Voice matters.
+      
+      When they get to hear your voice regularly it's a way of potential customers to start to build a relationship with you. There’s nothing so engaging as learning something from someone directly who has a passion for that topic.
+
+  - style: bullet left
+    bgsize: cover
+    colour: blue
+    position: 0
+    body: |
+      ## But nothing has worked for you before, why will this be any different?
+
+      I get that it feels impossible when you’ve tried before but you can do this. My clients have tried brute forcing it with will power or doing other courses and none of it worked for them. 
+
+      But within a couple of weeks of working with me they're already recording videos and audios with more ease. Imagine in just a coupel of weeks from you could be making that course you’ve been thinking about for so long? You can be heard and feel confident doing it.
+
+  - style: bullet right
+    bgsize: cover
+    position: 0
+    colour: pink
+    body: |
+      ## How is this different?
+  
+      What we’re going to do together is different what you’ve done before. We’re not going to try and shoe horn you in to a particular style of speaking because we don’t want you to be a clone of anyone else. We’re going to lean into your natural voice where the magic is so you can get comfortable being you. And it’s you your audience will connect with.      
+
+  - style: bullet left
+    bgsize: cover
+    position: 10
+    colour: orange
+    name: freesession
+    body: |
+      ## **Discover How To Be Confident In Your Voice**
+  
+      <div class="centred">
+      Book your FREE one hour session to uncover what's been keeping you stuck and find the personalised solution for you.
+      </div>
+  
+      {{< discoverycall "Yes, I want to book">}}

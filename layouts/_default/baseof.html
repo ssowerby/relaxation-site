@@ -47,7 +47,7 @@
 
 </head>
 {{ $bodytype := cond .IsHome "home" .Section }}
-<body class="{{ $bodytype }} kind-{{ .Kind }}">
+<body class="{{$bodytype}} kind-{{.Kind}} {{.File.TranslationBaseName}}">
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5K9NMKQ"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -59,9 +59,8 @@
 
 <div class="content-area">
     <div id="topbox" style="visibility: hidden; position: absolute; top: 0px; background-color: red; width:10px; height:10px"></div>
-
     {{ block "main" . }}
-   {{ end }}
+    {{ end }}
 
    <div class="footer content">
       {{ partial "footer" . }}

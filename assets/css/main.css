@@ -185,65 +185,134 @@ body.header-not-at-top #logo {
 
 @media (orientation: landscape) and (min-width: 960px) {
 
-    .about {
-        position: relative;
-        background: url("/images/cover.jpg");
-        background-repeat: no-repeat;
-        background-size: cover;
-        width: 100%;
-        min-height: 28vw;
-        aspect-ratio: 683/383;
-        padding-bottom: 28%;
-        box-sizing: border-box;
-    }
+   .about {
+      position: relative;
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 100%;
+      min-height: 28vw;
+      aspect-ratio: 683/383;
+      padding-bottom: 28%;
+      box-sizing: border-box;
+   }
 
-    .about .middle {
-        display: none;
-    }
+   .about .middle {
+      display: none;
+   }
 
-    .about .text {
-        position: absolute;
-        padding: 1em 1.5em;
-        width: 28%;
-        background-color: rgba(255, 255, 255, 0.7);
-        border-radius: 0.5em;
-        right: 2em;
-        top: 5em;
-    }
+   .about .text {
+      position: absolute;
+      padding: 1em 1.5em;
+      width: 28%;
+      background-color: rgba(255, 255, 255, 0.7);
+      border-radius: 0.5em;
+      right: 2em;
+      top: 5em;
+   }
 
-    .about .header {
-        position: absolute;
-        width: 30%;
-        left: 4em;
-        top: 5em;
-        padding: 0;
-        margin: 0;
-    }
+   .about .header {
+      position: absolute;
+      width: 30%;
+      left: 4em;
+      top: 5em;
+      padding: 0;
+      margin: 0;
+   }
 
-    .about .header h1 {
-        padding: 0;
-    }
+   .about .header h1 {
+      padding: 0;
+   }
 
-    .about .header .part1 {
-        font-size: 100%;
-    }
+   .about .header .part1 {
+      font-size: 100%;
+   }
 
-    .about .header .part2::before {
-        content: '\a';
-        white-space: pre;
-    }
+   .about .header .part2::before {
+      content: '\a';
+      white-space: pre;
+   }
 
-    .about .header .part2 {
-        font-size: 125%;
-    }
+   .about .header .part2 {
+      font-size: 125%;
+   }
 
+   .intro-image {
+      display: none;
+   }
+
+   .intro-wrapper {
+      width: 75%;
+   }
+
+   .content.intro.flow-left .intro-wrapper {
+      position: relative;
+      left: 35%;
+   }
+
+   .content {
+      background-image: var(--background);
+   }
+
+   .content.intro.flow-right {
+      background-position-x: right;
+   }
+
+}
+
+.content {
+   background-repeat: no-repeat;
+}
+
+.content.intro {
+   background-size: contain;
+}
+
+@media (orientation: landscape) {
+
+   .content-wrapper {
+      display: flex;
+   }
+
+   .content-wrapper div {
+      padding: 0;
+      margin: 0;
+   }
+
+   .content-wrapper .content-sidebar.landscape {
+      width: 25vw;
+      text-align: center;
+   }
+
+   .content-wrapper .content-sidebar.portrait {
+      display: none;
+   }
+
+   .content-sidebar img {
+      object-fit: cover;
+      padding: 0;
+      margin: 0;
+      min-height: 100%;
+   }
+}
+
+@media (orientation: portrait) {
+   .content-wrapper .content-sidebar.landscape {
+      display: none;
+   }
+
+   .content-wrapper .content-sidebar.portrait {
+      text-align: center;
+   }
+
+   .content-sidebar img {
+      max-height: 50vh;
+   }
 }
 
 @media (orientation: portrait), (max-width: 959px) {
 
     .about .middle {
-        background: url("/images/cover.jpg");
-        background-repeat: no-repeat;
+        background-image: var(--background);
         background-size: cover;
         width: 100%;
         min-height: 28vw;
@@ -259,6 +328,18 @@ body.header-not-at-top #logo {
     .about .header h1 {
         font-size: 200%;
     }
+
+   .intro-image {
+      text-align: center;
+   }
+
+   .intro-image img {
+      width: 35%;
+   }
+
+   .intro-body {
+      padding-top: 2em;
+   }
 }
 
 @media (max-width: 600px) {
@@ -520,15 +601,6 @@ a.cta:hover {
     padding-bottom: 1em;
 }
 
-.inverted {
-    background-color: rgba(229,106,120,0.9);
-    color: white
-}
-
-div.inverted h2 {
-    color: white;
-}
-
 .text {
    padding-bottom: 2em;
 }
@@ -573,11 +645,9 @@ img.circular {
     box-sizing: content-box;
     width: var(--circle-size);
     height: var(--circle-size);
-    color: white;
     text-align: justify;
     text-justify: inter-word;
     border-radius: calc(var(--circle-size) / 2);
-    background-color: var(--colour,#fa573e);
     padding: 0;
     transform: translateX(-50%);
     left: 50%;
@@ -658,6 +728,7 @@ img.circular {
 }
 
 @media(min-width: 800px) {
+
     .content.circled .content-inner {
         font-size: 120%;
     }
@@ -677,11 +748,9 @@ img.circular {
 }
 
 .content.half-circle .content-text {
-    color: white;
     text-align: justify;
     text-justify: inter-word;
     height: calc(var(--circle-size));
-    background-color: var(--colour, rgb(79, 129, 219));
 }
 
 .content.half-circle .content-inner {
@@ -804,23 +873,6 @@ img.circular {
     z-index: 1;
 }
 
-.content.circled h2,
-.content.half-circle h2,
-.content.inverted h2,
-.content.circled h3,
-.content.half-circle h3,
-.content.inverted h3,
-.content.bullet h1,
-.content.bullet h2,
-.content.bullet h3,
-.content.circled .standout,
-.content.half-circle .standout,
-.content.inverted .standout,
-.content.bullet .standout
-{
-    color: white;
-}
-
 .content.curvy {
     border-radius: 0.5em 0.5em 5em 5em
 }
@@ -857,8 +909,6 @@ img.circular {
 }
 
 .content.bullet .content-text {
-    background-color: var(--colour, rgb(79, 129, 219));
-    color: white;
     width: 100%;
     padding: 2em;
     overflow: clip;
@@ -887,11 +937,6 @@ img.circular {
     }
 }
 
-
-.content {
-    background-size: var(--bgsize,cover);
-}
-
 .content.bullet {
     padding: 0;
     background-image: none;
@@ -918,28 +963,6 @@ img.circular {
    object-fit: contain;
 }
 
-.wedding-anxiety {
-   display: grid;
-   grid-auto-columns: 30% 70%;
-}
-
-.wedding-anxiety .headshot {
-   padding-right: 2em;
-}
-
-.wedding-anxiety .wedding-intro {
-   grid-column: 2/2;
-}
-
-.wedding-anxiety .wedding-package {
-   grid-column: 1/3;
-}
-
-.wedding-anxiety img {
-   max-height: 30vh;
-   object-fit: contain;
-}
-
 .clearfix {
    overflow: auto;
 }
@@ -948,3 +971,24 @@ img.circular {
    clear: both;
    display: table;
 }
+
+.bg-orange .content-text, .bg-orange.curvy {
+   background-color: #fa573e
+}
+
+.content-text, .content-text h1, .content-text h2, .content-text h3, .content-text .standout {
+   color: white
+}
+
+.bg-blue .content-text, .bg-blue.curvy {
+   background-color: #4f81db;
+}
+
+.bg-pink .content-text, .bg-pink.curvy {
+   background-color: #E56A78;
+}
+
+.bg-pink .content-text a:link {
+   color: black;
+}
+

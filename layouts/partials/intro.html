@@ -1,0 +1,18 @@
+{{ with .intro }}
+{{ $bg := cond (and (isset . "image") (not (eq .image ""))) (print `--background: url('` .image `');`) "" }}
+{{ $attrs := print `style="` $bg `"` }}
+
+<div class="content intro flow-{{ .imgpos }}" {{ $attrs | safeHTMLAttr }}>
+   <div class="intro-wrapper">
+      <div class="intro-title">
+         <h2>{{ .title }}</h2>
+      </div>
+      <div class="intro-image">
+         <img src="{{ .image }}" />
+      </div>
+      <div class="intro-body">
+         {{ .body | markdownify }}
+      </div>
+   </div>
+</div>
+{{ end }}

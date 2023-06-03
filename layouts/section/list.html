@@ -1,0 +1,6 @@
+{{define "main"}}
+{{ with (index $.Site.Data .Section) }}
+{{ partial "intro" . }}
+{{ partial "multi-section" . }}
+{{end}}
+{{end}}
