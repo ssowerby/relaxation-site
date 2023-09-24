@@ -12,7 +12,7 @@ collections:
   - name: "testimonial"
     label: "Testimonial"
     folder: "content/testimonials"
-    identifier_field: "author"
+    identifier_field: author
     create: true
     fields:
       - { label: "Author", name: "author", widget: "string" }
@@ -33,14 +33,31 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Visible", name: "visible", widget: hidden, default: true }
 
-  - name: "pay"
+  - name: pay
     label: "Payment"
     folder: "content/pay"
+    identifier_field: name
+    summary: '{{ printf "{{name}}" }}'
+    format: frontmatter
     create: true
     fields:
-      - { label: "Paypal button ID", name: "button", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Price", name: "price", widget: "number", value_type: "float" }
+      - name: title
+        label: Page Title
+        widget: text
+        required: false
+      - name: body
+        label: Introductory Text
+        widget: markdown
+      - name: buttons
+        label: Buttons
+        widget: list
+        summary: '{{ printf "{{description}}" }}'
+        create: true
+        fields:
+          - { label: "Paypal button ID", name: "button", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Additional", name: "additional", widget: "string", required: false }
+          - { label: "Price", name: "price", widget: "number", value_type: "float" }
 
   - name: "faq"
     label: "FAQ"

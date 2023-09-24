@@ -1,12 +1,6 @@
 {{define "main"}}
 <div class="content">
-<h1>Payment</h1>
-
-{{ if (isset .Params "buttons") }}
-   {{ .Scratch.Set "buttons" .Params.buttons }}
-{{ else }}
-   {{ .Scratch.Set "buttons" (slice .Params) }}
-{{ end }}
+<h1>{{ default "Payment" .Title }}</h1>
 
    <script type="text/javascript"> // <![CDATA[
    function paymentSubmit() {
@@ -16,16 +10,20 @@
       }
    } // ]]></script>
 
+   {{ .Content }}
+
    <p><input id="accept" type="checkbox"> I have read and agree to the <a target="_new" href="/pdfs/service_terms.pdf">Terms and Conditions</a></p>
 
    <table>
-      {{ range (.Scratch.Get "buttons") }}
+      {{ range .Params.buttons }}
          <tr>
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" onsubmit="return paymentSubmit();">
                <input type="hidden" name="hosted_button_id" value="{{ .button }}">
                <input type="hidden" name="currency_code" value="GBP" />
                <input type="hidden" name="cmd" value="_s-xclick">
-               <td>{{ .description}}</td>
+               <td>{{ .description}}
+               <br><small>{{ .additional}}</small>
+               </td>
                <td>£{{ .price }}</td>
                <td>
                   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" title="PayPal – The safer, easier way to pay online!" alt="Pay Now">
