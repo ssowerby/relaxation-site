@@ -1,4 +1,5 @@
 <header>
+   {{ if or (not (isset .Params "menu")) (.Params.menu) }}
    <nav role="navigation">
       <input type="checkbox" id="nav" /><label for="nav"></label>
       <ul>
@@ -10,4 +11,5 @@
          <li><a href="/blog/">Blog</a></li>
     </ul>
    </nav>
+   {{ end }}
 </header>

@@ -47,11 +47,9 @@
 
 </head>
 {{ $bodytype := cond .IsHome "home" .Section }}
-<body class="{{$bodytype}} kind-{{.Kind}} {{.File.TranslationBaseName}}">
-<!-- Google Tag Manager (noscript) -->
+<body class="{{$bodytype}} kind-{{.Kind}} {{.File.TranslationBaseName}} {{.Params.style}}">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5K9NMKQ"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 
 {{ partial "menu" . }}
 
