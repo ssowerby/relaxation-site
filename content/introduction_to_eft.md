@@ -10,11 +10,11 @@ Learn how to use this simple, easy, life changing method to help manage your own
 
 Y﻿ou will learn - 
 
-* W﻿hat tapping is
-* H﻿ow it works
+* W﻿hat tapping is and how it works
 * W﻿here and when to use it
 * D﻿ifferent ways to use it
 * D﻿iscreet hacks you can do in public without anyone noticing
+* A﻿nd more!
 
 Hayes, London, Saturday 8th June 11am - 1pm
 
