@@ -16,7 +16,7 @@ Y﻿ou will learn -
 * D﻿iscreet hacks you can do in public without anyone noticing
 * A﻿nd more!
 
-Hayes, London, Saturday 8th June 11am - 1pm
+Hayes, London, Saturday 8th June 11am - 1pm (prebooking essential)
 
 Ticket price: £28
 
