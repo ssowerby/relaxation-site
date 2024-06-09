@@ -60,7 +60,7 @@ It depends on the feedback from participants between sessions.
 
 #### When is it?
 
-Starts 17th April 6.30 - 7.30pm and runs for 6 weeks, finishing 22nd May
+Starts **Wednesday 11th September 2024, 6.30 - 7.30pm**
 
 S﻿essions will be recorded for those who cannot make all the lives.
 
@@ -72,7 +72,7 @@ S﻿essions will be recorded for those who cannot make all the lives.
 
 ## About
 
-Hi, I’m Rachel a coach and clinical hypnotherapist who is passionate about working with people who are stuck in stressed and anxious states to unwind and relax more. Working in the helping profession I’ve noticed there are some people who either don’t want to talk about their issues or can’t and it stops them from getting the help they need. With the Let’s Not Talk About It programme I want to work with those people to get them on the path to healthier mental well being. Because being too stressed or anxious for too long is detrimental to mental well-being and physical health.
+Hi, I’m Rachel a coach, clinical hypnotherapist and EFT practitioner who is passionate about working with people who are stuck in stressed and anxious states to unwind and relax more. Working in the helping profession I’ve noticed there are some people who either don’t want to talk about their issues or can’t and it stops them from getting the help they need. With the Let’s Not Talk About It programme I want to work with those people to get them on the path to healthier mental well being. Because being too stressed or anxious for too long is detrimental to mental well-being and physical health.
 
 - - -
 
