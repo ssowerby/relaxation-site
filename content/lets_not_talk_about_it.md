@@ -46,7 +46,7 @@ The stress and anxiety relief programme for those who don’t want to talk about
 
 It depends on the feedback from participants between sessions.
 
-#### What we won’t be asked to do
+#### What you won’t be asked to do
 
 * Share anything about what’s stressing you out or making you anxious
 * Be on camera. It’s up to you if you want to turn yours off.
