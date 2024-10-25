@@ -16,7 +16,7 @@
     command = "hugo --gc --buildFuture -b $DEPLOY_PRIME_URL"
 
 [[redirects]]
-    from = "/"
-    to = "https://www.practicalmentalfitness.com"
+    from = "/*"
+    to = "https://www.practicalmentalfitness.com/:splat"
     status = 301
     force = true
