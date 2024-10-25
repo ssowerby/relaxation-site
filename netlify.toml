@@ -14,3 +14,9 @@
 
 [context.deploy-preview]
     command = "hugo --gc --buildFuture -b $DEPLOY_PRIME_URL"
+
+[[redirects]]
+    from = "/"
+    to = "https://www.practicalmentalfitness.com"
+    status = 301
+    force = true
